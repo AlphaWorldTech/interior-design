@@ -1,4 +1,4 @@
-<!-- php header code  -->
+<!-- php header code here -->
     <?php include "header.php"; ?>
 
 
@@ -33,7 +33,7 @@
       </div>
     </section>
 
-	  <!-- Section: About -->
+	  <!-- Section: About us -->
     <section>
       <div class="container">
 	   <div class="section-title text-center">
