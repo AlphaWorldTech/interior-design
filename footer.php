@@ -58,7 +58,17 @@ Our aim is to provide our clients with a personalized and customized design that
         </div>      </div>
     </div>
     <div class="footer-bottom bg-black-333">
-      <div class="container pt-20 pb-20">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12">
+            <p class="text-center my-3 text-light">
+            2021 - 2022 © Design & Developed by <a style="color: orangered; text-decoration:none;" href="#">AlphaWorldTech Pvt. Ltd.</a> 
+            <span class="float-end mx-5 text-dark">Powered By <a  style="color: whitesmoke; text-decoration:none;" href="">AWT TEAM</a></span>
+            </p>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="container pt-20 pb-20">
         <div class="row">
           <div class="col-md-6">
             <p class="font-12 m-0 text-white" >Copyright &copy;2021 Alphaworldtech. All Rights Reserved</p>
@@ -74,7 +84,7 @@ Our aim is to provide our clients with a personalized and customized design that
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </footer>
   <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
