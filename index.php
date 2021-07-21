@@ -62,6 +62,7 @@
         <img src="images/bg/bg1.jpg" alt="bg1" />
         <img src="images/bg/bg2.jpg" alt="bg2" />
         <img src="images/bg/bg3.jpg" alt="bg3" />
+        <img src="images/bg/bg4.jpg" alt="bg4" />
       </div>
       <div class="fullscreen-controls"> <a class="img-prev"><i class="pe-7s-angle-left"></i></a> <a class="img-next"><i class="pe-7s-angle-right"></i></a> </div>
     </div>
