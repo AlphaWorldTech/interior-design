@@ -50,6 +50,21 @@
 <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
 <!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
 
+
+<!-- sagar code css links and font awesome link -->
+
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<!-- sagar code css links and font awesome link END -->
+
+
+
 <!-- CSS | Theme Color -->
 <link href="css/colors/theme-skin-blue.css" rel="stylesheet" type="text/css">
 
@@ -90,7 +105,7 @@
         <div class="container">
           <nav id="menuzord-right" class="menuzord blue">
             
-              <img src="images/logo-wide.png" alt="logo">
+              <img src="images/logo.png" alt="logo">
            
             <ul class="menuzord-menu text-black">
             
