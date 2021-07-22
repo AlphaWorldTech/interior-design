@@ -46,11 +46,10 @@ Our aim is to provide our clients with a personalized and customized design that
 			
 			 <p class="font-14 mt-15 mb-10 text-white"> Phone +91 9155532679, 9155532679 </p>
 			 <ul class="social-icons icon-dark mt-20">
-              <li><a target="_blank" href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#05A7E3"><i class="fa fa-pinterest"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#A11312"><i class="fa fa-google-plus"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#C22E2A"><i class="fa fa-youtube"></i></a></li>
+              <li><a target="_blank" href="#" data-bg-color="#3B5998"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a target="_blank" href="#" data-bg-color="#c115c7"><i class="fab fa-instagram"></i></a></li>
+              <li><a target="_blank" href="#" data-bg-color="orangered"><i class="fab fa-youtube"></i></a></li>
+              <li><a target="_blank" href="#" data-bg-color="#128c7e"><i class="fab fa-whatsapp"></i></a></li>
             </ul>
             
           </div>
