@@ -1,35 +1,69 @@
 <!-- php header code here -->
 <?php include "header.php"; ?>
 
+<!-- pop up code sagar  -->
+
+<section class="pop-up">
+  <div id="popup" class="container-fluid ">
+    <div id="popup2" class="container">
+      <div class="row">
+        <div class="modal-header">
+          <h5 class="mx-auto"> Limited for only 10 first purhcases.<span class="bg-danger mx-4 text-light px-2 py-1 rounded ">GET 10% OFF instant </span></h5>
+          <button type="button  mx-5" class="btn-close" onclick="closepopup();"></button>
+        </div>
+        <div class="col-sm-6 my-2">
+          <img class="img-fluid pop-up-img" src="images/photos/my.jpeg" alt="">
+        </div>
+        <div class="col-sm-6 my-2 left px-1 rounded">
+          <h2> Get FREE interior design and furnitures.
+          </h2>
+          <h6 class="text-muted">
+            Urban India design is the best interior & Exterior design firm in Delhi NCR, India. Urban India Design offers a full range of interior, exterior design, modular kitchen and interior architectural services which include planning, designing, project management,
+            Interior & Exterior decorating services, supervising, quality control, best budget monitoring and coordination of the entire project We work passionately with our clients so as to achieve a lavish end result which they cherish
+            for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing
+            services to them. </h6>
+          <h3 class="bg-primary py-2 px-2 text-light rounded">
+            “Your Home should tell the story of who you are, and be a Collection of what you Love.”
+          </h3>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- pop up code end sagar  -->
 <!-- social media section start sagar -->
 
 <div class="my-social-media">
-<nav>
-        <ul>
-            <li>
-                <a href="#">
-                    <i class="fab fa-facebook-f"></i> <span> Facebook</span>
-                </a>
-            </li>
-         
-            <li>
-                <a href="">
-                    <i class="fab fa-instagram"></i> <span> Instagram</span>
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    <i class="fab fa-youtube"></i> <span> Youtube</span>
-                </a>
-            </li>
-            <li>
-                <a href="">
-                    <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
-                </a>
-            </li>
-           
-        </ul>
-    </nav>
+  <nav>
+    <ul>
+      <li>
+        <a href="#">
+          <i class="fab fa-facebook-f"></i> <span> Facebook</span>
+        </a>
+      </li>
+
+      <li>
+        <a href="">
+          <i class="fab fa-instagram"></i> <span> Instagram</span>
+        </a>
+      </li>
+      <li>
+        <a href="">
+          <i class="fab fa-youtube"></i> <span> Youtube</span>
+        </a>
+      </li>
+      <li>
+        <a href="">
+          <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
+        </a>
+      </li>
+
+    </ul>
+  </nav>
 
 </div>
 <!-- social media section end sagar -->
@@ -176,7 +210,7 @@
   </section>
   <!-- bootstarp modal pop up banner  -->
 
-<!-- bootstrap modal pop up banner end  -->
+  <!-- bootstrap modal pop up banner end  -->
 
   <!-- PRoject Number animation start  -->
 
@@ -557,9 +591,12 @@
   var b = 0;
   var c = 0;
   var d = 0;
+  document.querySelector(".my-social-media").style.display="none";
+
 
   function pc() {
     if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+
 
       if (a < 15) {
         a++;
@@ -583,14 +620,26 @@
 
 
   setInterval(pc, 200);
-</script>
-<!-- <script>
-  function myfun(){
-   var x = document.querySelector("#lunch1");
-   x.click();
+
+  function hideSocial() {
+
+    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+
+      document.querySelector(".my-social-media").style.display = "block";
+    } else {
+      document.querySelector(".my-social-media").style.display = "none";
+
+    }
   }
+  setInterval(hideSocial,100);
+</script>
 
-  myfun();
+<script>
 
-</script> -->
+//close button pop up
+  function closepopup() {
+    var x = document.querySelector(".pop-up").style.display = "none";
 
+
+  }
+</script>
