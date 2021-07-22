@@ -3,7 +3,7 @@
 
 <!-- pop up code sagar  -->
 
-<section class="pop-up">
+<section style="display: none;" class="pop-up" >
   <div id="popup" class="container-fluid ">
     <div id="popup2" class="container">
       <div class="row">
@@ -37,8 +37,8 @@
 <!-- pop up code end sagar  -->
 <!-- social media section start sagar -->
 
-<div class="my-social-media">
-  <nav>
+<div  class="my-social-media">
+  <nav >
     <ul>
       <li>
         <a href="#">
@@ -119,10 +119,10 @@
       <div class="section-content">
         <div class="row">
 
-          <div class="col-sm-6 col-md-6">
+          <div data-aos="fade-right" class="col-sm-6 col-md-6">
             <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
           </div>
-          <div class="col-md-6">
+          <div  data-aos="fade-left"  class="col-md-6">
 
 
             <h2 class="text-theme-colored font-30 mt-0">Welcome To The Urban India Designs</h2>
@@ -145,7 +145,7 @@
     <div class="container">
       <div class="section-title text-center">
         <div class="row">
-          <div class="col-md-8 col-md-offset-2">
+          <div  class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase mt-0">Services</h2>
             <div class="title-icon">
               <img class="mb-10" src="images/title-icon.png" alt="title">
@@ -156,7 +156,7 @@
       </div>
       <div class="section-content">
         <div class="row">
-          <div class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div  data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
@@ -168,7 +168,7 @@
               </div>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="fade-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
@@ -180,7 +180,7 @@
               </div>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="fade-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
@@ -192,7 +192,7 @@
               </div>
             </div>
           </div>
-          <div class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="fade-left" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
@@ -265,10 +265,10 @@
             <!-- End Portfolio Filter -->
 
             <!-- Portfolio Gallery Grid -->
-            <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
+            <div data-aos="flip-down" class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
               <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
+              <div  class="gallery-item photography">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -287,7 +287,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item branding photography">
-                <div class="thumb">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -305,8 +305,8 @@
               <!-- Portfolio Item End -->
 
               <!-- Portfolio Item Start -->
-              <div class="gallery-item photography">
-                <div class="thumb">
+              <div  class="gallery-item photography">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/3.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -324,8 +324,8 @@
               <!-- Portfolio Item End -->
 
               <!-- Portfolio Item Start -->
-              <div class="gallery-item interior">
-                <div class="thumb">
+              <div  class="gallery-item interior">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/4.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -344,7 +344,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item interior">
-                <div class="thumb">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/5.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -363,7 +363,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item interior">
-                <div class="thumb">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/6.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -382,7 +382,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item exterior">
-                <div class="thumb">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/7.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -477,7 +477,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item design">
-                <div class="thumb">
+                <div  class="thumb">
                   <img class="img-fullwidth" src="images/gallery/13.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -508,11 +508,11 @@
   <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg3.jpg">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div  class="col-md-12">
           <div class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
             <div class="item">
 
-              <div class="comment">
+              <div  class="comment">
                 <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
                 <h4 class="text-theme-colored">Mr. Manoj Aggarwal</h4>
                 <p>Urban India Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
@@ -635,6 +635,14 @@
 </script>
 
 <script>
+
+setTimeout(function(){ 
+  document.querySelector(".pop-up").style.display = "block";
+
+
+ }, 3000);
+
+
 
 //close button pop up
   function closepopup() {
