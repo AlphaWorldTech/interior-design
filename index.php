@@ -3,7 +3,7 @@
 
 <!-- pop up code sagar  -->
 
-<section style="display: none;" class="pop-up" >
+<section style="display: none;" class="pop-up">
   <div id="popup" class="container-fluid ">
     <div id="popup2" class="container">
       <div class="row">
@@ -14,7 +14,7 @@
         <div class="col-sm-12 my-2">
           <img class="img-fluid pop-up-img" src="images/photos/my.jpeg" alt="">
         </div>
-     
+
       </div>
     </div>
   </div>
@@ -22,45 +22,49 @@
 
 
 <!-- pop up code end sagar  -->
-<!-- social media section start sagar -->
-
-<div  class="my-social-media">
-  <nav >
-    <ul>
-      <li>
-        <a target="_blank" href="https://www.facebook.com/RgDzine">
-          <i class="fab fa-facebook-f"></i> <span> Facebook</span>
-        </a>
-      </li>
-
-      <li>
-        <a target="_blank" href="https://www.instagram.com/rgdzine/">
-          <i class="fab fa-instagram"></i> <span> Instagram</span>
-        </a>
-      </li>
-      <li>
-        <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
-          <i class="fab fa-youtube"></i> <span> Youtube</span>
-        </a>
-      </li>
-      <li>
-        <a target="_blank" href="https://wa.me/+919831037404">
-          <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
-        </a>
-      </li>
-
-    </ul>
-  </nav>
-
-</div>
-<!-- social media section end sagar -->
-
 
 
 <!-- Start main-content -->
 <div class="main-content">
   <!-- Section: home -->
   <!-- Section: home -->
+
+  <!-- social media section start sagar -->
+  <section class=" s">
+  <div class="my-social-media">
+    <nav>
+      <ul>
+        <li>
+          <a target="_blank" href="https://www.facebook.com/RgDzine">
+            <i class="fab fa-facebook-f"></i> <span> Facebook</span>
+          </a>
+        </li>
+
+        <li>
+          <a target="_blank" href="https://www.instagram.com/rgdzine/">
+            <i class="fab fa-instagram"></i> <span> Instagram</span>
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
+            <i class="fab fa-youtube"></i> <span> Youtube</span>
+          </a>
+        </li>
+        <li>
+          <a target="_blank" href="https://wa.me/+919831037404">
+            <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
+          </a>
+        </li>
+
+      </ul>
+    </nav>
+
+  </div>
+</section>
+
+  <!-- social media section end sagar -->
+
+
   <section id="home" class="divider fullscreen" data-bg-img="images/bg/bg7.jpg">
     <div class="maximage-slider">
       <div id="maximage">
@@ -77,10 +81,10 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
               <div class="pb-50 pt-30">
-                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 pt-5 pb-5 rounded">RG DZINE</h3>
-                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-5 pb-5 font-26 rounded">BEST EXTERIOR & INTERIOR DESIGN FIRM IN YOUR CITY</h1>
+                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 py-3 border border-white rounded">RG DZINE</h3>
+                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-4  border border-white pb-4 font-26 rounded">BEST EXTERIOR & INTERIOR DESIGNING FIRM IN KOLKATA</h1>
                 <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p>
-                <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20">View Details</a>
+                <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20 border border-white">View Details</a>
               </div>
             </div>
           </div>
@@ -106,10 +110,10 @@
       <div class="section-content">
         <div class="row">
 
-          <div data-aos="fade-right" class="col-sm-6 col-md-6">
+          <div data-aos="fade-right" style="overflow-x: hidden;"  class="col-sm-6 col-md-6">
             <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
           </div>
-          <div  data-aos="fade-left"  class="col-md-6">
+          <div  data-aos="fade-left" class="col-md-6">
 
 
             <h2 class="text-theme-colored font-30 mt-0">Welcome To The Urban India Designs</h2>
@@ -132,7 +136,7 @@
     <div class="container">
       <div class="section-title text-center">
         <div class="row">
-          <div  class="col-md-8 col-md-offset-2">
+          <div class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase mt-0">Services</h2>
             <div class="title-icon">
               <img class="mb-10" src="images/title-icon.svg" alt="title">
@@ -143,7 +147,7 @@
       </div>
       <div class="section-content">
         <div class="row">
-          <div  data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
@@ -155,7 +159,7 @@
               </div>
             </div>
           </div>
-          <div data-aos="fade-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="zoom-in-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
@@ -167,7 +171,7 @@
               </div>
             </div>
           </div>
-          <div data-aos="fade-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+          <div data-aos="zoom-in-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
@@ -201,9 +205,9 @@
 
   <!-- PRoject Number animation start  -->
 
-  <section>
-    <div class="container-fluid  my-5" data-aos="fade-up" data-aos-duration="3000">
-      <div class="row projectcover">
+  <section data-aos="flip-down">
+    <div class="container-fluid  my-5" >
+      <div class="row projectcover ">
         <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
 
           <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
@@ -236,7 +240,7 @@
 
 
   <!-- Gallery Grid 3 -->
-  <section>
+  <section data-aos="flip-up">
     <div class="container">
       <div class="section-content">
         <div class="row">
@@ -252,10 +256,10 @@
             <!-- End Portfolio Filter -->
 
             <!-- Portfolio Gallery Grid -->
-            <div data-aos="flip-down" class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
+            <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
               <!-- Portfolio Item Start -->
-              <div  class="gallery-item photography">
-                <div  class="thumb">
+              <div class="gallery-item photography">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -274,7 +278,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item branding photography">
-                <div  class="thumb">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -292,8 +296,8 @@
               <!-- Portfolio Item End -->
 
               <!-- Portfolio Item Start -->
-              <div  class="gallery-item photography">
-                <div  class="thumb">
+              <div class="gallery-item photography">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/3.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -311,8 +315,8 @@
               <!-- Portfolio Item End -->
 
               <!-- Portfolio Item Start -->
-              <div  class="gallery-item interior">
-                <div  class="thumb">
+              <div class="gallery-item interior">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/4.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -331,7 +335,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item interior">
-                <div  class="thumb">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/5.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -350,7 +354,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item interior">
-                <div  class="thumb">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/6.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -369,7 +373,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item exterior">
-                <div  class="thumb">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/7.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -464,7 +468,7 @@
 
               <!-- Portfolio Item Start -->
               <div class="gallery-item design">
-                <div  class="thumb">
+                <div class="thumb">
                   <img class="img-fullwidth" src="images/gallery/13.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
@@ -495,11 +499,11 @@
   <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg3.jpg">
     <div class="container">
       <div class="row">
-        <div  class="col-md-12">
+        <div class="col-md-12">
           <div class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
             <div class="item">
 
-              <div  class="comment">
+              <div class="comment">
                 <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
                 <h4 class="text-theme-colored">Mr. Manoj Aggarwal</h4>
                 <p>Urban India Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
@@ -622,19 +626,19 @@
 </script>
 
 <script>
-
-setTimeout(function(){ 
-  document.querySelector(".pop-up").style.display = "block";
-
-
- }, 3000);
+  setTimeout(function(){ 
+    document.querySelector(".pop-up").style.display = "block";
 
 
-
-//close button pop up
-  function closepopup() {
-    var x = document.querySelector(".pop-up").style.display = "none";
+   }, 3000);
 
 
-  }
+
+ // close button pop up
+    function closepopup() {
+      var x = document.querySelector(".pop-up").style.display = "none";
+
+
+    }
+  
 </script>

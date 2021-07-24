@@ -55,6 +55,7 @@
 @media only screen and (max-width: 991px) {
     html {
         font-size: 75%;
+        overflow-x: hidden;
     }
     .navbar-nav .dropdown-menu {
         left: auto;
@@ -66,7 +67,6 @@
     section>.container-fluid {
         padding-bottom: 30px;
     }
-    .divider .container {}
     .header .navbar-default .navbar-nav>li>a::after {
         display: none;
     }
