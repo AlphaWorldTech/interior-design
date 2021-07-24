@@ -42,9 +42,11 @@ Our aim is to provide our clients with a personalized and customized design that
 		  
 		  <p class="font-14 mt-15 mb-10 text-white"> Our Office Address </p>
 		  
-            <p class="font-14 mt-15 mb-10 text-white"> Outer Ring Road Banglore 676750 </p>
+            <p class="font-14 mt-15 mb-10 text-white"> Head Office : GE-138, RAJDANGA MAIN ROAD, SECTOR G,
+EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
 			
 			 <p class="font-14 mt-15 mb-10 text-white"> Phone <a class="text-decoration-none" href="tel:+919155532679">+91 9155532679</a> </p>
+       <p class="font-14 mt-15 mb-10 text-white">Email: <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </p>
 			 <ul class="social-icons icon-dark mt-20">
               <li><a target="_blank" href="https://www.facebook.com/RgDzine" data-bg-color="#3B5998"><i class="fab fa-facebook-f"></i></a></li>
               <li><a target="_blank" href="https://www.instagram.com/rgdzine/" data-bg-color="#c115c7"><i class="fab fa-instagram"></i></a></li>
@@ -94,12 +96,14 @@ Our aim is to provide our clients with a personalized and customized design that
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
 
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> 
 <script>
     AOS.init({
         offset:300,
         duration:1000,
+        disable:'mobile',
     });
+    
 </script>
 
 </body>
