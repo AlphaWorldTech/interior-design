@@ -44,12 +44,12 @@ Our aim is to provide our clients with a personalized and customized design that
 		  
             <p class="font-14 mt-15 mb-10 text-white"> Outer Ring Road Banglore 676750 </p>
 			
-			 <p class="font-14 mt-15 mb-10 text-white"> Phone +91 9155532679, 9155532679 </p>
+			 <p class="font-14 mt-15 mb-10 text-white"> Phone <a class="text-decoration-none" href="tel:+919155532679">+91 9155532679</a> </p>
 			 <ul class="social-icons icon-dark mt-20">
-              <li><a target="_blank" href="#" data-bg-color="#3B5998"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#c115c7"><i class="fab fa-instagram"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="orangered"><i class="fab fa-youtube"></i></a></li>
-              <li><a target="_blank" href="#" data-bg-color="#128c7e"><i class="fab fa-whatsapp"></i></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/RgDzine" data-bg-color="#3B5998"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/rgdzine/" data-bg-color="#c115c7"><i class="fab fa-instagram"></i></a></li>
+              <li><a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured" data-bg-color="orangered"><i class="fab fa-youtube"></i></a></li>
+              <li><a target="_blank"  href="https://wa.me/+919831037404" data-bg-color="#25D366"><i class="fab fa-whatsapp"></i></a></li>
             </ul>
             
           </div>

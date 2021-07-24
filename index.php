@@ -11,23 +11,10 @@
           <h5 class="mx-auto"> Limited for only 10 first purhcases.<span class="bg-danger mx-4 text-light px-2 py-1 rounded ">GET 10% OFF instant </span></h5>
           <button type="button  mx-5" class="btn-close" onclick="closepopup();"></button>
         </div>
-        <div class="col-sm-6 my-2">
+        <div class="col-sm-12 my-2">
           <img class="img-fluid pop-up-img" src="images/photos/my.jpeg" alt="">
         </div>
-        <div class="col-sm-6 my-2 left px-1 rounded">
-          <h2> Get FREE interior design and furnitures.
-          </h2>
-          <h6 class="text-muted">
-            Urban India design is the best interior & Exterior design firm in Delhi NCR, India. Urban India Design offers a full range of interior, exterior design, modular kitchen and interior architectural services which include planning, designing, project management,
-            Interior & Exterior decorating services, supervising, quality control, best budget monitoring and coordination of the entire project We work passionately with our clients so as to achieve a lavish end result which they cherish
-            for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing
-            services to them. </h6>
-          <h3 class="bg-primary py-2 px-2 text-light rounded">
-            “Your Home should tell the story of who you are, and be a Collection of what you Love.”
-          </h3>
-
-        </div>
-
+     
       </div>
     </div>
   </div>
@@ -41,23 +28,23 @@
   <nav >
     <ul>
       <li>
-        <a href="#">
+        <a target="_blank" href="https://www.facebook.com/RgDzine">
           <i class="fab fa-facebook-f"></i> <span> Facebook</span>
         </a>
       </li>
 
       <li>
-        <a href="">
+        <a target="_blank" href="https://www.instagram.com/rgdzine/">
           <i class="fab fa-instagram"></i> <span> Instagram</span>
         </a>
       </li>
       <li>
-        <a href="">
+        <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
           <i class="fab fa-youtube"></i> <span> Youtube</span>
         </a>
       </li>
       <li>
-        <a href="">
+        <a target="_blank" href="https://wa.me/+919831037404">
           <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
         </a>
       </li>
@@ -90,8 +77,8 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
               <div class="pb-50 pt-30">
-                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 pt-5 pb-5 rounded">Rgdzine India Design</h3>
-                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-5 pb-5 font-26 rounded">Best interior & Exterior design firm in kolkata</h1>
+                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 pt-5 pb-5 rounded">RG DZINE</h3>
+                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-5 pb-5 font-26 rounded">BEST EXTERIOR & INTERIOR DESIGN FIRM IN YOUR CITY</h1>
                 <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p>
                 <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20">View Details</a>
               </div>
@@ -110,7 +97,7 @@
           <div class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase mt-0">Who we are</h2>
             <div class="title-icon">
-              <img class="mb-10" src="images/title-icon.png" alt="title">
+              <img class="mb-10" src="images/title-icon.svg" alt="title">
             </div>
             <h5> We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in Delhi NCR. </h5>
           </div>
@@ -148,7 +135,7 @@
           <div  class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase mt-0">Services</h2>
             <div class="title-icon">
-              <img class="mb-10" src="images/title-icon.png" alt="title">
+              <img class="mb-10" src="images/title-icon.svg" alt="title">
             </div>
             <p class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </p>
           </div>
