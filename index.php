@@ -80,11 +80,13 @@
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-              <div class="pb-50 pt-30">
-                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 py-3 border border-white rounded">RG DZINE</h3>
-                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-4  border border-white pb-4 font-26 rounded">BEST EXTERIOR & INTERIOR DESIGNING FIRM IN KOLKATA</h1>
-                <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p>
-                <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20 border border-white">View Details</a>
+              <div class="pb-40 pt-60">
+                <!-- <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 py-3 border border-white rounded">RG DZINE</h3> -->
+                <h1 style="font-family: 'David Libre', serif;" class="text-uppercase text-white mt-0 inline-block fs-1 pl-40 pr-40 pt-5  border-bottom border-light border-2 pb-4 font-58 rounded">BEST EXTERIOR<span style="color:yellow;"> &</span> INTERIOR FIRM <br><span style="color:yellow;">IN KOLKATA</span></h1>
+                <!-- <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p> -->
+                <!-- <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20 border border-white">View Details</a> -->
+                <a href="interior-designing.php" class=" pl-20 pr-20 mt-t"><img src="images/Arrow_Griedent.png" style="height: 130px; width: 150px;margin-top:10px;"></img></a>
+              <!-- bg-theme-colored-transparent -->
               </div>
             </div>
           </div>
@@ -139,7 +141,7 @@
           <div class="col-md-8 col-md-offset-2">
             <h2 class="text-uppercase mt-0">Services</h2>
             <div class="title-icon">
-              <img class="mb-10" src="images/title-icon.svg" alt="title">
+              <img class="" src="images/title-icon.svg" alt="title">
             </div>
             <p class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </p>
           </div>
