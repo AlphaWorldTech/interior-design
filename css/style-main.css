@@ -218,7 +218,7 @@ body {
 
 .my-social-media nav li:nth-child(2) a {
     background: #d6249f;
-  background: radial-gradient(circle at 30% 100%, #fdf497 0%, #fdf497 0%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    background: radial-gradient(circle at 30% 100%, #fdf497 0%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
 }
 
 .my-social-media nav li:nth-child(3) a {
