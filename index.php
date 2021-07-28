@@ -80,12 +80,17 @@
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-              <div class="pb-40 pt-60">
-                <!-- <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 py-3 border border-white rounded">RG DZINE</h3> -->
-                <h1 style="font-family: 'David Libre', serif;" class="text-uppercase text-white mt-0 inline-block fs-1 pl-40 pr-40 pt-5  border-bottom border-light border-2 pb-4 font-58 rounded">BEST EXTERIOR<span style="color:yellow;"> &</span> INTERIOR FIRM <br><span style="color:yellow;">IN KOLKATA</span></h1>
+              <div class="pb-4 pt-4">
+                <h3 style="font-family: 'David Libre', serif;" class=" fw-bold banner_text text-uppercase text-white  font-30 inline-block pl-30 pr-30 mb-5 py-3 border-bottom border-white rounded">BEST EXTERIOR <span style="color: yellow;">&</span>  INTERIOR FIRM <br>
+<span style="color: yellow;" >IN KOLKATA</span> </h3> <br>
+                <!-- <h1 style="font-family: 'David Libre', serif;" class="text-uppercase text-white mt-0 inline-block fs-1 pl-4 pr-4 pt-5  border-bottom border-light border-2 pb-4 font-58 rounded">BEST EXTERIOR<span style="color:yellow;"> &</span> INTERIOR FIRM <br><span style="color:yellow;">IN KOLKATA</span></h1> -->
                 <!-- <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p> -->
-                <!-- <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20 border border-white">View Details</a> -->
-                <a href="interior-designing.php" class=" pl-20 pr-20 mt-t"><img src="images/Arrow_Griedent.png" style="height: 130px; width: 150px;margin-top:10px;"></img></a>
+                 <a href="interior-designing.php" > 
+
+                  <img src="images/arrow/arrow1.png" class="banner_png img-fluid" alt="">
+
+                 </a> 
+                
               <!-- bg-theme-colored-transparent -->
               </div>
             </div>
@@ -101,11 +106,11 @@
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase mt-0">Who we are</h2>
+            <h2 style="font-family: 'David Libre', serif;" class="text-uppercase fw-bold mt-0">Who we are</h2>
             <div class="title-icon">
               <img class="mb-10" src="images/title-icon.svg" alt="title">
             </div>
-            <h5> We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in Delhi NCR. </h5>
+            <h5 style="font-family: 'David Libre', serif; font-weight:400;"> We specializing in exclusive, cost-effective and luxurious interior design, detailing, and space planning in India. </h5>
           </div>
         </div>
       </div>
@@ -118,13 +123,18 @@
           <div  data-aos="fade-left" class="col-md-6">
 
 
-            <h2 class="text-theme-colored font-30 mt-0">Welcome To The Urban India Designs</h2>
+            <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0">Welcome To RG DEZINE</h2>
 
-            <p class="text-black">Urban India design is the best interior & Exterior design firm in Delhi NCR, India. Urban India Design offers a full range of interior, exterior design, modular kitchen and interior architectural services which include planning, designing, project management, Interior & Exterior decorating services, supervising, quality control, best budget monitoring and coordination of the entire project</p>
-            <p class="text-black">We work passionately with our clients so as to achieve a lavish end result which they cherish for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless </p>
+            <p  style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">RG DZINE is the best exterior and interior 
+					    designing firm in Kolkata. We also 
+					    provide services in other parts of West 
+					    Bengal ( Durgapur, Howrah, Prulia, etc.),
+					    Bihar, Uttar Pradesh, and Delhi.</p>
+            <p  style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> <span class="fw-bold h4">RG DZINE</span> 
+Wants to positively influence the lives of all clients with whom we have the delight of working and left a good impression on their needs and imagination.  </p>
 
-            <p class="text-black">We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing services to them. </p>
-            <a class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
+            <p  style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"><span class="fw-bold h4">RG DZINE</span>  offers clients the lowest possible prices, best available choices, and supreme convenience. Our best design must inspire and uplift the hearts and minds of all those who lay eyes on them. Our long term goal is to create a better every day life for many people.</p>
+            <a  style="font-family: 'David Libre', serif; font-weight:400;" class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
           </div>
 
         </div>
@@ -139,11 +149,11 @@
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase mt-0">Services</h2>
+            <h2  style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">Services</h2>
             <div class="title-icon">
               <img class="" src="images/title-icon.svg" alt="title">
             </div>
-            <p class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </p>
+            <p  style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </p>
           </div>
         </div>
       </div>
@@ -153,8 +163,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
-                <h3 class="text-theme-colored">Office Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
@@ -165,8 +175,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
-                <h3 class="text-theme-colored">Interior Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
@@ -177,8 +187,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
-                <h3 class="text-theme-colored">Exterior Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
@@ -189,8 +199,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
-                <h3 class="text-theme-colored">Modular Kitchen</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
+                <p style="font-family: 'David Libre', serif; " >We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
@@ -212,23 +222,19 @@
       <div class="row projectcover ">
         <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
 
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                    font-family: 'Quicksand', sans-serif;"> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
           <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-          <h2 class="text text-center  mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+          <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
           <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
           <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3  my-3">
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
           <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
         </div>
 
@@ -249,11 +255,11 @@
           <div class="col-md-12">
             <!-- Portfolio Filter -->
             <div class="portfolio-filter">
-              <a href="#" class="active" data-filter="*">All</a>
-              <a href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
-              <a href="#interior" class="" data-filter=".interior">Interior Design</a>
-              <a href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
-              <a href="#design" class="" data-filter=".design">Office Design</a>
+              <a style="font-family: 'David Libre', serif; " href="#" class="" data-filter="*">All</a>
+              <a style="font-family: 'David Libre', serif; " href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
+              <a style="font-family: 'David Libre', serif; " href="#interior" class="" data-filter=".interior">Interior Design</a>
+              <a style="font-family: 'David Libre', serif; " href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
+              <a style="font-family: 'David Libre', serif; " href="#design" class="" data-filter=".design">Office Design</a>
             </div>
             <!-- End Portfolio Filter -->
 
@@ -591,16 +597,16 @@
     if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
 
 
-      if (a < 15) {
+      if (a < 200) {
         a++;
       }
-      if (b < 11) {
+      if (b < 195) {
         b++;
       }
-      if (c < 15) {
+      if (c < 140) {
         c++;
       }
-      if (d < 13) {
+      if (d < 45) {
         d++;
       }
     }
@@ -612,7 +618,7 @@
   }
 
 
-  setInterval(pc, 200);
+  setInterval(pc, 50);
 
   function hideSocial() {
 
@@ -628,11 +634,11 @@
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
