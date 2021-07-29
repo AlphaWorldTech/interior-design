@@ -634,11 +634,11 @@ Wants to positively influence the lives of all clients with whom we have the del
 </script>
 
 <script>
-  // setTimeout(function(){ 
-  //   document.querySelector(".pop-up").style.display = "block";
+  setTimeout(function(){ 
+    document.querySelector(".pop-up").style.display = "block";
 
 
-  //  }, 3000);
+   }, 3000);
 
 
 
