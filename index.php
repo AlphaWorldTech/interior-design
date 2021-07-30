@@ -36,23 +36,23 @@
       <ul>
         <li>
           <a target="_blank" href="https://www.facebook.com/RgDzine">
-            <i class="fab fa-facebook-f"></i> <span> Facebook</span>
+            <i style="margin-left:4px;" class="fab fa-facebook-f"></i> <span> Facebook</span>
           </a>
         </li>
 
         <li>
           <a target="_blank" href="https://www.instagram.com/rgdzine/">
-            <i class="fab fa-instagram"></i> <span> Instagram</span>
+            <i style="font-size:30px; margin-top:-3px; margin-left:-2px;" class="fab fa-instagram"></i> <span> Instagram</span>
           </a>
         </li>
         <li>
           <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
-            <i class="fab fa-youtube"></i> <span> Youtube</span>
+            <i style="margin-left:-2px" class="fab fa-youtube"></i> <span> Youtube</span>
           </a>
         </li>
         <li>
           <a target="_blank" href="https://wa.me/+919831037404">
-            <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
+            <i style="font-size:30px; margin-top:-4px; margin-left:-2px;" class="fab fa-whatsapp"></i> <span> WhatsApp</span>
           </a>
         </li>
 
@@ -72,6 +72,7 @@
         <img src="images/bg/bg2.jpg" alt="bg2" />
         <img src="images/bg/bg3.jpg" alt="bg3" />
         <img src="images/bg/bg4.jpg" alt="bg4" />
+        <img src="images/bg/bg5.jpg" alt="bg5" />
       </div>
       <div class="fullscreen-controls"> <a class="img-prev"><i class="pe-7s-angle-left"></i></a> <a class="img-next"><i class="pe-7s-angle-right"></i></a> </div>
     </div>
@@ -634,11 +635,11 @@ Wants to positively influence the lives of all clients with whom we have the del
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
@@ -649,4 +650,6 @@ Wants to positively influence the lives of all clients with whom we have the del
 
     }
   
+
+
 </script>
