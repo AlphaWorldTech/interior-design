@@ -136,7 +136,7 @@
           <div class="container">
             <nav id="menuzord-right" class="menuzord blue">
 
-              <img src="images/logo.png" alt="logo">
+              <img class="pot1 " src="images/logo.png" alt="logo">
 
               <ul class="menuzord-menu text-black">
 
@@ -185,7 +185,7 @@
                 <li><a href="our-portfolio.php">OUR PORTFOLIO</a></li>
                 <li><a href="faq.php">FAQ'S</a></li>
                 <li><a href="about-us.php">ABOUT US</a></li>
-                <li><a href="contact-us.php">CONTACT US</a></li>
+                <li class="fw-bold"><a href="contact-us.php">GET A QUOTE</a></li>
 
 
 
@@ -205,3 +205,21 @@
   </div>
   </div>
   </header>
+
+  <script>
+
+$(function() {
+    var pot = $(".pot1");
+
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+        if (scroll >= 80) {
+            pot.addClass("pot");
+        } else {
+            pot.removeClass("pot");
+           
+        }
+    });
+});
+
+  </script>

@@ -46,11 +46,11 @@ Our aim is to provide our clients with a personalized and customized design that
 EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
 			
 			 <p class="font-14 mt-15 mb-10 text-white"> Phone <a class="text-decoration-none" href="tel:+919155532679">+91 9155532679</a> </p>
-       <p class="font-14 mt-15 mb-10 text-white">Email: <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </p>
+       <p class="font-14 mt-15 mb-10 text-white">Email: <a class="text-decoration-none" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </p>
 			 <ul class="social-icons icon-dark mt-20">
-              <li><a target="_blank" href="https://www.facebook.com/RgDzine" data-bg-color="#3B5998"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a target="_blank" href="https://www.instagram.com/rgdzine/" data-bg-color="#c115c7"><i class="fab fa-instagram"></i></a></li>
-              <li><a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured" data-bg-color="orangered"><i class="fab fa-youtube"></i></a></li>
+              <li><a target="_blank" href="https://www.facebook.com/RgDzine" data-bg-color="#4267B2"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a target="_blank" href="https://www.instagram.com/rgdzine/" style="background: radial-gradient(circle at 30% 100%, #fdf497 0%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285AEB 90%);"><i class="fab fa-instagram"></i></a></li>
+              <li><a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured" data-bg-color="red"><i class="fab fa-youtube"></i></a></li>
               <li><a target="_blank"  href="https://wa.me/+919831037404" data-bg-color="#25D366"><i class="fab fa-whatsapp"></i></a></li>
             </ul>
             
