@@ -2137,7 +2137,8 @@ section>.container-fluid {
 }
 
 .header-nav.navbar-transparent.animated-active {
-    background-color: rgba(0, 0, 0, 0.5);
+    /* background-color: rgba(255, 0, 0, 0.5); */
+    background-color: transparent !important;
 }
 
 .header .header-nav .header-nav-wrapper .container nav ul li a {

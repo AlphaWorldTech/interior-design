@@ -82,13 +82,13 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
               <div class="pb-4 pt-4">
-                <h3 style="font-family: 'David Libre', serif;" class=" fw-bold banner_text text-uppercase text-white  font-30 inline-block pl-30 pr-30 mb-5 py-3 border-bottom border-white rounded">BEST EXTERIOR <span style="color: yellow;">&</span>  INTERIOR FIRM <br>
+                <h3 id="hero" style="font-family: 'David Libre', serif;" class=" fw-bold banner_text text-uppercase text-white  font-30 inline-block pl-30 pr-30 mb-5 py-3 border-bottom border-white rounded">BEST EXTERIOR <span style="color: yellow;">&</span>  INTERIOR FIRM <br>
 <span style="color: yellow;" >IN KOLKATA</span> </h3> <br>
                 <!-- <h1 style="font-family: 'David Libre', serif;" class="text-uppercase text-white mt-0 inline-block fs-1 pl-4 pr-4 pt-5  border-bottom border-light border-2 pb-4 font-58 rounded">BEST EXTERIOR<span style="color:yellow;"> &</span> INTERIOR FIRM <br><span style="color:yellow;">IN KOLKATA</span></h1> -->
                 <!-- <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p> -->
                  <a href="interior-designing.php" > 
 
-                  <img src="images/arrow/arrow1.png" class="banner_png img-fluid" alt="">
+                  <!-- <img src="images/arrow/arrow1.png" class="banner_png img-fluid" alt=""> -->
 
                  </a> 
                 
@@ -635,11 +635,11 @@ Wants to positively influence the lives of all clients with whom we have the del
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
@@ -650,6 +650,17 @@ Wants to positively influence the lives of all clients with whom we have the del
 
     }
   
+
+    new TypeIt("#hero", {
+  speed: 100,
+  startDelay: 900
+})
+  // .type("", {delay: 500})
+  // .move(-8, {speed: 15, delay: 100})
+
+
+  
+  .go();
 
 
 </script>
