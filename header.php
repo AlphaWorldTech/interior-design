@@ -120,8 +120,11 @@
       border-bottom: 2px solid black;
     }
     </style> -->
+    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+
 
     <link href="css/awt.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body>

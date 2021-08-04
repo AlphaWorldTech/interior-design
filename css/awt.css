@@ -8,7 +8,7 @@ a:hover {
 
 .banner_text {
     font-size: 50px !important;
-    margin-top: 10%;
+    margin-top: 55%;
     font-family: 'David Libre', serif;
 }
 
@@ -355,4 +355,13 @@ nav {
 .social-icons a {
     border-radius: 20px;
     padding-top: 2px;
+}
+
+
+/* Media Query Screen 600 max width  */
+
+@media only screen and (max-width: 600px) {
+    .banner_text {
+        font-size: 32px !important;
+    }
 }
