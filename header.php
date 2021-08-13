@@ -124,8 +124,14 @@
 
 
     <link href="css/awt.css" rel="stylesheet" type="text/css">
+    <style>
+      .pot2{
+        display: none;
+      }
+    </style>
 
 </head>
+
 
 <body>
   <div id="wrapper">
@@ -139,7 +145,8 @@
           <div class="container">
             <nav id="menuzord-right" class="menuzord blue">
 
-              <img class="pot1 " src="images/logo.png" alt="logo">
+              <img class="pot1 py-2" src="images/logo.png" alt="logo">
+              <img class="pot2 py-2" src="images/logo/logo.png" alt="logo">
 
               <ul class="menuzord-menu text-black">
 
@@ -210,19 +217,19 @@
   </header>
 
   <script>
+  
+// $(function() {
+//     var pot = $(".pot1");
 
-$(function() {
-    var pot = $(".pot1");
-
-    $(window).scroll(function() {
-        var scroll = $(window).scrollTop();
-        if (scroll >= 80) {
-            pot.addClass("pot");
-        } else {
-            pot.removeClass("pot");
+//     $(window).scroll(function() {
+//         var scroll = $(window).scrollTop();
+//         if (scroll >= 80) {
+//             pot.addClass("pot");
+//         } else {
+//             pot.removeClass("pot");
            
-        }
-    });
-});
+//         }
+//     });
+// });
 
   </script>

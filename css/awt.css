@@ -296,7 +296,8 @@ body {
 
 /* logo animation  */
 
-.pot {
+
+/* .pot {
     position: absolute;
     -webkit-animation: linear infinite alternate;
     animation-iteration-count: 1;
@@ -315,11 +316,23 @@ body {
     100% {
         left: -280px;
     }
+} */
+
+.pot1 {
+    margin-left: -10%;
 }
 
+.pot2 {
+    margin-left: -10%;
+    height: 106px;
+    width: 90px;
+}
+
+
+/* 
 nav {
     height: 80px;
-}
+} */
 
 
 /* logo animation end  */
@@ -358,10 +371,34 @@ nav {
 }
 
 
+/* slider image  */
+
+.slide-img {
+    height: 900px !important;
+}
+
+
+/* my span title blue */
+
+.myspan {
+    color: #285AEB;
+}
+
+
 /* Media Query Screen 600 max width  */
 
 @media only screen and (max-width: 600px) {
     .banner_text {
         font-size: 32px !important;
+    }
+    .pot1 {
+        margin-left: 0%;
+    }
+    .slide-img {
+        height: 400px !important;
+    }
+    .pot2 {
+        height: 106px;
+        width: 90px;
     }
 }
