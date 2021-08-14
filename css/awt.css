@@ -72,7 +72,7 @@
     /* project number section start **sagar*/
     
     .projectcover {
-        background-color: #fed03d;
+        background-color: #36454f;
         min-height: 300px !important;
     }
     
@@ -81,7 +81,7 @@
         animation-duration: 4s;
         animation-iteration-count: infinite;
         animation-timing-function: ease-in-out;
-        color: darkslategray !important;
+        color: rgb(35, 163, 163) !important;
     }
     
     @keyframes floating {
@@ -406,5 +406,14 @@ nav {
         .pot2 {
             height: 106px;
             width: 90px;
+        }
+    }
+    
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
+        .pot1 {
+            margin-left: 2% !important;
+        }
+        .pot2 {
+            margin-left: 2% !important;
         }
     }
