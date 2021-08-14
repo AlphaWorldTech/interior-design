@@ -121,11 +121,11 @@
       <img src="images/bg/bg5.jpg"  class="d-block w-100 slide-img" alt="...">
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+  <button  class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+  <button onclick="runslide();" id="slidenextbutton" class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
@@ -155,7 +155,7 @@
         <div data-aos="fade-left" class="col-md-6">
 
 
-          <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0">Welcome To <span class="myspan">RG DZINE</span> </h2>
+          <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0 ">Welcome To <span class="myspan">RG DZINE</span> </h2>
 
           <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">RG DZINE is the best exterior and interior
             designing firm in Kolkata. We also
@@ -176,12 +176,12 @@
 
 
 <!-- Section: Pricing -->
-<section id="pricing" data-bg-img="images/pattern/p4.png">
-  <div class="container">
+<section id="pricing" class="service-bg" data-bg-img="images/pattern/p4.png">
+  <div class="container ">
     <div class="section-title text-center">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
-          <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">Services</h1>
+        <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 myspan">Services</h1>
           <div class="title-icon">
             <img class="" src="images/title-icon.svg" alt="title">
           </div>
@@ -240,6 +240,42 @@
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="our-clients">
+  <div class="container">
+  <div class="section-title text-center">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+        <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
+          <div class="title-icon">
+            <img class="" src="images/title-icon.svg" alt="title">
+          </div>
+          <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      
+      <div class="col-sm-3 ">
+          <img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
+      </div>
+      <div class="col-sm-3 ">
+      <img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
+
+</div>
+<div class="col-sm-3 ">
+<img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
+
+</div>
+<div class="col-sm-3">
+<img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
+
+</div>
+
+
     </div>
   </div>
 </section>
@@ -536,7 +572,7 @@
 </section>
 
 <!-- Section: Testimonials -->
-<section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/">
+<section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg1.jpg">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -692,4 +728,13 @@
 
 
   // .go();
+function runslide()
+{
+  var btn = document.getElementById("slidenextbutton");
+  btn.click();
+}
+
+setInterval(runslide,4000);
+
+
 </script>
