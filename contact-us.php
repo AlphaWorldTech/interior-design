@@ -21,7 +21,7 @@
   </section>
 
   <!-- GET A QUOTE SECTION START -->
-  <section class="working">
+  <section id="working" class="working">
 
     <div class="container">
       <div class="row">
@@ -32,25 +32,25 @@
         </div>
         <div class="row my-5">
           <div id='Residence' class="col-sm-3 mx-auto" onclick="working_select(Residence)">
-            <h2 class="text-center"> <a href="#">Residence</a> </h2>
+            <h2 class="text-center"> <a href="#property">Residence</a> </h2>
           </div>
           <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
-            <h2 class="text-center"> <a href="#">Ofiice</a></h2>
+            <h2 class="text-center"> <a href="#property">Ofiice</a></h2>
           </div>
           <div style="border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto" onclick="working_select(Hotel)">
-            <h2 class="text-center"> <a href="#">Hotel</a></h2>
+            <h2 class="text-center"> <a href="#property">Hotel</a></h2>
           </div>
 
         </div>
         <div class="row ">
           <div class="col-sm-3 mx-auto" id='Showroom' onclick="working_select(Showroom)">
-            <h2 class="text-center"> <a href="#">Showroom</a></h2>
+            <h2 class="text-center"> <a href="#property">Showroom</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='Restaurant' onclick="working_select(Restaurant)">
-            <h2 class="text-center"> <a href="#">Restaurant</a></h2>
+            <h2 class="text-center"> <a href="#property">Restaurant</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='Shop' onclick="working_select(Shop)">
-            <h2 class="text-center"> <a href="#">Shop</a></h2>
+            <h2 class="text-center"> <a href="#property">Shop</a></h2>
           </div>
 
         </div>
@@ -62,7 +62,7 @@
 
   <section class="working">
 
-    <div class="container">
+    <div id="property" class="container">
       <div class="row">
         <div class="col-sm-12">
           <h1 class="text-center">
@@ -71,26 +71,26 @@
         </div>
         <div class="row my-5">
           <div class="col-sm-3 mx-auto">
-            <h2 class="text-center"><a href="#" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
+            <h2 class="text-center"><a href="#budget" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
           </div>
           <div style="  border-radius: 30px; 
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
-            <h2 class="text-center"> <a href="#">500 - 1000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#budget">500 - 1000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
-            <h2 class="text-center"> <a href="#"> 1000 - 1500 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#budget"> 1000 - 1500 Sqft</a></h2>
           </div>
 
         </div>
         <div class="row ">
           <div class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
-            <h2 class="text-center"> <a href="#">1500 - 2000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#budget">1500 - 2000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
-            <h2 class="text-center"> <a href="#">2000 - 3000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#budget">2000 - 3000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
-            <h2 class="text-center"> <a href="#">More than 3000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#budget">More than 3000 Sqft</a></h2>
           </div>
 
         </div>
@@ -110,28 +110,28 @@
 
           </h1>
         </div>
-        <div class="row my-5">
+        <div id="budget" class="row my-5">
           <div style="  border-radius: 30px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
-            <h2 class="text-center"> <a href="#">Upto 10 lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form">Upto 10 lakh</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id="upto20" onclick="budget(upto20)">
-            <h2 class="text-center"> <a href="#"> 10lakh - 20lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form"> 10lakh - 20lakh</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id="upto30" onclick="budget(upto30)">
-            <h2 class="text-center"> <a href="#">20lakh - 30lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form">20lakh - 30lakh</a></h2>
           </div>
 
         </div>
         <div class="row ">
           <div class="col-sm-3 mx-auto" id="upto40" onclick="budget(upto40)">
-            <h2 class="text-center"> <a href="#">30lakh - 40lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form">30lakh - 40lakh</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id="upto50" onclick="budget(upto50)">
-            <h2 class="text-center"> <a href="#">40lakh - 50lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form">40lakh - 50lakh</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id="more50" onclick="budget(more50)">
-            <h2 class="text-center"> <a href="#">More than 50lakh</a></h2>
+            <h2 class="text-center"> <a href="#contact_form">More than 50lakh</a></h2>
           </div>
 
         </div>
