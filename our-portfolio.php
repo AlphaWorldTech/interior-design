@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">Our Portfolio</h1>
+              <h1 class="font-32 text-theme-colored heading-txt">Our Portfolio</h1>
              
             </div>
           </div>
@@ -27,11 +27,11 @@
             <div class="col-md-12">
               <!-- Portfolio Filter -->
               <div class="portfolio-filter">
-                <a href="#" class="active" data-filter="*">All</a>
-				<a href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
-                <a href="#interior" class="" data-filter=".interior">Interior Design</a>
-                <a href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
-                <a href="#design" class="" data-filter=".design">Office Design</a>
+                <a href="#" class="btn-default active" data-filter="*">All</a>
+				<a href="#photography" class="btn-default" data-filter=".photography">Modular Kitchen</a>
+                <a href="#interior" class="btn-default" data-filter=".interior">Interior Design</a>
+                <a href="#exterior" class="btn-default" data-filter=".exterior">Exterior Designn</a>
+                <a href="#design" class="btn-default" data-filter=".design">Office Design</a>
               </div>
               <!-- End Portfolio Filter -->
 
@@ -399,3 +399,32 @@
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script>
+  function showlogo() {
+    document.querySelector(".menuzord-menu").style.marginTop = -100 +
+      "px";
+
+    var mq = window.matchMedia("(max-width: 570px)");
+    if (mq.matches) {
+      document.querySelector(".pot1").style.display = "block";
+      document.querySelector(".pot2").style.display = "none";
+    } else {
+      // window width is greater than 570px
+      if (scrollY > 64) {
+        // alert("hello");
+        document.querySelector(".pot1").style.display = "block";
+        document.querySelector(".pot2").style.display = "none";
+
+      } else {
+        document.querySelector(".pot1").style.display = "none";
+        document.querySelector(".pot2").style.display = "block";
+
+
+      }
+    }
+
+  }
+
+  setInterval(showlogo, 100);
+</script> 

@@ -200,7 +200,7 @@
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
-                <a class="btn btn-colored btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
               </div>
             </div>
           </div>
@@ -212,7 +212,7 @@
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
-                <a class="btn btn-colored btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
               </div>
             </div>
           </div>
@@ -224,7 +224,7 @@
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
-                <a class="btn btn-colored btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
               </div>
             </div>
           </div>
@@ -236,7 +236,7 @@
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
-                <a class="btn btn-colored btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
               </div>
             </div>
           </div>
