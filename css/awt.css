@@ -434,6 +434,10 @@ nav {
         .pot2 {
             margin-left: 2% !important;
         }
+        .bg-deep {
+            margin-top: 15px;
+            width: 1024px !important;
+        }
     }
     /* Footer Area  */
     
@@ -457,4 +461,34 @@ nav {
         position: relative !important;
         overflow: hidden !important;
         width: 100% !important;
+    }
+    /* Button color #36454f  */
+    
+    .menuzord.blue .menuzord-menu>li.active>a,
+    .menuzord.blue .menuzord-menu>li:hover>a,
+    .menuzord.blue .menuzord-menu ul.dropdown li:hover>a {
+        border-bottom: 2px solid #DCA44B !important;
+        /* background-color: transparent !important; */
+        border-radius: 10px;
+        color: lightslategrey !important;
+    }
+    
+    .menuzord.blue .menuzord-menu li a,
+    .menuzord.blue .menuzord-menu li a,
+    .menuzord.blue .menuzord-menu ul .dropdown li a {
+        /* border-bottom: 2px solid #DCA44B !important; */
+        background-color: transparent !important;
+        /* color: #36454f !important; */
+        /* border-radius: 10px;
+        color: lightslategrey; */
+    }
+    
+    .btn-default {
+        color: white !important;
+        background-color: #36454f !important;
+    }
+    
+    .heading-txt {
+        color: white !important;
+        font-size: 80px !important;
     }

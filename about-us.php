@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">About Us</h1>
+              <h1 class="font-32 text-theme-colored heading-txt">About Us</h1>
              
             </div>
           </div>
@@ -55,3 +55,32 @@ We place absolute importance on understanding the particular needs and wishes of
   
   <!-- php header code  -->
     <?php include "footer.php"; ?>
+
+    <script>
+  function showlogo() {
+    document.querySelector(".menuzord-menu").style.marginTop = -100 +
+      "px";
+
+    var mq = window.matchMedia("(max-width: 570px)");
+    if (mq.matches) {
+      document.querySelector(".pot1").style.display = "block";
+      document.querySelector(".pot2").style.display = "none";
+    } else {
+      // window width is greater than 570px
+      if (scrollY > 64) {
+        // alert("hello");
+        document.querySelector(".pot1").style.display = "block";
+        document.querySelector(".pot2").style.display = "none";
+
+      } else {
+        document.querySelector(".pot1").style.display = "none";
+        document.querySelector(".pot2").style.display = "block";
+
+
+      }
+    }
+
+  }
+
+  setInterval(showlogo, 100);
+</script>
