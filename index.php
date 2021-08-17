@@ -64,7 +64,7 @@
 
   <!-- social media section end sagar -->
 
-<!-- 
+  <!-- 
   <section id="home" class="divider fullscreen" data-bg-img="images/bg/bg7.jpg">
     <div class="maximage-slider">
       <div id="maximage">
@@ -102,545 +102,607 @@
     </div> 
 </section> -->
 
-<section>
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="images/bg/bg1.jpg" class="d-block w-100 slide-img" alt="...">
+  <section>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/bg/bg1.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg2.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg3.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg4.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg5.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button onclick="runslide();" id="slidenextbutton" class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
-    <div class="carousel-item">
-      <img src="images/bg/bg2.jpg" class="d-block w-100 slide-img" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="images/bg/bg3.jpg"  class="d-block w-100 slide-img" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="images/bg/bg4.jpg" class="d-block w-100 slide-img" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="images/bg/bg5.jpg"  class="d-block w-100 slide-img" alt="...">
-    </div>
-  </div>
-  <button  class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button onclick="runslide();" id="slidenextbutton" class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
-</section>
+  </section>
 
-<!-- Section: About us -->
-<section>
-  <div class="container">
-    <div class="section-title text-center">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-          <h2 style="font-family: 'David Libre', serif;" class="text-uppercase fw-bold mt-0">Who <span class="myspan">we are</span> </h2>
-          <div class="title-icon">
-            <img class="mb-10" src="images/title-icon.svg" alt="title">
+  <!-- Section: About us -->
+  <section>
+    <div class="container">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h2 style="font-family: 'David Libre', serif;" class="text-uppercase fw-bold mt-0">Who <span class="myspan">we are</span> </h2>
+            <div class="title-icon">
+              <img class="mb-10" src="images/title-icon.svg" alt="title">
+            </div>
+            <h4 style="font-family: 'David Libre', serif; font-weight:400;"> We specializing in exclusive, cost-effective and luxurious interior design, detailing, and space planning in India. </h4>
           </div>
-          <h4 style="font-family: 'David Libre', serif; font-weight:400;"> We specializing in exclusive, cost-effective and luxurious interior design, detailing, and space planning in India. </h4>
         </div>
       </div>
-    </div>
-    <div class="section-content">
-      <div class="row">
+      <div class="section-content">
+        <div class="row">
 
-        <div data-aos="fade-right" style="overflow-x: hidden;" class="col-sm-6 col-md-6">
-          <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
-        </div>
-        <div data-aos="fade-left" class="col-md-6">
-
-
-          <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0 ">Welcome To <span class="myspan">RG DZINE</span> </h2>
-
-          <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">RG DZINE is the best exterior and interior
-            designing firm in Kolkata. We also
-            provide services in other parts of West
-            Bengal ( Durgapur, Howrah, Prulia, etc.),
-            Bihar, Uttar Pradesh, and Delhi.</p>
-          <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> <span class="fw-bold h4">RG DZINE</span>
-            Wants to positively influence the lives of all clients with whom we have the delight of working and left a good impression on their needs and imagination. </p>
-
-          <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"><span class="fw-bold h4">RG DZINE</span> offers clients the lowest possible prices, best available choices, and supreme convenience. Our best design must inspire and uplift the hearts and minds of all those who lay eyes on them. Our long term goal is to create a better every day life for many people.</p>
-          <a style="font-family: 'David Libre', serif; font-weight:400;" class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
-        </div>
-
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<!-- Section: Pricing -->
-<section id="pricing" class="service-bg" data-bg-img="images/pattern/p4.png">
-  <div class="container ">
-    <div class="section-title text-center">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-        <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 myspan">Services</h1>
-          <div class="title-icon">
-            <img class="" src="images/title-icon.svg" alt="title">
+          <div data-aos="fade-right" style="overflow-x: hidden;" class="col-sm-6 col-md-6">
+            <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
           </div>
-          <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4>
+          <div data-aos="fade-left" class="col-md-6">
+
+
+            <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0 ">Welcome To <span class="myspan">RG DZINE</span> </h2>
+
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">RG DZINE is the best exterior and interior
+              designing firm in Kolkata. We also
+              provide services in other parts of West
+              Bengal ( Durgapur, Howrah, Prulia, etc.),
+              Bihar, Uttar Pradesh, and Delhi.</p>
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> <span class="fw-bold h4">RG DZINE</span>
+              Wants to positively influence the lives of all clients with whom we have the delight of working and left a good impression on their needs and imagination. </p>
+
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"><span class="fw-bold h4">RG DZINE</span> offers clients the lowest possible prices, best available choices, and supreme convenience. Our best design must inspire and uplift the hearts and minds of all those who lay eyes on them. Our long term goal is to create a better every day life for many people.</p>
+            <a style="font-family: 'David Libre', serif; font-weight:400;" class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
+          </div>
+
         </div>
       </div>
     </div>
-    <div class="section-content">
-      <div class="row">
-        <div data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
-          <div class="pricing-table style1 bg-white-light border-10px text-center">
-            <div class=" pb-30">
-              <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
-              <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
-              <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+  </section>
 
 
-              <a class="btn btn-colored btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
+
+  <!-- Section: Pricing -->
+  <section id="pricing" class="service-bg" data-bg-img="images/pattern/p4.png">
+    <div class="container ">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 myspan">Services</h1>
+            <div class="title-icon">
+              <img class="" src="images/title-icon.svg" alt="title">
+            </div>
+            <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4>
+          </div>
+        </div>
+      </div>
+      <div class="section-content">
+        <div class="row">
+          <div data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+
+
+                <a class="btn btn-colored btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="zoom-in-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+
+
+                <a class="btn btn-colored btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="zoom-in-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+
+
+                <a class="btn btn-colored btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="fade-left" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+
+
+                <a class="btn btn-colored btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
+              </div>
             </div>
           </div>
         </div>
-        <div data-aos="zoom-in-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
-          <div class="pricing-table style1 bg-white-light border-10px text-center">
-            <div class=" pb-30">
-              <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
-              <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
-              <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+      </div>
+    </div>
+  </section>
 
-
-              <a class="btn btn-colored btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
+  <section class="our-clients">
+    <div class="container">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
+            <div class="title-icon">
+              <img class="title"  src="images/title-icon.svg" alt="title">
             </div>
-          </div>
-        </div>
-        <div data-aos="zoom-in-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
-          <div class="pricing-table style1 bg-white-light border-10px text-center">
-            <div class=" pb-30">
-              <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
-              <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
-              <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
-
-
-              <a class="btn btn-colored btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
-            </div>
-          </div>
-        </div>
-        <div data-aos="fade-left" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
-          <div class="pricing-table style1 bg-white-light border-10px text-center">
-            <div class=" pb-30">
-              <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
-              <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
-              <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
-
-
-              <a class="btn btn-colored btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
-            </div>
+            <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</section>
-
-<section class="our-clients">
-  <div class="container">
-  <div class="section-title text-center">
       <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-        <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
-          <div class="title-icon">
-            <img class="" src="images/title-icon.svg" alt="title">
+
+        <div class="col-sm-3 ">
+          <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img " alt="">
+        </div>
+        <div class="col-sm-3 ">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+        <div class="col-sm-3 ">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+        <div class="col-sm-3">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+
+
+      </div>
+    </div>
+  </section>
+  <!-- bootstarp modal pop up banner  -->
+
+  <!-- bootstrap modal pop up banner end  -->
+
+  <!-- PRoject Number animation start  -->
+
+  <!-- <section data-aos="flip-down">
+    <div class="container-fluid  my-5">
+      <div class="row projectcover ">
+        <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
+
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+          <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
+        </div>
+        <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+          <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+          <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
+        </div>
+        <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+          <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
+        </div>
+        <div class="col-sm-3 col-md-3 col-lg-3  my-3">
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+          <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
+        </div>
+
+      </div>
+    </div>
+  </section> -->
+
+  <!-- Project Complete Section  -->
+
+  <section class="project-complete">
+
+    <div style="background-color: rgba(0, 0, 0, 0.58); background-position: center center; background-repeat: no-repeat; background-blend-mode: multiply; padding: 0px 30px; border-top: 0px solid rgb(234, 233, 233); border-bottom: 0px solid rgb(234, 233, 233); border-right-color: rgb(234, 233, 233); border-left-color: rgb(234, 233, 233); background-size: cover; position: relative; overflow: hidden; z-index: 1; background-image: none;" data-bg="images/project/img.jpg">
+      <div class="parallax-inner lazyloaded" data-bg="images/project/img.jpg" style=" width:3556px; margin-left:9%;   background-image: url('images/project/img.jpg'); pointer-events: none; width: 100%; height: 100%; overflow:hidden; position: absolute; z-index: -1; top: 0px; left: 0px; opacity: 1; background-repeat: no-repeat; background-size: cover; background-color: rgba(0, 0, 0, 0.58); background-blend-mode: multiply; background-image: url(&quot;images/project/img.jpg&quot;); min-height: 800px; transform: translate3d(-151.683px, -2px, 0px);"></div>
+      <div class="fusion-builder-row fusion-row ">
+        <div  style="margin-top:0px;margin-bottom:0px;">
+          <div  style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+            <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
+                <path d="M0 0 C55 180 100 0 100 0 Z"></path>
+              </svg></div>
+            <div class="fusion-clearfix"></div>
+
           </div>
-          <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
+        </div>
+        <div class="" style="margin-top:100px;margin-bottom:55px;">
+          <div class="fusion-column-wrapper row" style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+
+            
+              <div class="container-fluid  my-5">
+                <div class="row projectcover ">
+                  <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
+
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+                    <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                    <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+                    <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+                    <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3  my-3">
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+                    <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
+                  </div>
+
+                </div>
+              </div>
+         
+            
+
+          </div>
+        </div>
+        <div  style="margin-top:0px;margin-bottom:0px;">
+          <div  style="background-color: rgba(109, 109, 109, 0); padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+            <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
+                <path d="M0 100 C40 0 60 0 100 100 Z"></path>
+              </svg></div>
+            <div class="fusion-clearfix"></div>
+
+          </div>
         </div>
       </div>
     </div>
-    <div class="row">
-      
-      <div class="col-sm-3 ">
-          <img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
+
+  </section>
+  <!-- PRoject Number animation End -->
+
+
+
+
+
+  <!-- Gallery Grid 3 -->
+  <section data-aos="flip-up">
+    <div class="container">
+      <div class="section-content">
+        <div class="row">
+          <div class="col-md-12">
+            <!-- Portfolio Filter -->
+            <div class="portfolio-filter">
+              <a style="font-family: 'David Libre', serif; " href="#" class="" data-filter="*">All</a>
+              <a style="font-family: 'David Libre', serif; " href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
+              <a style="font-family: 'David Libre', serif; " href="#interior" class="" data-filter=".interior">Interior Design</a>
+              <a style="font-family: 'David Libre', serif; " href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
+              <a style="font-family: 'David Libre', serif; " href="#design" class="" data-filter=".design">Office Design</a>
+            </div>
+            <!-- End Portfolio Filter -->
+
+            <!-- Portfolio Gallery Grid -->
+            <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item photography">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Modular Kitchen</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/1.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item branding photography">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Modular Kitchen</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/2.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item photography">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/3.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Modular Kitchen</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/3.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item interior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/4.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Interior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/4.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item interior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/5.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Interior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/5.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item interior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/6.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Interior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/6.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item exterior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/7.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Exterior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/7.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item exterior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/8.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Exterior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/8.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item exterior">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/9.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Exterior Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/9.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item design">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/11.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Office Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/11.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item design">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/12.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Office Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/12.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+              <!-- Portfolio Item Start -->
+              <div class="gallery-item design">
+                <div class="thumb">
+                  <img class="img-fullwidth" src="images/gallery/13.jpg" alt="project">
+                  <div class="overlay-shade"></div>
+                  <div class="text-holder">
+                    <div class="title text-center">Office Design</div>
+                  </div>
+                  <div class="icons-holder">
+                    <div class="icons-holder-inner">
+                      <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
+                        <a href="images/gallery/13.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- Portfolio Item End -->
+
+
+            </div>
+            <!-- End Portfolio Gallery Grid -->
+
+          </div>
+        </div>
       </div>
-      <div class="col-sm-3 ">
-      <img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
-
-</div>
-<div class="col-sm-3 ">
-<img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
-
-</div>
-<div class="col-sm-3">
-<img src="images/client/client1.png" class="img-fluid mx-4 py-4 " alt="">
-
-</div>
-
-
     </div>
-  </div>
-</section>
-<!-- bootstarp modal pop up banner  -->
+  </section>
 
-<!-- bootstrap modal pop up banner end  -->
-
-<!-- PRoject Number animation start  -->
-
-<section data-aos="flip-down">
-  <div class="container-fluid  my-5">
-    <div class="row projectcover ">
-      <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
-
-        <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
-        <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
-      </div>
-      <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-        <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
-        <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
-      </div>
-      <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-        <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
-        <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
-      </div>
-      <div class="col-sm-3 col-md-3 col-lg-3  my-3">
-        <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
-        <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
-      </div>
-
-    </div>
-  </div>
-</section>
-<!-- PRoject Number animation End -->
-
-
-
-
-
-<!-- Gallery Grid 3 -->
-<section data-aos="flip-up">
-  <div class="container">
-    <div class="section-content">
+  <!-- Section: Testimonials -->
+  <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/footer.png">
+    <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <!-- Portfolio Filter -->
-          <div class="portfolio-filter">
-            <a style="font-family: 'David Libre', serif; " href="#" class="" data-filter="*">All</a>
-            <a style="font-family: 'David Libre', serif; " href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
-            <a style="font-family: 'David Libre', serif; " href="#interior" class="" data-filter=".interior">Interior Design</a>
-            <a style="font-family: 'David Libre', serif; " href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
-            <a style="font-family: 'David Libre', serif; " href="#design" class="" data-filter=".design">Office Design</a>
-          </div>
-          <!-- End Portfolio Filter -->
+          <div  class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
+            <div class="item">
 
-          <!-- Portfolio Gallery Grid -->
-          <div class="gallery-isotope grid-3 gutter-small clearfix" data-lightbox="gallery">
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item photography">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Modular Kitchen</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/1.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
+              <div class="comment">
+                <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
+                <h4 class="text-theme-colored">Mr. Manoj Aggarwal</h4>
+                <p>Urban India Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
+                </p>
               </div>
-            </div>
-            <!-- Portfolio Item End -->
 
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item branding photography">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Modular Kitchen</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/2.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
+            </div>
+            <div class="item">
+
+              <div class="comment">
+                <img class="img-circle" alt="Mrs Shilpa" src="images/testimonials/s2.jpg">
+                <h4 class="text-theme-colored">Mrs Shilpa</h4>
+                <p>Their service is fine and my overall experience has been good with these guys. Although a delay of 1-2 day happened on my project , but i think that happens to anybody as redesign is a tedious job. They are genuine and affordable i got 6 quotations but their quote was the cheapest and i am totally satisfied with their work and would recommend them to others as well.
+
+                </p>
               </div>
-            </div>
-            <!-- Portfolio Item End -->
 
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item photography">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/3.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Modular Kitchen</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/3.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
+            </div>
+            <div class="item">
+
+              <div class="comment">
+                <img class="img-circle" alt="Mr. Gagan Khurana" src="images/testimonials/s3.jpg">
+                <h4 class="text-theme-colored">Mr. Gagan Khurana</h4>
+                <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to Urban India Design&#8230;great work!
+
+                </p>
               </div>
-            </div>
-            <!-- Portfolio Item End -->
 
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item interior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/4.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Interior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/4.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
+            </div>
+
+            <div class="item">
+
+              <div class="comment">
+                <img class="img-circle" alt="Mr. Shubahm jain" src="images/testimonials/s4.jpg">
+                <h4 class="text-theme-colored">Mr. Shubahm jain</h4>
+                <p>The training room at Mervyn Lambert is a vast improvement and fantastic addition to the facilities. The layout works well for small groups with the room having sufficient heating and ventilation for a comfortable learning environment all year round. Consideration has been given to the ability to control light levels so the projector is always bright and clear, even in brilliant sunshine.
+
+
+                </p>
               </div>
-            </div>
-            <!-- Portfolio Item End -->
 
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item interior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/5.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Interior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/5.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
+            </div>
+            <div class="item">
+
+              <div class="comment">
+                <img class="img-circle" alt="Mr. Anil aggarwal" src="images/testimonials/s5.jpg">
+                <h4 class="text-theme-colored">Mr. Anil aggarwal</h4>
+                <p>Have just spent three enjoyable days at Southwold watching Royal Ascot and I wanted you to know how much I appreciate all you have done to make this an exceptional home. The interior design, furniture, carpets, fittings etc display a a flair which I have seldom seen in interior designers before. It is so in keeping with the property, the location and what we need for the house for - a family holiday home.
+
+
+
+                </p>
               </div>
-            </div>
-            <!-- Portfolio Item End -->
 
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item interior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/6.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Interior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/6.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
             </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item exterior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/7.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Exterior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/7.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item exterior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/8.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Exterior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/8.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item exterior">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/9.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Exterior Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/9.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item design">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/11.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Office Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/11.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item design">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/12.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Office Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/12.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
-            <!-- Portfolio Item Start -->
-            <div class="gallery-item design">
-              <div class="thumb">
-                <img class="img-fullwidth" src="images/gallery/13.jpg" alt="project">
-                <div class="overlay-shade"></div>
-                <div class="text-holder">
-                  <div class="title text-center">Office Design</div>
-                </div>
-                <div class="icons-holder">
-                  <div class="icons-holder-inner">
-                    <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-                      <a href="images/gallery/13.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- Portfolio Item End -->
-
 
           </div>
-          <!-- End Portfolio Gallery Grid -->
-
         </div>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- Section: Testimonials -->
-<section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg1.jpg">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
-          <div class="item">
-
-            <div class="comment">
-              <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
-              <h4 class="text-theme-colored">Mr. Manoj Aggarwal</h4>
-              <p>Urban India Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
-              </p>
-            </div>
-
-          </div>
-          <div class="item">
-
-            <div class="comment">
-              <img class="img-circle" alt="Mrs Shilpa" src="images/testimonials/s2.jpg">
-              <h4 class="text-theme-colored">Mrs Shilpa</h4>
-              <p>Their service is fine and my overall experience has been good with these guys. Although a delay of 1-2 day happened on my project , but i think that happens to anybody as redesign is a tedious job. They are genuine and affordable i got 6 quotations but their quote was the cheapest and i am totally satisfied with their work and would recommend them to others as well.
-
-              </p>
-            </div>
-
-          </div>
-          <div class="item">
-
-            <div class="comment">
-              <img class="img-circle" alt="Mr. Gagan Khurana" src="images/testimonials/s3.jpg">
-              <h4 class="text-theme-colored">Mr. Gagan Khurana</h4>
-              <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to Urban India Design&#8230;great work!
-
-              </p>
-            </div>
-
-          </div>
-
-          <div class="item">
-
-            <div class="comment">
-              <img class="img-circle" alt="Mr. Shubahm jain" src="images/testimonials/s4.jpg">
-              <h4 class="text-theme-colored">Mr. Shubahm jain</h4>
-              <p>The training room at Mervyn Lambert is a vast improvement and fantastic addition to the facilities. The layout works well for small groups with the room having sufficient heating and ventilation for a comfortable learning environment all year round. Consideration has been given to the ability to control light levels so the projector is always bright and clear, even in brilliant sunshine.
-
-
-              </p>
-            </div>
-
-          </div>
-          <div class="item">
-
-            <div class="comment">
-              <img class="img-circle" alt="Mr. Anil aggarwal" src="images/testimonials/s5.jpg">
-              <h4 class="text-theme-colored">Mr. Anil aggarwal</h4>
-              <p>Have just spent three enjoyable days at Southwold watching Royal Ascot and I wanted you to know how much I appreciate all you have done to make this an exceptional home. The interior design, furniture, carpets, fittings etc display a a flair which I have seldom seen in interior designers before. It is so in keeping with the property, the location and what we need for the house for - a family holiday home.
-
-
-
-              </p>
-            </div>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+  </section>
 
 
 </div>
@@ -728,13 +790,15 @@
 
 
   // .go();
-function runslide()
-{
-  var btn = document.getElementById("slidenextbutton");
-  btn.click();
-}
+  function runslide() {
+    var btn = document.getElementById("slidenextbutton");
+    var btn2 = document.querySelector(".owl-next");
+    btn.click();
+    btn2.click();
+  }
 
-setInterval(runslide,4000);
+  setInterval(runslide, 4000);
 
+  
 
 </script>

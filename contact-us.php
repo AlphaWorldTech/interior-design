@@ -31,26 +31,25 @@
           </h1>
         </div>
         <div class="row my-5">
-          <div  class="col-sm-3 mx-auto">
+          <div id='Residence'  class="col-sm-3 mx-auto" onclick="working_select(Residence)">
             <h2 class="text-center"> <a href="#">Residence</a> </h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
             <h2 class="text-center"> <a href="#">Ofiice</a></h2>
           </div>
-          <div style="  border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto">
+          <div style= "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto"  onclick="working_select(Hotel)">
             <h2 class="text-center"> <a href="#">Hotel</a></h2>
           </div>
 
         </div>
         <div class="row ">
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id='Showroom'  onclick="working_select(Showroom)">
             <h2 class="text-center"> <a href="#">Showroom</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto"  id='Restaurant'  onclick="working_select(Restaurant)">
             <h2 class="text-center"> <a href="#">Restaurant</a></h2>
           </div>
-          <div  class="col-sm-3 mx-auto">
+          <div  class="col-sm-3 mx-auto"  id='Shop'  onclick="working_select(Shop)">
             <h2 class="text-center"> <a href="#">Shop</a></h2>
           </div>
 
@@ -72,25 +71,25 @@
         </div>
         <div class="row my-5">
           <div class="col-sm-3 mx-auto">
-            <h2 class="text-center"><a href="#">Upto 500 Sqft</a> </h2>
+            <h2 class="text-center"><a href="#" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
           </div>
-          <div  style="  border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto">
+          <div  style="  border-radius: 30px; 
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
             <h2 class="text-center"> <a href="#">500 - 1000 Sqft</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
             <h2 class="text-center"> <a href="#"> 1000 - 1500 Sqft</a></h2>
           </div>
 
         </div>
         <div class="row ">
-          <div  class="col-sm-3 mx-auto">
+          <div  class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
             <h2 class="text-center"> <a href="#">1500 - 2000 Sqft</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
             <h2 class="text-center"> <a href="#">2000 - 3000 Sqft</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
             <h2 class="text-center"> <a href="#">More than 3000 Sqft</a></h2>
           </div>
 
@@ -113,25 +112,25 @@
         </div>
         <div class="row my-5">
           <div  style="  border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto">
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
             <h2 class="text-center"> <a href="#">Upto 10 lakh</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id="upto20" onclick="budget(upto20)">
             <h2 class="text-center"> <a href="#"> 10lakh - 20lakh</a></h2>
           </div>
-          <div  class="col-sm-3 mx-auto">
+          <div  class="col-sm-3 mx-auto" id="upto30" onclick="budget(upto30)">
             <h2 class="text-center"> <a href="#">20lakh - 30lakh</a></h2>
           </div>
 
         </div>
         <div class="row ">
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id="upto40" onclick="budget(upto40)">
             <h2 class="text-center"> <a href="#">30lakh - 40lakh</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id="upto50" onclick="budget(upto50)">
             <h2 class="text-center"> <a href="#">40lakh - 50lakh</a></h2>
           </div>
-          <div class="col-sm-3 mx-auto">
+          <div class="col-sm-3 mx-auto" id="more50" onclick="budget(more50)">
             <h2 class="text-center"> <a href="#">More than 50lakh</a></h2>
           </div>
 
@@ -162,7 +161,7 @@
 <h3 class="mt-0 mb-30">Interested in discussing?</h3>
 
 <!-- Contact Form -->
-<form id="contact_form" name="contact_form" class="" action="quickmail.php" method="post">
+<form id="contact_form" name="contact_form" class="" action="mail_send.php" method="post">
   <div class="row">
     <div class="col-sm-12">
       <div class="form-group">
@@ -177,6 +176,9 @@
       <div class="form-group">
         <label for="form_email">Email <small>*</small></label>
         <input id="form_email" name="email" class="form-control required email" type="email" placeholder="Enter Email">
+        <input id="working" name="working" class="form-control required email" type="hidden" value="Hotel">
+        <input id="property" name="property" class="form-control required email" type="hidden" value="500 - 1000 Sqft">
+        <input id="budget" name="budget" class="form-control required email" type="hidden" value="Upto 10 lakh">
       </div>
     </div>
     <div class="col-sm-6">
@@ -192,7 +194,7 @@
   </div>
   <div class="form-group">
     <input id="form_botcheck" name="form_botcheck" class="form-control" type="hidden" value="" />
-    <button type="submit" class="btn btn-dark btn-theme-colored btn-flat">Send your message</button>
+    <button type="submit" name='mail_click' value="clicked" class="btn btn-dark btn-theme-colored btn-flat">Send your message</button>
   </div>
 </form>
 <!-- Contact Form Validation-->
@@ -244,6 +246,50 @@
 <?php include "footer.php"; ?>
 
 <script>
+
+function working_select(data)
+{
+    
+    document.getElementById('working').value=data.innerText;
+    document.getElementById('Residence').style= "";
+    document.getElementById('Ofiice').style= "";
+    document.getElementById('Hotel').style= "";
+    document.getElementById('Showroom').style= "";
+    document.getElementById('Restaurant').style= "";
+    document.getElementById('Shop').style= "";
+   
+    document.getElementById(data.innerText).style= "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
+
+}
+
+function property_area(data)
+{
+    document.getElementById('property').value=data.innerText;
+    document.getElementById('upto500').style= "";
+    document.getElementById('upto500_1000').style= "";
+    document.getElementById('upto1000_1500').style= "";
+    document.getElementById('upto1500_2000').style= "";
+    document.getElementById('upto2000_300').style= "";
+    document.getElementById('more3000').style= "";
+   
+    document.getElementById(data.id).style= "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
+    
+    
+}
+function budget(data)
+{
+    document.getElementById('budget').value=data.innerText;
+    document.getElementById('upto10').style= "";
+    document.getElementById('upto50').style= "";
+    document.getElementById('upto20').style= "";
+    document.getElementById('upto30').style= "";
+    document.getElementById('upto40').style= "";
+    document.getElementById('more50').style= "";
+   
+    document.getElementById(data.id).style= "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
+    
+    
+}
 
 
 function showlogo(){

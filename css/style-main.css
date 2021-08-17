@@ -9201,7 +9201,7 @@ blockquote p {
 }
 
 .footer-box .title {
-    color: #fff;
+    color: #fff !important;
     margin-bottom: 5px;
 }
 

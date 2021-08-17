@@ -72,7 +72,7 @@
     /* project number section start **sagar*/
     
     .projectcover {
-        background-color: #36454f;
+        background-color: transparent;
         min-height: 300px !important;
     }
     
@@ -357,20 +357,26 @@ nav {
     }
     /* Our Client Section  */
     
-    .our-clients .container .row img {
-        height: 150px;
-        width: 80%;
+    .our-clients .container .row .img {
+        height: 60%;
+        width: 90%;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        margin-top: 0px !important;
+        justify-content: center !important;
     }
     
-    .our-clients .container .row .col-sm-3:hover {
+    .our-clients .container .row .col-sm-3 img:hover {
         transition: 1s;
-        border-radius: 30px;
+        border-radius: 20px;
         box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     }
     /* Service background  */
     
     .service-bg {
-        background-image: url("../images/bg/servicebg1.jpg") !important;
+        background-image: url("../images/bg/servicebg2.jpg") !important;
         background-repeat: no-repeat;
         background-position: center center;
         position: relative;
@@ -384,7 +390,8 @@ nav {
         right: 0;
         left: 0;
         bottom: 0;
-        background: rgba(0, 0, 0, 0.5);
+        opacity: 0.9;
+        /* background: rgba(114, 114, 114, 0.7); */
     }
     
     .service-bg {
@@ -407,6 +414,17 @@ nav {
             height: 106px;
             width: 90px;
         }
+        .our-clients .container .row .img {
+            height: 5%;
+            margin-left: 30% !important;
+            width: 40%;
+            justify-content: center !important;
+        }
+        .our-clients .container .row .col-sm-3 .img:hover {
+            transition: 1s;
+            border-radius: 5px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        }
     }
     
     @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
@@ -416,4 +434,27 @@ nav {
         .pot2 {
             margin-left: 2% !important;
         }
+    }
+    /* Footer Area  */
+    
+    .widget.dark .widget-title {
+        color: white !important;
+    }
+    /* testamonial  background*/
+    
+    .divider,
+    .parallax {
+        background-repeat: repeat !important;
+        background-position: center center !important;
+        -webkit-background-size: cover !important;
+        -moz-background-size: cover !important;
+        -o-background-size: cover !important;
+        background-size: cover !important;
+        -webkit-box-sizing: border-box !important;
+        -moz-box-sizing: border-box !important;
+        box-sizing: border-box !important;
+        display: block !important;
+        position: relative !important;
+        overflow: hidden !important;
+        width: 100% !important;
     }
