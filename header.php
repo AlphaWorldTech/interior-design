@@ -62,11 +62,20 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
+  <!-- mrinal added google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=David+Libre:wght@500&display=swap" rel="stylesheet">
+
+  <!-- mrinal code end -->
 
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=David+Libre:wght@700&display=swap" rel="stylesheet">
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
@@ -103,8 +112,26 @@
 
     gtag('config', 'UA-123527637-1');
   </script>
+  <!-- <style>
+    .menuzord-menu:hover .nav-border{
+      display: none;
+    }
+    .menuzord-menu .nav-border{
+      border-bottom: 2px solid black;
+    }
+    </style> -->
+    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+
+
+    <link href="css/awt.css" rel="stylesheet" type="text/css">
+    <style>
+      .pot2{
+        display: none;
+      }
+    </style>
 
 </head>
+
 
 <body>
   <div id="wrapper">
@@ -118,11 +145,12 @@
           <div class="container">
             <nav id="menuzord-right" class="menuzord blue">
 
-              <img src="images/logo.png" alt="logo">
+              <img class="pot1 py-2" src="images/logo.png" alt="logo">
+              <img class="pot2 py-2" src="images/logo/logo.png" alt="logo">
 
               <ul class="menuzord-menu text-black">
 
-                <li><a href="index.php">HOME</a></li>
+                <li><a  href="index.php">HOME</a></li>
 
                 <li><a href="#">OUR SERVICES</a>
                   <ul class="dropdown">
@@ -167,7 +195,7 @@
                 <li><a href="our-portfolio.php">OUR PORTFOLIO</a></li>
                 <li><a href="faq.php">FAQ'S</a></li>
                 <li><a href="about-us.php">ABOUT US</a></li>
-                <li><a href="contact-us.php">CONTACT US</a></li>
+                <li class="fw-bold"><a href="contact-us.php">GET A QUOTE</a></li>
 
 
 
@@ -187,3 +215,21 @@
   </div>
   </div>
   </header>
+
+  <script>
+  
+// $(function() {
+//     var pot = $(".pot1");
+
+//     $(window).scroll(function() {
+//         var scroll = $(window).scrollTop();
+//         if (scroll >= 80) {
+//             pot.addClass("pot");
+//         } else {
+//             pot.removeClass("pot");
+           
+//         }
+//     });
+// });
+
+  </script>

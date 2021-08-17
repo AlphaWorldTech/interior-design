@@ -31,47 +31,48 @@
 
   <!-- social media section start sagar -->
   <section class=" s">
-  <div class="my-social-media">
-    <nav>
-      <ul>
-        <li>
-          <a target="_blank" href="https://www.facebook.com/RgDzine">
-            <i class="fab fa-facebook-f"></i> <span> Facebook</span>
-          </a>
-        </li>
+    <div class="my-social-media">
+      <nav>
+        <ul>
+          <li>
+            <a target="_blank" href="https://www.facebook.com/RgDzine">
+              <i style="margin-left:4px;" class="fab fa-facebook-f"></i> <span> Facebook</span>
+            </a>
+          </li>
 
-        <li>
-          <a target="_blank" href="https://www.instagram.com/rgdzine/">
-            <i class="fab fa-instagram"></i> <span> Instagram</span>
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
-            <i class="fab fa-youtube"></i> <span> Youtube</span>
-          </a>
-        </li>
-        <li>
-          <a target="_blank" href="https://wa.me/+919831037404">
-            <i class="fab fa-whatsapp"></i> <span> WhatsApp</span>
-          </a>
-        </li>
+          <li>
+            <a target="_blank" href="https://www.instagram.com/rgdzine/">
+              <i style="font-size:30px; margin-top:-3px; margin-left:-2px;" class="fab fa-instagram"></i> <span> Instagram</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="https://www.youtube.com/channel/UCAoWc4guD2tZ0Y1L_fxUjAg/featured">
+              <i style="margin-left:-2px" class="fab fa-youtube"></i> <span> Youtube</span>
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="https://wa.me/+919831037404">
+              <i style="font-size:30px; margin-top:-4px; margin-left:-2px;" class="fab fa-whatsapp"></i> <span> WhatsApp</span>
+            </a>
+          </li>
 
-      </ul>
-    </nav>
+        </ul>
+      </nav>
 
-  </div>
-</section>
+    </div>
+  </section>
 
   <!-- social media section end sagar -->
 
-
+  <!-- 
   <section id="home" class="divider fullscreen" data-bg-img="images/bg/bg7.jpg">
     <div class="maximage-slider">
       <div id="maximage">
-        <img src="images/bg/bg1.jpg" alt="bg1" />
-        <img src="images/bg/bg2.jpg" alt="bg2" />
-        <img src="images/bg/bg3.jpg" alt="bg3" />
-        <img src="images/bg/bg4.jpg" alt="bg4" />
+        <img src="images/bg/bg1.jpg" class="img-fluid" alt="bg1" />
+        <img src="images/bg/bg2.jpg" class="img-fluid" alt="bg2" />
+        <img src="images/bg/bg3.jpg" class="img-fluid" alt="bg3" />
+        <img src="images/bg/bg4.jpg" class="img-fluid" alt="bg4" />
+        <img src="images/bg/bg5.jpg" class="img-fluid" alt="bg5" />
       </div>
       <div class="fullscreen-controls"> <a class="img-prev"><i class="pe-7s-angle-left"></i></a> <a class="img-next"><i class="pe-7s-angle-right"></i></a> </div>
     </div>
@@ -80,16 +81,54 @@
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center">
-              <div class="pb-50 pt-30">
-                <h3 class="text-uppercase text-white bg-dark-transparent-light font-30 inline-block pl-30 pr-30 mb-5 py-3 border border-white rounded">RG DZINE</h3>
-                <h1 class="text-uppercase text-white mt-0 inline-block bg-theme-colored-transparent pl-40 pr-40 pt-4  border border-white pb-4 font-26 rounded">BEST EXTERIOR & INTERIOR DESIGNING FIRM IN KOLKATA</h1>
+              <div class="pb-4 pt-4">
+                <h3 id="hero" style="font-family: 'David Libre', serif;" class=" fw-bold banner_text text-uppercase text-white  font-30 inline-block pl-30 pr-30 mb-5 py-3 border-bottom border-white rounded">BEST EXTERIOR <span style="color: yellow;">&</span> INTERIOR FIRM <br>
+                  <span style="color: yellow;">IN KOLKATA</span>
+                </h3> <br>
+                <h1 style="font-family: 'David Libre', serif;" class="text-uppercase text-white mt-0 inline-block fs-1 pl-4 pr-4 pt-5  border-bottom border-light border-2 pb-4 font-58 rounded">BEST EXTERIOR<span style="color:yellow;"> &</span> INTERIOR FIRM <br><span style="color:yellow;">IN KOLKATA</span></h1>
                 <p class="font-16 text-white">We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in kolkata. </p>
-                <a href="interior-designing.php" class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20 border border-white">View Details</a>
+                <a href="interior-designing.php">
+
+                  <img src="images/arrow/arrow1.png" class="banner_png img-fluid" alt="">
+
+                </a>
+
+                bg-theme-colored-transparent
               </div>
             </div>
           </div>
         </div>
       </div>
+    </div> 
+</section> -->
+
+  <section>
+    <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="images/bg/bg1.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg2.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg3.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg4.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+        <div class="carousel-item">
+          <img src="images/bg/bg5.jpg" class="d-block w-100 slide-img" alt="...">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button onclick="runslide();" id="slidenextbutton" class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
   </section>
 
@@ -99,30 +138,35 @@
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase mt-0">Who we are</h2>
+            <h2 style="font-family: 'David Libre', serif;" class="text-uppercase fw-bold mt-0">Who <span class="myspan">we are</span> </h2>
             <div class="title-icon">
               <img class="mb-10" src="images/title-icon.svg" alt="title">
             </div>
-            <h5> We specializing in exclusive, cost-effective and luxurious interior design, detailing and space planning in Delhi NCR. </h5>
+            <h4 style="font-family: 'David Libre', serif; font-weight:400;"> We specializing in exclusive, cost-effective and luxurious interior design, detailing, and space planning in India. </h4>
           </div>
         </div>
       </div>
       <div class="section-content">
         <div class="row">
 
-          <div data-aos="fade-right" style="overflow-x: hidden;"  class="col-sm-6 col-md-6">
+          <div data-aos="fade-right" style="overflow-x: hidden;" class="col-sm-6 col-md-6">
             <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
           </div>
-          <div  data-aos="fade-left" class="col-md-6">
+          <div data-aos="fade-left" class="col-md-6">
 
 
-            <h2 class="text-theme-colored font-30 mt-0">Welcome To The Urban India Designs</h2>
+            <h2 style="font-family: 'David Libre', serif;" class="text-theme-colored fw-bold font-30 mt-0 ">Welcome To <span class="myspan">RG DZINE</span> </h2>
 
-            <p class="text-black">Urban India design is the best interior & Exterior design firm in Delhi NCR, India. Urban India Design offers a full range of interior, exterior design, modular kitchen and interior architectural services which include planning, designing, project management, Interior & Exterior decorating services, supervising, quality control, best budget monitoring and coordination of the entire project</p>
-            <p class="text-black">We work passionately with our clients so as to achieve a lavish end result which they cherish for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless </p>
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">RG DZINE is the best exterior and interior
+              designing firm in Kolkata. We also
+              provide services in other parts of West
+              Bengal ( Durgapur, Howrah, Prulia, etc.),
+              Bihar, Uttar Pradesh, and Delhi.</p>
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> <span class="fw-bold h4">RG DZINE</span>
+              Wants to positively influence the lives of all clients with whom we have the delight of working and left a good impression on their needs and imagination. </p>
 
-            <p class="text-black">We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing services to them. </p>
-            <a class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
+            <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"><span class="fw-bold h4">RG DZINE</span> offers clients the lowest possible prices, best available choices, and supreme convenience. Our best design must inspire and uplift the hearts and minds of all those who lay eyes on them. Our long term goal is to create a better every day life for many people.</p>
+            <a style="font-family: 'David Libre', serif; font-weight:400;" class="btn btn-default btn-lg mt-10" href="about-us.php">Read more</a>
           </div>
 
         </div>
@@ -131,17 +175,18 @@
   </section>
 
 
+
   <!-- Section: Pricing -->
-  <section id="pricing" data-bg-img="images/pattern/p4.png">
-    <div class="container">
+  <section id="pricing" class="service-bg" data-bg-img="images/pattern/p4.png">
+    <div class="container ">
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-uppercase mt-0">Services</h2>
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 myspan">Services</h1>
             <div class="title-icon">
-              <img class="mb-10" src="images/title-icon.svg" alt="title">
+              <img class="" src="images/title-icon.svg" alt="title">
             </div>
-            <p class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </p>
+            <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4>
           </div>
         </div>
       </div>
@@ -151,8 +196,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
-                <h3 class="text-theme-colored">Office Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
@@ -163,8 +208,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
-                <h3 class="text-theme-colored">Interior Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
@@ -175,8 +220,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
-                <h3 class="text-theme-colored">Exterior Design</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
@@ -187,8 +232,8 @@
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
                 <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
-                <h3 class="text-theme-colored">Modular Kitchen</h3>
-                <p>We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
+                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
 
                 <a class="btn btn-colored btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
@@ -199,39 +244,132 @@
       </div>
     </div>
   </section>
+
+  <section class="our-clients">
+    <div class="container">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
+            <div class="title-icon">
+              <img class="title"  src="images/title-icon.svg" alt="title">
+            </div>
+            <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
+          </div>
+        </div>
+      </div>
+      <div class="row">
+
+        <div class="col-sm-3 ">
+          <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img " alt="">
+        </div>
+        <div class="col-sm-3 ">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+        <div class="col-sm-3 ">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+        <div class="col-sm-3">
+        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+
+        </div>
+
+
+      </div>
+    </div>
+  </section>
   <!-- bootstarp modal pop up banner  -->
 
   <!-- bootstrap modal pop up banner end  -->
 
   <!-- PRoject Number animation start  -->
 
-  <section data-aos="flip-down">
-    <div class="container-fluid  my-5" >
+  <!-- <section data-aos="flip-down">
+    <div class="container-fluid  my-5">
       <div class="row projectcover ">
         <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
 
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                    font-family: 'Quicksand', sans-serif;"> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
           <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-          <h2 class="text text-center  mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+          <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
           <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
           <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
         </div>
         <div class="col-sm-3 col-md-3 col-lg-3  my-3">
-          <h2 class="text text-center mt-5" style="font-family: 'Inconsolata', monospace;
-                font-family: 'Quicksand', sans-serif;"><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+          <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
           <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
         </div>
 
       </div>
     </div>
+  </section> -->
+
+  <!-- Project Complete Section  -->
+
+  <section class="project-complete">
+
+    <div style="background-color: rgba(0, 0, 0, 0.58); background-position: center center; background-repeat: no-repeat; background-blend-mode: multiply; padding: 0px 30px; border-top: 0px solid rgb(234, 233, 233); border-bottom: 0px solid rgb(234, 233, 233); border-right-color: rgb(234, 233, 233); border-left-color: rgb(234, 233, 233); background-size: cover; position: relative; overflow: hidden; z-index: 1; background-image: none;" data-bg="images/project/img.jpg">
+      <div class="parallax-inner lazyloaded" data-bg="images/project/img.jpg" style=" width:3556px; margin-left:9%;   background-image: url('images/project/img.jpg'); pointer-events: none; width: 100%; height: 100%; overflow:hidden; position: absolute; z-index: -1; top: 0px; left: 0px; opacity: 1; background-repeat: no-repeat; background-size: cover; background-color: rgba(0, 0, 0, 0.58); background-blend-mode: multiply; background-image: url(&quot;images/project/img.jpg&quot;); min-height: 800px; transform: translate3d(-151.683px, -2px, 0px);"></div>
+      <div class="fusion-builder-row fusion-row ">
+        <div  style="margin-top:0px;margin-bottom:0px;">
+          <div  style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+            <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
+                <path d="M0 0 C55 180 100 0 100 0 Z"></path>
+              </svg></div>
+            <div class="fusion-clearfix"></div>
+
+          </div>
+        </div>
+        <div class="" style="margin-top:100px;margin-bottom:55px;">
+          <div class="fusion-column-wrapper row" style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+
+            
+              <div class="container-fluid  my-5">
+                <div class="row projectcover ">
+                  <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
+
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+                    <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                    <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+                    <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+                    <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
+                  </div>
+                  <div class="col-sm-3 col-md-3 col-lg-3  my-3">
+                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+                    <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
+                  </div>
+
+                </div>
+              </div>
+         
+            
+
+          </div>
+        </div>
+        <div  style="margin-top:0px;margin-bottom:0px;">
+          <div  style="background-color: rgba(109, 109, 109, 0); padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+            <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
+                <path d="M0 100 C40 0 60 0 100 100 Z"></path>
+              </svg></div>
+            <div class="fusion-clearfix"></div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
   </section>
   <!-- PRoject Number animation End -->
 
@@ -247,11 +385,11 @@
           <div class="col-md-12">
             <!-- Portfolio Filter -->
             <div class="portfolio-filter">
-              <a href="#" class="active" data-filter="*">All</a>
-              <a href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
-              <a href="#interior" class="" data-filter=".interior">Interior Design</a>
-              <a href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
-              <a href="#design" class="" data-filter=".design">Office Design</a>
+              <a style="font-family: 'David Libre', serif; " href="#" class="" data-filter="*">All</a>
+              <a style="font-family: 'David Libre', serif; " href="#photography" class="" data-filter=".photography">Modular Kitchen</a>
+              <a style="font-family: 'David Libre', serif; " href="#interior" class="" data-filter=".interior">Interior Design</a>
+              <a style="font-family: 'David Libre', serif; " href="#exterior" class="" data-filter=".exterior">Exterior Designn</a>
+              <a style="font-family: 'David Libre', serif; " href="#design" class="" data-filter=".design">Office Design</a>
             </div>
             <!-- End Portfolio Filter -->
 
@@ -496,11 +634,11 @@
   </section>
 
   <!-- Section: Testimonials -->
-  <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/bg3.jpg">
+  <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/footer.png">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
+          <div  class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
             <div class="item">
 
               <div class="comment">
@@ -582,23 +720,23 @@
   var b = 0;
   var c = 0;
   var d = 0;
-  document.querySelector(".my-social-media").style.display="none";
+  document.querySelector(".my-social-media").style.display = "none";
 
 
   function pc() {
     if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
 
 
-      if (a < 15) {
+      if (a < 200) {
         a++;
       }
-      if (b < 11) {
+      if (b < 195) {
         b++;
       }
-      if (c < 15) {
+      if (c < 140) {
         c++;
       }
-      if (d < 13) {
+      if (d < 45) {
         d++;
       }
     }
@@ -610,7 +748,7 @@
   }
 
 
-  setInterval(pc, 200);
+  setInterval(pc, 50);
 
   function hideSocial() {
 
@@ -622,23 +760,45 @@
 
     }
   }
-  setInterval(hideSocial,100);
+  setInterval(hideSocial, 100);
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
- // close button pop up
-    function closepopup() {
-      var x = document.querySelector(".pop-up").style.display = "none";
+  // close button pop up
+  function closepopup() {
+    var x = document.querySelector(".pop-up").style.display = "none";
 
 
-    }
+  }
+
+
+  //     new TypeIt("#hero", {
+  //   speed: 100,
+  //   startDelay: 900
+  // })
+  // .type("", {delay: 500})
+  // .move(-8, {speed: 15, delay: 100})
+
+
+
+  // .go();
+  function runslide() {
+    var btn = document.getElementById("slidenextbutton");
+    var btn2 = document.querySelector(".owl-next");
+    btn.click();
+    btn2.click();
+  }
+
+  setInterval(runslide, 4000);
+
   
+
 </script>

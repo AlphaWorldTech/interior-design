@@ -27,21 +27,20 @@
             <div class="col-md-6">
               <div class="border-left-2px border-theme-colored mt-60 pl-15">
                 
-                <h2 class="text-theme-colored font-36 mt-0">About Us</h2>
+                <h2 style="font-family: 'David Libre', serif;" class="fw-bold text-theme-colored font-36 mt-0">About Us</h2>
               </div>
-              <h4>Our principles are Creativity, originality, consideration and enthusiasm.</h5>
-              <p class="text-black">Our aim is to provide our clients with a personalized and customized design that goes beyond their imagination. We conceive an exclusive design that not only reflect our client’s taste and preferences but also enriches their lives. Our design reflects the style, desires and personality of our clients that are sophisticated, subtle and elegant. </p>
-			  <p class="text-black">We work passionately with our clients so as to achieve a lavish end result which they cherish for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless. </p>
-			  
-			  <p class="text-black">We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing services to them.</p>
+              <h4 style="font-family: 'David Libre', serif; font-weight:400;">Our Aims to design spaces with 'best designs' and want to become the country's most loved and top interior designing company,</h5>
+              <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> providing solutions in the field of high-end corporate workplace, commercial and residential interiors, hospitality interiors, etc. Our design reflects the style, desires and personality of our clients that are sophisticated, subtle and elegant. </p>
+			  <p style="font-family: 'David Libre', serif; font-weight:400;" class="text-black">We work passionately with our clients so as to achieve a lavish end result which they cherish for a lifetime. We like design to be visually powerful, intellectually elegant and above all timeless. 
+We place absolute importance on understanding the particular needs and wishes of our clients and provide best interior designing services to them.</p>
 			  
             </div>
             <div class="col-sm-6 col-md-6">
-              <img class="img-fullwidth" alt="" src="images/photos/2.jpg">
+              <img class="img-fullwidth mt-5" alt="" src="images/photos/2.jpg">
             </div>
 			
           </div>
-		  <p class="text-black">We Provides All Architecture & Interior Designing Services, Interior Designers in Delhi NCR, Best Interior Designers in Delhi & Interior Decorators in Delhi-NCR, as a Best Architect in Delhi, We Understand Our Client Requirements, In House Our Client Gets, Landscape Services, Import Around The World Facilities, Our Firm Work In Residential Interior, Commercial Interior, Hotel Interior, Depending On The Requirements And Budget Of Our Clients, We Offer Integrated Solutions That Address Our Clients Needs.</p>
+		  <p  style="font-family: 'David Libre', serif; font-weight:400;"  class="text-black">We Provides All Architecture & Interior Designing Services, Interior Designers in Kolkata, Best Interior Designers in Kolkata & Interior Decorators in Kolkata, as a Best Architect in Kolkata, We Understand Our Client Requirements, In House Our Client Gets, Landscape Services, Import Around The World Facilities, Our Firm Work In Residential Interior, Commercial Interior, Hotel Interior, Depending On The Requirements And Budget Of Our Clients, We Offer Integrated Solutions That Address Our Clients Needs.</p>
         </div>
       </div>
     </section>
