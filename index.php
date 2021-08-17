@@ -264,7 +264,7 @@
           <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img " alt="">
         </div>
         <div class="col-sm-3 ">
-        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+        <img src="images/client/client2.png" class="img-fluid mx-5 px-2  img" alt="">
 
         </div>
         <div class="col-sm-3 ">
