@@ -12,7 +12,7 @@
       <div class="section-content text-center">
         <div class="row">
           <div class="col-md-12 xs-text-center">
-            <h1 class="font-32 text-theme-colored heading-txt">Contact Us</h1>
+            <h1 class="font-32 text-theme-colored">Contact Us</h1>
 
           </div>
         </div>
@@ -71,26 +71,26 @@
         </div>
         <div class="row my-5">
           <div class="col-sm-3 mx-auto">
-            <h2 class="text-center"><a href="budget" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
+            <h2 class="text-center"><a href="#" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
           </div>
           <div style="  border-radius: 30px; 
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
-            <h2 class="text-center"> <a href="budget">500 - 1000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#">500 - 1000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
-            <h2 class="text-center"> <a href="budget"> 1000 - 1500 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#"> 1000 - 1500 Sqft</a></h2>
           </div>
 
         </div>
         <div class="row ">
           <div class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
-            <h2 class="text-center"> <a href="budget">1500 - 2000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#">1500 - 2000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
-            <h2 class="text-center"> <a href="budget">2000 - 3000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#">2000 - 3000 Sqft</a></h2>
           </div>
           <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
-            <h2 class="text-center"> <a href="budget">More than 3000 Sqft</a></h2>
+            <h2 class="text-center"> <a href="#">More than 3000 Sqft</a></h2>
           </div>
 
         </div>
@@ -110,7 +110,7 @@
 
           </h1>
         </div>
-        <div id="budget" class="row my-5">
+        <div class="row my-5">
           <div style="  border-radius: 30px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
             <h2 class="text-center"> <a href="#">Upto 10 lakh</a></h2>
@@ -201,9 +201,12 @@
 
 
       </div>
+      
+        
 
-      <div class="row pt-30 bg-deep">
      
+    </div>
+    <div class="row mb-60 bg-deep">
           <div class="col-sm-12 col-md-4">
             <div class="contact-info text-center pt-60 pb-60 border-right">
               <i class="fa fa-phone font-36 mb-10 text-theme-colored"></i>
@@ -231,10 +234,7 @@
               <h5 class="text-black"> <a class="text-decoration-none" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </h5>
             </div>
           </div>
-        
-
-      </div>
-    </div>
+        </div>
   </section>
 
 
