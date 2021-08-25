@@ -20,6 +20,18 @@
   </div>
 </section>
 
+<div class="container ">
+  <div class="row">
+    <div class="col-sm-3 book-consult">
+      <button class="bookc btn btn-danger">
+        <a class="text-white text-decoration-none" href="contact.php"> BOOK FREE ONLINE CONSULTATION</a>
+      </button>
+    </div>
+  </div>
+</div>
+
+
+
 
 <!-- pop up code end sagar  -->
 
@@ -174,6 +186,63 @@
     </div>
   </section>
 
+  <!-- BANNER SECTION -->
+  <section>
+    <div class=" banner-section mb-5">
+
+
+      <div class="container">
+        <div class="row banner-middle">
+          <div class="col-sm-3">
+
+          </div>
+          <div class="col-sm-2">
+            <img src="images/banner/LOGO2.png" class="img-fluid" alt="">
+
+          </div>
+
+          <div class="col-sm-1">
+            <h5>
+              On-time
+            </h5>
+            <p>
+              delivery
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Best
+            </h5>
+            <p>
+              Price
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Superior
+            </h5>
+            <p>
+              quality
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Safety
+            </h5>
+            <p>
+              assured
+
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+
+  </section>
+
 
 
   <!-- Section: Pricing -->
@@ -245,41 +314,7 @@
     </div>
   </section>
 
-  <section class="our-clients">
-    <div class="container">
-      <div class="section-title text-center">
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
-            <div class="title-icon">
-              <img class="title"  src="images/title-icon.svg" alt="title">
-            </div>
-            <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
-          </div>
-        </div>
-      </div>
-      <div class="row">
 
-        <div class="col-sm-3 ">
-          <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img " alt="">
-        </div>
-        <div class="col-sm-3 ">
-        <img src="images/client/client2.png" class="img-fluid mx-5 px-2  img" alt="">
-
-        </div>
-        <div class="col-sm-3 ">
-        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
-
-        </div>
-        <div class="col-sm-3">
-        <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
-
-        </div>
-
-
-      </div>
-    </div>
-  </section>
   <!-- bootstarp modal pop up banner  -->
 
   <!-- bootstrap modal pop up banner end  -->
@@ -318,8 +353,8 @@
     <div style="background-color: rgba(0, 0, 0, 0.58); background-position: center center; background-repeat: no-repeat; background-blend-mode: multiply; padding: 0px 30px; border-top: 0px solid rgb(234, 233, 233); border-bottom: 0px solid rgb(234, 233, 233); border-right-color: rgb(234, 233, 233); border-left-color: rgb(234, 233, 233); background-size: cover; position: relative; overflow: hidden; z-index: 1; background-image: none;" data-bg="images/project/img.jpg">
       <div class="parallax-inner lazyloaded" data-bg="images/project/img.jpg" style=" width:3556px; margin-left:9%;   background-image: url('images/project/img.jpg'); pointer-events: none; width: 100%; height: 100%; overflow:hidden; position: absolute; z-index: -1; top: 0px; left: 0px; opacity: 1; background-repeat: no-repeat; background-size: cover; background-color: rgba(0, 0, 0, 0.58); background-blend-mode: multiply; background-image: url(&quot;images/project/img.jpg&quot;); min-height: 800px; transform: translate3d(-151.683px, -2px, 0px);"></div>
       <div class="fusion-builder-row fusion-row ">
-        <div  style="margin-top:0px;margin-bottom:0px;">
-          <div  style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+        <div style="margin-top:0px;margin-bottom:0px;">
+          <div style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
             <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
                 <path d="M0 0 C55 180 100 0 100 0 Z"></path>
               </svg></div>
@@ -330,36 +365,36 @@
         <div class="" style="margin-top:100px;margin-bottom:55px;">
           <div class="fusion-column-wrapper row" style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
 
-            
-              <div class="container-fluid  my-5">
-                <div class="row projectcover ">
-                  <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
 
-                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
-                    <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
-                  </div>
-                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-                    <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
-                    <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
-                  </div>
-                  <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
-                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
-                    <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
-                  </div>
-                  <div class="col-sm-3 col-md-3 col-lg-3  my-3">
-                    <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
-                    <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
-                  </div>
+            <div class="container-fluid  my-5">
+              <div class="row projectcover ">
+                <div class="col-sm-3 col-md-3 col-lg-3 projetcomplete my-3 border-right ">
 
+                  <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fas fa-rocket px-3 "></i></span> Project Complete </h2>
+                  <h1 class="text text-center mt-3"> <span id="projectcomplete"> </span> + </h1>
                 </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                  <h2 class="text text-center fw-bold mt-5" style="font-family: 'David Libre', serif; "><span class="text-light "><i class="far fa-smile-beam px-3"></i></span>Happy Customer </h2>
+                  <h1 class="text text-center mt-3"> <span id="happycustmor"></span> + </h1>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3 border-right  my-3">
+                  <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "> <span><i class="fad fa-user-hard-hat px-3"></i></span> Exprencied Staff</h2>
+                  <h1 class="text text-center mt-3"> <span id="staff"></span> + </h1>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3  my-3">
+                  <h2 class="text text-center mt-5 fw-bold" style="font-family: 'David Libre', serif; "><span><i class="fas fa-home-lg px-3"></i></span> Ongoing Project</h2>
+                  <h1 class="text text-center mt-3"> <span id="ongoingproject"> </span> + </h1>
+                </div>
+
               </div>
-         
-            
+            </div>
+
+
 
           </div>
         </div>
-        <div  style="margin-top:0px;margin-bottom:0px;">
-          <div  style="background-color: rgba(109, 109, 109, 0); padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
+        <div style="margin-top:0px;margin-bottom:0px;">
+          <div style="background-color: rgba(109, 109, 109, 0); padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
             <div style="padding:0;margin-left:calc( (100vw - 100% ) / -2 );margin-right:calc( (100vw - 100% ) / -2  );"><svg class="fusion-big-half-circle-candy" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none" style="fill:#ffffff;padding:0;">
                 <path d="M0 100 C40 0 60 0 100 100 Z"></path>
               </svg></div>
@@ -633,12 +668,69 @@
     </div>
   </section>
 
+  <section class="our-clients">
+    <div class="container">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
+            <div class="title-icon">
+              <img class="title" src="images/title-icon.svg" alt="title">
+            </div>
+            <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
+          </div>
+        </div>
+      </div>
+      <div class="row ">
+
+
+
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+
+            <img src="images/client/client3.png" class="img-fluid mx-5 px-2  img " alt="">
+          </div>
+          <div class="item">
+            <img src="images/client/client4.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+          <div class="item">
+            <img src="images/client/client5.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+
+          <div class="item">
+            <img src="images/client/client6.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+
+          <div class="item">
+            <img src="images/client/client7.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+
+          <div class="item">
+            <img src="images/client/client8.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </section>
+
   <!-- Section: Testimonials -->
   <section class="divider layer-overlay overlay-theme-colored-9" data-stellar-background-ratio="0.5" data-bg-img="images/bg/footer.png">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div  class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
+          <div class="testimonial style1 testimonial-carousel-3col owl-nav-top mt-50">
             <div class="item">
 
               <div class="comment">
@@ -789,16 +881,41 @@
 
 
 
+
+
+
+
   // .go();
   function runslide() {
     var btn = document.getElementById("slidenextbutton");
-    var btn2 = document.querySelector(".owl-next");
+    var btn2 = document.querySelector(".fa-angle-right");
     btn.click();
     btn2.click();
+
   }
 
-  setInterval(runslide, 4000);
+  setInterval(runslide, 100000);
 
-  
+  $('.owl-carousel').owlCarousel({
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 1000,
+    margin: 10,
+    nav: false,
+    responsive: {
+      0: {
+        items: 1
+      },
+      600: {
+        items: 3
+      },
+      1000: {
+        items: 5
+      }
+    }
+  })
 
+
+
+  // owl crausal 
 </script>
