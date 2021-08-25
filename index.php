@@ -686,27 +686,27 @@
 
 
         <div class="owl-carousel owl-theme">
-          <div class="item ">
+          <div class="item">
 
-            <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img " alt="">
-          </div>
-          <div class="item ">
-            <img src="images/client/client2.png" class="img-fluid mx-5 px-2  img" alt="">
+            <img src="images/client/client3.png" class="img-fluid mx-5 px-2  img " alt="">
           </div>
           <div class="item">
-            <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+            <img src="images/client/client4.png" class="img-fluid mx-5 px-2  img" alt="">
           </div>
-
           <div class="item">
-            <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+            <img src="images/client/client5.png" class="img-fluid mx-5 px-2  img" alt="">
           </div>
 
           <div class="item">
-            <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+            <img src="images/client/client6.png" class="img-fluid mx-5 px-2  img" alt="">
           </div>
 
           <div class="item">
-            <img src="images/client/client1.png" class="img-fluid mx-5 px-2  img" alt="">
+            <img src="images/client/client7.png" class="img-fluid mx-5 px-2  img" alt="">
+          </div>
+
+          <div class="item">
+            <img src="images/client/client8.png" class="img-fluid mx-5 px-2  img" alt="">
           </div>
 
 
@@ -880,8 +880,26 @@
   // .move(-8, {speed: 15, delay: 100})
 
 
+
+
+
+
+
+  // .go();
+  function runslide() {
+    var btn = document.getElementById("slidenextbutton");
+    var btn2 = document.querySelector(".fa-angle-right");
+    btn.click();
+    btn2.click();
+
+  }
+
+  setInterval(runslide, 100000);
+
   $('.owl-carousel').owlCarousel({
     loop: true,
+    autoplay: true,
+    autoplayTimeout: 1000,
     margin: 10,
     nav: false,
     responsive: {
@@ -897,21 +915,7 @@
     }
   })
 
-  
 
 
-  // .go();
-  function runslide() {
-    var btn = document.getElementById("slidenextbutton");
-    var btn2 = document.querySelector(".fa-angle-right");
-    btn.click();
-    btn2.click();
-  
-  }
-
-  setInterval(runslide, 4000);
-
-
- // owl crausal 
-
+  // owl crausal 
 </script>

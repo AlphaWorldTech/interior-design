@@ -96,6 +96,11 @@ EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
 <!-- JS | Custom script for all pages -->
 <script src="js/custom.js"></script>
 
+<link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+<link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+<script src="jquery.min.js"></script>
+<script src="owlcarousel/owl.carousel.min.js"></script>
+
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> 
 <script>
     AOS.init({
@@ -103,6 +108,8 @@ EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
         duration:1000,
         disable:'mobile',
     });
+
+
     
 </script>
 
