@@ -433,6 +433,29 @@ nav {
                 background-color: #F5F5F5;
                 height: auto !important;
             }
+            .banner-section .col-sm-1 h5,
+            .banner-section .col-sm-1 p,
+            .banner-section .col-sm-1,
+            .banner-section .col-sm-8 span,
+            .banner-section .col-sm-8 p,
+            .banner-section .col-sm-4 .rounded-icon {
+                text-align: center;
+            }
+            .banner-section .col-sm-4 .rounded-icon {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 20px;
+            }
+            .banner-section .col-sm-8 span {
+                margin-left: 43%;
+                margin-top: -15px !important;
+            }
+            .banner-section .col-sm-8 p {
+                margin-top: .01%;
+                padding-bottom: 0.2%;
+                margin-bottom: 0.5%;
+            }
         }
         
         @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
@@ -444,6 +467,18 @@ nav {
             }
             .bg-deep {
                 margin-top: 15px !important;
+            }
+            .banner-section .col-sm-8 span {
+                font-size: 12px !important;
+                margin-top: 0.5%;
+            }
+            .banner-section .col-sm-1 h5,
+            .banner-section .col-sm-1 p {
+                font-size: 10px;
+                margin-top: 4%;
+            }
+            .banner-section .col-sm-8 {
+                margin-top: 5px;
             }
         }
         /* Footer Area  */
@@ -510,7 +545,7 @@ nav {
     } */
         
         .banner-section h5 {
-            color: blue;
+            color: darkblue;
         }
         
         .banner-section .col-sm-1 {
@@ -549,6 +584,10 @@ nav {
         .bookc {
             align-items: center !important;
             justify-content: center !important;
+        }
+        
+        .bookc button {
+            background-color: #36454f;
         }
         
         #dvLiveSearch {
