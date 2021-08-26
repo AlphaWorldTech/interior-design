@@ -30,7 +30,7 @@
     <div class="col-sm-4 bookc">
 
 
-      <button class=" btn btn-danger ">
+      <button class=" btn  ">
         <a class="text-white text-decoration-none" href="contact-us.php"> BOOK FREE ONLINE CONSULTATION</a>
       </button>
 
@@ -925,9 +925,9 @@
   // .go();
   function runslide() {
     var btn = document.getElementById("slidenextbutton");
-    var btn2 = document.querySelector(".fa-angle-right");
+    // var btn2 = document.querySelector(".fa-angle-right");
     btn.click();
-    btn2.click();
+    // btn2.click();
 
   }
 
