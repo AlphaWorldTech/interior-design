@@ -20,13 +20,28 @@
   </div>
 </section>
 
-<div class="container ">
+<div class="container-fluid book-consult">
   <div class="row">
-    <div class="col-sm-3 book-consult">
-      <button class="bookc btn btn-danger">
-        <a class="text-white text-decoration-none" href="contact.php"> BOOK FREE ONLINE CONSULTATION</a>
-      </button>
+
+    <div class="col-sm-4">
+
     </div>
+
+    <div class="col-sm-4 bookc">
+
+
+      <button class=" btn btn-danger ">
+        <a class="text-white text-decoration-none" href="contact-us.php"> BOOK FREE ONLINE CONSULTATION</a>
+      </button>
+
+
+
+
+    </div>
+    <div class="col-sm-4">
+
+    </div>
+
   </div>
 </div>
 
@@ -152,7 +167,7 @@
           <div class="col-md-8 col-md-offset-2">
             <h2 style="font-family: 'David Libre', serif;" class="text-uppercase fw-bold mt-0">Who <span class="myspan">we are</span> </h2>
             <div class="title-icon">
-              <img class="mb-10" src="images/title-icon.svg" alt="title">
+              <img class="mb-10" src="images/title-icon2.png" alt="title">
             </div>
             <h4 style="font-family: 'David Libre', serif; font-weight:400;"> We specializing in exclusive, cost-effective and luxurious interior design, detailing, and space planning in India. </h4>
           </div>
@@ -197,8 +212,25 @@
 
           </div>
           <div class="col-sm-2">
-            <img src="images/banner/LOGO2.png" class="img-fluid" alt="">
+            <!-- <img src="images/banner/LOGO2.png" class="img-fluid" alt=""> -->
+            <div class="row icon-row border rounded my-2">
+              <div class=" col-sm-4 mb-1">
+              <i class="rounded-icon far fa-shield-check text-light h3  my-2 mx-3"></i>
+              </div>
+             
+              <div class="col-sm-8 my-1">
 
+                <span class="fw-bold h5 myspan">
+                  RG DZINE
+                </span>
+                
+               <p>
+               GUARANTEE
+               </p>
+              
+
+              </div>
+            </div>
           </div>
 
           <div class="col-sm-1">
@@ -253,7 +285,7 @@
           <div class="col-md-8 col-md-offset-2">
             <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 myspan">Services</h1>
             <div class="title-icon">
-              <img class="" src="images/title-icon.svg" alt="title">
+              <img class="" src="images/title-icon2.png" alt="title">
             </div>
             <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4>
           </div>
@@ -675,7 +707,7 @@
           <div class="col-md-8 col-md-offset-2">
             <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0">OUR <span class="myspan">CLIENTS</span></h1>
             <div class="title-icon">
-              <img class="title" src="images/title-icon.svg" alt="title">
+              <img class="title" src="images/title-icon2.png" alt="title">
             </div>
             <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4> -->
           </div>
@@ -844,11 +876,16 @@
 
   function hideSocial() {
 
-    if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
 
       document.querySelector(".my-social-media").style.display = "block";
+      document.querySelector(".bookc").style.display = "flex";
+
+
     } else {
       document.querySelector(".my-social-media").style.display = "none";
+      document.querySelector(".bookc").style.display = "none";
+
 
     }
   }
@@ -894,7 +931,8 @@
 
   }
 
-  setInterval(runslide, 100000);
+
+  setInterval(runslide, 4000);
 
   $('.owl-carousel').owlCarousel({
     loop: true,

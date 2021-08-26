@@ -1,0 +1,1318 @@
+<!DOCTYPE html>
+<!-- saved from url=(0020)https://rgdzine.com/ -->
+<html lang="en-US" prefix="og: https://ogp.me/ns#" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js_active  vc_desktop  vc_transform  vc_transform "><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" id="www-widgetapi-script" src="./pop_files/www-widgetapi.js" async=""></script><script src="./pop_files/iframe_api" id="YTAPI"></script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://rgdzine.com/xmlrpc.php">	
+	
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" type="image/x-icon" href="./pop_files/WhatsApp-Image-2021-01-14-at-18.35.37-e1613811678989.jpeg">	
+	
+<link href="./pop_files/font-awesome.min.css" rel="stylesheet">
+			<style>
+			.fuse_social_icons_links {
+			    display: block;
+			}
+			.facebook-awesome-social::before {
+			    content: "\f09a" !important;
+			}
+			
+			.awesome-social-img img {
+			    position: absolute;
+			    top: 50%;
+			    left: 50%;
+			    transform: translate(-50%,-50%);
+			}
+
+			.awesome-social-img {
+			    position: relative;
+			}			
+			.icon_wrapper .awesome-social {
+			    font-family: 'FontAwesome' !important;
+			}
+			#icon_wrapper .fuse_social_icons_links .awesome-social {
+			    font-family: "FontAwesome" !important;
+			    ext-rendering: auto !important;
+			    -webkit-font-smoothing: antialiased !important;
+			    -moz-osx-font-smoothing: grayscale !important;
+			}
+									
+			
+				#icon_wrapper{
+					position: fixed;
+					top: 25%;
+					right: 0px;
+					z-index: 99999;
+				}
+
+			
+			.awesome-social
+
+			{
+
+            margin-top:2px;
+
+			color: #fff !important;
+
+			text-align: center !important;
+
+			display: block;
+
+			
+			line-height: 51px !important;
+
+			width: 48px !important;
+
+			height: 48px !important;
+
+			font-size: 28px !important;
+
+			
+
+
+			}
+
+			
+			.fuse_social_icons_links
+
+			{
+
+			outline:0 !important;
+
+
+
+			}
+
+			.fuse_social_icons_links:hover{
+
+			text-decoration:none !important;
+
+			}
+
+			
+			.fb-awesome-social
+
+			{
+
+			background: #3b5998;
+			border-color: #3b5998;
+			
+			}
+			.facebook-awesome-social
+
+			{
+
+			background: #3b5998;
+			border-color: #3b5998;
+						}
+
+
+			.tw-awesome-social
+
+			{
+
+			background:#00aced;
+			border-color: #00aced;
+			
+			}
+			.twitter-awesome-social
+
+			{
+
+			background:#00aced;
+			border-color: #00aced;
+			
+			}
+			.rss-awesome-social
+
+			{
+
+			background:#FA9B39;
+			border-color: #FA9B39;
+			
+			}
+
+			.linkedin-awesome-social
+
+			{
+
+			background:#007bb6;
+			border-color: #007bb6;
+						}
+
+			.youtube-awesome-social
+
+			{
+
+			background:#bb0000;
+			border-color: #bb0000;
+						}
+
+			.flickr-awesome-social
+
+			{
+
+			background: #ff0084;
+			border-color: #ff0084;
+						}
+
+			.pinterest-awesome-social
+
+			{
+
+			background:#cb2027;
+			border-color: #cb2027;
+						}
+
+			.stumbleupon-awesome-social
+
+			{
+
+			background:#f74425 ;
+			border-color: #f74425;
+						}
+
+			.google-plus-awesome-social
+
+			{
+
+			background:#f74425 ;
+			border-color: #f74425;
+						}
+
+			.instagram-awesome-social
+
+			{
+
+			    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+			    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+			    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+			    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+			    border-color: #f09433;
+					    
+
+			}
+
+			.tumblr-awesome-social
+
+			{
+
+			background: #32506d ;
+			border-color: #32506d;
+						}
+
+			.vine-awesome-social
+
+			{
+
+			background: #00bf8f ;
+			border-color: #00bf8f;
+						}
+
+            .vk-awesome-social {
+
+
+
+            background: #45668e ;
+            border-color: #45668e;
+            
+            }
+
+            .soundcloud-awesome-social
+
+                {
+
+            background: #ff3300 ;
+            border-color: #ff3300;
+            
+                }
+
+                .reddit-awesome-social{
+
+
+
+            background: #ff4500 ;
+            border-color: #ff4500;
+
+                            }
+
+                .stack-awesome-social{
+
+
+
+            background: #fe7a15 ;
+            border-color: #fe7a15;
+            
+                }
+
+                .behance-awesome-social{
+
+            background: #1769ff ;
+            border-color: #1769ff;
+            
+                }
+
+                .github-awesome-social{
+
+            background: #999999 ;
+            border-color: #999999;
+            
+
+
+                }
+
+                .envelope-awesome-social{
+
+                  background: #ccc ;
+ 				  border-color: #ccc;                 
+ 				                  }
+
+/*  Mobile */
+
+
+
+
+
+
+/* Custom Background */
+
+
+             
+
+
+
+
+			</style>
+
+
+<!-- Search Engine Optimization by Rank Math - https://s.rankmath.com/home -->
+<title>Home - RG Dzine</title>
+<meta name="description" content="Listening to your project and your vision about the spaceCreating a plan after intrinsic site measurements, planning and design consultancy where our team of">
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+<link rel="canonical" href="https://rgdzine.com/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Home - RG Dzine">
+<meta property="og:description" content="Listening to your project and your vision about the spaceCreating a plan after intrinsic site measurements, planning and design consultancy where our team of">
+<meta property="og:url" content="https://rgdzine.com/">
+<meta property="og:site_name" content="RG Dzine">
+<meta property="og:updated_time" content="2021-05-03T08:55:58+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Home - RG Dzine">
+<meta name="twitter:description" content="Listening to your project and your vision about the spaceCreating a plan after intrinsic site measurements, planning and design consultancy where our team of">
+<div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script type="text/javascript" async="" src="./pop_files/analytics.js"></script><script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://rgdzine.com/#company","name":"RG Dzine"},{"@type":"WebSite","@id":"https://rgdzine.com/#website","url":"https://rgdzine.com","name":"RG Dzine","publisher":{"@id":"https://rgdzine.com/#company"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://rgdzine.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"Person","@id":"https://rgdzine.com/author/admin/","name":"admin","url":"https://rgdzine.com/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/b15c607039ba4f56a1fe23ca70055e45?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/b15c607039ba4f56a1fe23ca70055e45?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"en-US"},"sameAs":["https://rgdzine.com"],"worksFor":{"@id":"https://rgdzine.com/#company"}},{"@type":"WebPage","@id":"https://rgdzine.com/#webpage","url":"https://rgdzine.com/","name":"Home - RG Dzine","datePublished":"2015-07-29T07:40:38+00:00","dateModified":"2021-05-03T08:55:58+00:00","author":{"@id":"https://rgdzine.com/author/admin/"},"isPartOf":{"@id":"https://rgdzine.com/#website"},"inLanguage":"en-US"},{"@type":"Article","headline":"Home - RG Dzine","datePublished":"2015-07-29T07:40:38+00:00","dateModified":"2021-05-03T08:55:58+00:00","author":{"@type":"Person","name":"admin"},"publisher":{"@id":"https://rgdzine.com/#company"},"description":"Listening to your project and your vision about the spaceCreating a plan after intrinsic site measurements, planning and design consultancy where our team of","name":"Home - RG Dzine","@id":"https://rgdzine.com/#richSnippet","isPartOf":{"@id":"https://rgdzine.com/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://rgdzine.com/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="dns-prefetch" href="https://maps.googleapis.com/">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link rel="alternate" type="application/rss+xml" title="RG Dzine » Feed" href="https://rgdzine.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="RG Dzine » Comments Feed" href="https://rgdzine.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="RG Dzine » Home Comments Feed" href="https://rgdzine.com/homepage-parallax/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rgdzine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><style></style><script src="./pop_files/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./pop_files/style.min.css" type="text/css" media="all">
+<style id="wp-block-library-theme-inline-css" type="text/css">
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel="stylesheet" id="wc-block-vendors-style-css" href="./pop_files/vendors-style.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-block-style-css" href="./pop_files/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="./pop_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme.css-css" href="./pop_files/theme.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-main-front-style-css" href="./pop_files/crp-main-front.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-tc-buttons-css" href="./pop_files/crp-tc-buttons.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-tiled-layer-css" href="./pop_files/crp-tiled-layer.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-font-awesome-css" href="./pop_files/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-lg-viewer-css" href="./pop_files/lightgallery.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-captions-css" href="./pop_files/crp-captions.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-owl-css" href="./pop_files/owl.carousel.css" type="text/css" media="all">
+<link rel="stylesheet" id="crp-layout-css" href="./pop_files/layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="./pop_files/rs6.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="wpsm_team_b-font-awesome-front-css" href="./pop_files/font-awesome.min(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="wpsm_team_b_bootstrap-front-css" href="./pop_files/bootstrap-front.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpsm_team_b_team-css" href="./pop_files/team.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpsm_team_b_owl_carousel_min_css-css" href="./pop_files/owl.carousel.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="./pop_files/slick.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-min-css" href="./pop_files/font-awesome.min(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="team-free-style-css" href="./pop_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="wp-team-css" href="./pop_files/public.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="./pop_files/woocommerce-layout.css" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="./pop_files/woocommerce-smallscreen.css" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="./pop_files/woocommerce.css" type="text/css" media="all">
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="archi-fonts-css" href="./pop_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-bootstrap-css" href="./pop_files/bootstrap.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-jpreloader-css" href="./pop_files/royal-preloader.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-animate-css" href="./pop_files/animate.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-plugin-css" href="./pop_files/plugin.css" type="text/css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5_shims-css" href="./pop_files/v4-shims.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5-css" href="./pop_files/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-awesome-font-css" href="./pop_files/font-awesome(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-et-line-font-css" href="./pop_files/style(2).css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-elegant-font-css" href="./pop_files/style(3).css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-YTPlayer-css" href="./pop_files/jquery.mb.YTPlayer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-style-css" href="./pop_files/style(4).css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-block-style-css" href="./pop_files/blocks.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-woocommerce-css" href="./pop_files/woocommerce(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-style-light-css" href="./pop_files/light.css" type="text/css" media="all">
+<link rel="stylesheet" id="archi-twentytwenty-css" href="./pop_files/twentytwenty.css" type="text/css" media="all">
+<!--[if gte IE 8]>
+<link rel='stylesheet' id='archi-theme-new-ie-css'  href='https://rgdzine.com/wp-content/themes/archi/css/new-ie.css?ver=5.8' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="js_composer_front-css" href="./pop_files/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="spf-google-web-fonts-_sptp_generator-css" href="./pop_files/css(1)" type="text/css" media="all">
+<link rel="preload" as="style" href="./pop_files/css(2)"><link rel="stylesheet" href="./pop_files/css(2)" media="all" onload="this.media=&#39;all&#39;"><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat%7CRoboto%20Condensed:700&#038;display=swap&#038;ver=1620031728" /></noscript><script type="text/javascript" src="./pop_files/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="./pop_files/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="fuse-social-script-js-extra">
+/* <![CDATA[ */
+var fuse_social = {"ajax_url":"https:\/\/rgdzine.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/fuse_script.js" id="fuse-social-script-js"></script>
+<script type="text/javascript" id="Popup.js-js-extra">
+/* <![CDATA[ */
+var sgpbPublicUrl = ["https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/"];
+var SGPB_JS_LOCALIZATION = {"imageSupportAlertMessage":"Only image files supported","areYouSure":"Are you sure?","addButtonSpinner":"Add","audioSupportAlertMessage":"Only audio files supported (e.g.: mp3, wav, m4a, ogg)","publishPopupBeforeElementor":"Please, publish the popup before starting to use Elementor with it!","publishPopupBeforeDivi":"Please, publish the popup before starting to use Divi Builder with it!","closeButtonAltText":"Close"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/Popup.js" id="Popup.js-js"></script>
+<script type="text/javascript" src="./pop_files/PopupConfig.js" id="PopupConfig.js-js"></script>
+<script type="text/javascript" id="PopupBuilder.js-js-extra">
+/* <![CDATA[ */
+var SGPB_POPUP_PARAMS = {"popupTypeAgeRestriction":"ageRestriction","defaultThemeImages":{"1":"https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_1\/close.png","2":"https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_2\/close.png","3":"https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_3\/close.png","5":"https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_5\/close.png","6":"https:\/\/rgdzine.com\/wp-content\/plugins\/popup-builder\/public\/img\/theme_6\/close.png"},"homePageUrl":"https:\/\/rgdzine.com\/","isPreview":"","convertedIdsReverse":[],"dontShowPopupExpireTime":"365","conditionalJsClasses":[],"disableAnalyticsGeneral":""};
+var SGPB_JS_PACKAGES = {"packages":{"current":1,"free":1,"silver":2,"gold":3,"platinum":4},"extensions":{"geo-targeting":false,"advanced-closing":false}};
+var SGPB_JS_PARAMS = {"ajaxUrl":"https:\/\/rgdzine.com\/wp-admin\/admin-ajax.php","nonce":"674ecb9495"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/PopupBuilder.js" id="PopupBuilder.js-js"></script>
+<script type="text/javascript" src="./pop_files/crp-main-front.js" id="crp-main-front-js-js"></script>
+<script type="text/javascript" src="./pop_files/crp-helper.js" id="crp-helper-js-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.modernizr.js" id="crp-modernizr-js"></script>
+<script type="text/javascript" src="./pop_files/crp-tiled-layer.js" id="crp-tiled-layer-js"></script>
+<script type="text/javascript" src="./pop_files/crp-fs-viewer.js" id="crp-fs-viewer-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.lightgallery.js" id="crp-lg-viewer-js"></script>
+<script type="text/javascript" src="./pop_files/owl.carousel.js" id="crp-owl-js"></script>
+<script type="text/javascript" src="./pop_files/rbtools.min.js" id="tp-tools-js"></script>
+<script type="text/javascript" src="./pop_files/rs6.min.js" id="revmin-js"></script>
+<script type="text/javascript" src="./pop_files/owl.carousel.min.js" id="wpsm_team_b_owl_carousel_min_js-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.blockUI.min.js" id="jquery-blockui-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/rgdzine.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/add-to-cart.min.js" id="wc-add-to-cart-js"></script>
+<script type="text/javascript" src="./pop_files/woocommerce-add-to-cart.js" id="vc_woocommerce-add-to-cart-js-js"></script>
+<script type="text/javascript" src="./pop_files/royal_preloader.min.js" id="archi-jpreLoader-js"></script>
+<script type="text/javascript" src="./pop_files/js" id="archi-maps-js-js"></script>
+<script type="text/javascript" src="./pop_files/maplace.js" id="archi-maplace-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.malihu.PageScroll2id.js" id="archi-PageScroll2id-js"></script>
+<script type="text/javascript" src="./pop_files/js(1)" id="google_gtagjs-js" async=""></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-187973529-1", {"anonymize_ip":true});
+</script>
+<link rel="https://api.w.org/" href="https://rgdzine.com/wp-json/"><link rel="alternate" type="application/json" href="https://rgdzine.com/wp-json/wp/v2/pages/448"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://rgdzine.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://rgdzine.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8">
+<link rel="shortlink" href="https://rgdzine.com/">
+<link rel="alternate" type="application/json+oembed" href="https://rgdzine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frgdzine.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://rgdzine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frgdzine.com%2F&amp;format=xml">
+<meta name="framework" content="Redux 4.1.26"><meta name="generator" content="Site Kit by Google 1.30.0">        
+    <style type="text/css">    	
+					/* Preload Colors */
+			#jpreOverlay {background-color: #000000;}
+			#jprePercentage {color: #111111;}
+			#jpreBar{background-color: #FAB207;}
+			.royal_preloader, html {background-color: #000000;}
+		
+		/* Subheader Colors */
+		#subheader{
+							background-image:url(https://rgdzine.com/wp-content/themes/archi/images/subheader-1.jpg); 
+						background-color:#222222;
+		}
+		#subheader h1, #subheader h4, #subheader .crumb {
+			color: #ECEFF3;
+		}	
+
+		
+			
+
+		#mainmenu li a:after, #mainmenu li a.mPS2id-highlight, .mainmenu li a.mPS2id-highlight, .de-navbar-left header .mainmenu > li > a:hover,
+		header.smaller #mainmenu li a.mPS2id-highlight {
+			color: #FAB207;
+		}
+		nav ul#mainmenu > li.current-menu-ancestor > a, .mainmenu li.current-menu-item > a, nav ul.mainmenu > li.current-menu-ancestor > a, 
+		#mainmenu > li > a:hover, #mainmenu > li.current-menu-item > a, header.smaller #mainmenu > li > a:hover, header.smaller #mainmenu > li.current-menu-item > a {
+			color: #FAB207;opacity:1;
+		}
+		#mainmenu li.current-menu-ancestor li.current-menu-ancestor > a, #mainmenu li li.active > a,
+		header.smaller #mainmenu li li a:hover, #mainmenu li li a:hover {
+			background-color: #FAB207;color:#111;			
+		}
+
+		/*Topbar Border Bottom Color */
+		header .info {
+			border-bottom-color: rgba(255,255,255,0.2);
+			color: #FFFFFF;
+		}
+		header .info ul.social-list li i {
+			color: #FFFFFF;
+		}
+
+		/* Content Colors */	
+		.bg-color, .de_light .bg-fixed.bg-color,
+		section.call-to-action,		
+		.blog-list .date, .blog-read .date,
+		.slider-info .text1,
+		.btn-primary, .bg-id-color,
+		.pagination .current,
+		.pagination .current,
+		.pagination .current:hover,
+		.pagination .current:hover,
+		.pagination .current:focus,
+		.pagination .current span:focus, .dropcap,
+		.fullwidthbanner-container a.btn,
+		.feature-box-big-icon i,
+		#testimonial-full, .icon-deco i,
+		.blog-list .date-box .day,
+		.bloglist .date-box .day,
+		.feature-box-small-icon .border,
+		.small-border, .team-box .small-border,	.date-post,
+		.team-list .small-border,
+		.de-team-list .small-border,
+		.btn-line:hover,a.btn-line:hover,
+		.btn-line.hover,a.btn-line.hover,
+		.owl-arrow span, .de-progress .progress-bar,
+		#btn-close-x:hover, .box-fx .info, .de_testi blockquote:before,
+		.menu-sidebar-menu-container ul li.current_page_item a,
+		.widget_nav_menu ul#services-list li:hover,
+		.btn-more, .widget .small-border,
+		.product img:hover, #btn-search, .form-submit #submit,
+		#wp-calendar tbody td#today,
+		.de_tab.tab_steps .de_nav li span,
+		#services-list li a:hover,
+		.de_light #services-list li.active,
+		#services-list li.active, .button.btn.btn-line:hover,.woocommerce #respond input#submit, .woocommerce a.button, 
+		.woocommerce button.button, .woocommerce input.button, .woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+		.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+		.woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, 
+		.woocommerce button.button.alt, .woocommerce input.button.alt, .added_to_cart:hover, #back-to-top, .header-light #menu-btn:hover,
+		.owl-theme .owl-controls .owl-buttons div, .mb_YTVTime, .socials-sharing a.socials-item:hover, a.btn-custom,
+		header.side-header .social-icons-2 ul li a:hover, .pricing-dark.pricing-box .price-row,
+		.mainmenu li li a:hover, #services-list .widget_nav_menu ul.menu > li.current-menu-item > a, #services-list > li.current-menu-item > a, 
+		#services-list li li.current-menu-item > a, 
+		.pricing-s1 .ribbon, #sidebar .widget .small-border, .portfolio-navigation a:hover {
+			background-color:#FAB207;
+		}
+		.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce #respond input#submit.alt:hover, 
+		.woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+			background-color: #DAD8DA;
+			color: #5D6F93;
+		}
+		.post-image .owl-theme .owl-controls .owl-page.active span, .pricing-dark.pricing-box .price-row, 
+		.de_light .pricing-dark.pricing-box .price-row {
+		   background-color:#FAB207 !important;
+		}
+
+					#filters a:hover, .filters a:hover{background-color:#111;}
+			#filters li.showchild > a, #filters a.selected, #filters a.selected:hover,
+			.filters a.selected, .filters a.selected:hover {
+				background-color:#FAB207;
+				color: #111;
+			}
+		
+		.feature-box i,
+		.slider_text h1, .id-color,
+		.pricing-box li h1,
+		.title span, i.large:hover,
+		.feature-box-small-icon-2 i, address div i,
+		.pricing-dark .pricing-box li.price-row, .price,
+		.dark .feature-box-small-icon i,
+		a.btn-slider:after,
+		.feature-box-small-icon i, a.btn-line:after,
+		.team-list .social a,
+		.de_contact_info i, .de_count,
+		.dark .btn-line:hover:after, .dark a.btn-line:hover:after, .dark a.btn-line.hover:after,
+		a.btn-text:after,
+		.separator span  i,
+		address div strong,
+		address span strong,
+		.de_testi_by, .pf_text,
+		.dark .btn-line:after, .dark  a.btn-line:after, .crumb a,
+		.post-info a, .comments_number, .date .c_reply a,
+		.search-form:before, h3 b, .woocommerce .star-rating span,
+		.woocommerce .star-rating:before, .woocommerce div.product p.price, .woocommerce div.product span.price,
+		.woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .de_light.woocommerce p.stars a,
+		.de_light.woocommerce p.stars a, .pricing-box h1, .de_light .pricing-box h1, h1.title strong, header .info ul.social-list li a:hover i,
+		header .info ul.info-list li span, header .info ul.info-list li strong, header .info ul.info-list li i, .added_to_cart:after,
+		.portfolio-icon:hover, .portfolio-icon a:hover i, .de-navbar-left #subheader .crumb a, .mb_YTVPBar, .post-controls a:hover strong, 
+		.folio-style2 .folio-info h3 a:hover, .text-slider .text-item b, .style-3 b, .share-holder .social-links.rounded-share-icons a:hover i,
+		.woocommerce span.onsale, .woocommerce-info .showcoupon, .pricing-s1 .bottom i, .expand h4:after, ul.sidebar-style-2 li:hover a, 
+		ul.sidebar-style-2 li.active a, .pr_text, .portfolio-navigation a i, blockquote.s1  span.rating i, .process-sync2 .synced .item p, 
+		.process-sync2 .item:hover p, .topbar-login li i
+		{
+			color:#FAB207;
+		}
+
+		ul.sidebar-style-2 li.active, ul.sidebar-style-2 li:hover {border-left-color:#FAB207;}
+		.pricing-dark.pricing-box h1, .de_light .pricing-dark.pricing-box h1 {color: #fff;}
+
+		.feature-box i,
+		.pagination .current,
+		.pagination .current,
+		.pagination .current:hover,
+		.pagination .current:hover,
+		.pagination .current:focus,
+		.pagination .current:focus
+		.feature-box-big-icon i:after,
+		.social-icons i,
+		.btn-line:hover,a.btn-line:hover,
+		.btn-line.hover,a.btn-line:hover,
+		.product img:hover,
+		.wpcf7 input[type=text]:focus,.wpcf7 input[type=email]:focus,.wpcf7 input[type=tel]:focus,.wpcf7 textarea:focus, #search:focus,
+		.de_light .wpcf7  input[type=text]:focus,.de_light .wpcf7  input[type=tel]:focus,.de_light .wpcf7 textarea:focus,
+		.de_light .wpcf7 #search:focus, .comment-form input[type='text']:focus,.comment-form input[type='email']:focus,.comment-form textarea:focus, 
+		.socials-sharing a.socials-item:hover, .woocommerce span.onsale, .portfolio-navigation a:hover,
+		.wpcf7 input[type=number]:focus, .wpcf7 select.wpcf7-select:focus
+		{
+			border-color:#FAB207;
+			outline: 0px;
+		}
+
+		.comment-form textarea:focus{
+			border:1px solid #FAB207!important;
+		}
+
+		.box-fx .inner,
+		.dark .box-fx .inner,
+		.post-image,
+		.arrow-up
+		{
+			border-bottom-color:#FAB207;
+		}
+
+		.arrow-down{
+			border-top-color:#FAB207;
+		}
+
+		.callbacks_nav {
+			background-color:#FAB207;
+		}
+
+		.de_tab .de_nav li span {
+			border: 2px solid #FAB207;
+		}
+
+		.feature-box-big-icon i:after {
+			border-color: #FAB207 transparent; /*same colour as the lower of the bubble's gradient*/
+		}
+
+		.de_review li.active img{
+			border:solid 4px #FAB207;
+		}
+		.post-text blockquote {
+		    border-left: 5px solid #FAB207;
+		}
+
+		#subheader.portfolio-top-image {
+			background-image: url();
+		}
+		
+		/**** Custom CSS Footer ****/		
+		footer .widget_recent_entries li, footer .widget_archive li,
+		footer .widget_categories li, footer .widget_nav_menu li, 
+		footer .widget_pages li, footer .widget_meta li, address span {
+		    border-bottom-color: #222222;    
+		}
+
+		
+		@media only screen and (max-width: 992px) {
+			/* Styling Mobile Side Navigation */
+		    body.de-navbar-left .side-header, body.de-navbar-left  header.side-header .mainmenu{ 
+		    			    }
+		    body.de-navbar-left  header.side-header .mainmenu a{
+		    			    }
+		    body.de-navbar-left  header.side-header .mainmenu > li {
+		    			    }
+		    .mainmenu li ul{
+		    			    }
+		    .mainmenu li ul li a{
+		    							    }
+		    #menu-btn:hover{
+		    	background: #FAB207;
+		    }
+
+		    /* Styling Mobile Header */
+		    header.header-bg, header, header.transparent {
+		    			    }
+		    header #mainmenu li ul li:first-child, header #mainmenu li ul ul{
+		    			    }
+		    #mainmenu li, header #mainmenu li ul ul li:last-child{
+		    			    }
+		    #mainmenu li ul li a{
+		    							    }
+		    #mainmenu li a, #mainmenu li li a{
+		    			    }
+		    		    
+			header #mainmenu li span{				
+				background:url(https://rgdzine.com/wp-content/themes/archi/images/ui/arrow-down.png) center no-repeat;				
+			}			
+			header #mainmenu li span.active{
+				background:url(https://rgdzine.com/wp-content/themes/archi/images/ui/arrow-up.png) center no-repeat;
+			}
+		}
+    	    </style>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="google-site-verification" content="A9gAPdQTiBqVQ4naGkHZ1c6bIcrOiDWaErgDPYnzcSU"><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="generator" content="Powered by Slider Revolution 6.4.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<style id="archi_option-dynamic-css" title="dynamic-css" class="redux-options-output">#royal_preloader.royal_preloader_logo .royal_preloader_percentage, #jprePercentage{font-display:swap;}h1{font-display:swap;}h2{font-family:'Bookman Old Style', serif;line-height:40px;font-weight:700;font-style:normal;font-size:40px;font-display:swap;}h3{font-display:swap;}h4{font-display:swap;}h5{font-family:Montserrat;line-height:20px;font-weight:normal;font-style:normal;font-size:20px;font-display:swap;}h6{text-align:justify;font-display:swap;}#mainmenu > li > a, .mainmenu > li > a{font-family:"Roboto Condensed";font-weight:700;font-style:normal;font-display:swap;}#mainmenu li li a, .mainmenu li li a{font-display:swap;}#filters a, .filters a{color:#888;}#filters a:hover, .filters a:hover{color:#888;}footer{color:#CCCCCC;}footer .widget h3{color:#FFFFFF;}footer{background-color:#111111;}.subfooter{color:#CCCCCC;}.subfooter{background-color:#0B0B0B;}.subfooter{border-top-color:#0B0B0B;}footer a, address span a, footer .widget_recent_entries li a, footer .widget_archive li a,footer .widget_categories li a, footer .widget_nav_menu li a, footer .widget_pages li a, footer .widget_meta li a{color:#ccc;}footer a:hover, address span a:hover, footer .widget_recent_entries li a:hover, footer .widget_archive li a:hover,footer .widget_categories li a:hover, footer .widget_nav_menu li a:hover, footer .widget_pages li a:hover, footer .widget_meta li a:hover{color:#ccc;}footer a:active, address span a:active, footer .widget_recent_entries li a:active, footer .widget_archive li a:active,footer .widget_categories li a:active, footer .widget_nav_menu li a:active, footer .widget_pages li a:active, footer .widget_meta li a:active{color:#ccc;}.social-icons ul li a{color:#fff;}.social-icons ul li a:hover{color:#333;}.social-icons ul li a:active{color:#333;}footer .main-footer, .de-navbar-left footer.footer-side-nav .mainfooter{padding-top:80;padding-bottom:0;}.subfooter, .de-navbar-left footer.footer-side-nav .subfooter{padding-top:30;padding-bottom:20;}#back-to-top{right:40;bottom:40;}body{font-display:swap;}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1619792202587{padding-top: 90px !important;padding-bottom: 90px !important;background-image: url(https://rgdzine.com/wp-content/uploads/2021/04/b83f471f-bbea-4303-8796-4fe365a49b5a.jpg?id=1495) !important;}.vc_custom_1619877322166{padding-top: 50px !important;background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/about-bg-1-e1619876580955.jpg?id=1519) !important;}.vc_custom_1619876168215{padding-top: 50px !important;}.vc_custom_1452785646757{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1619880864647{padding-top: 20px !important;padding-bottom: 20px !important;background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/bg-2.jpg?id=1552) !important;}.vc_custom_1619883344373{padding-top: 20px !important;padding-bottom: 20px !important;background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/service-bg.jpg?id=1549) !important;}.vc_custom_1452785656961{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1619882224884{padding-top: 30px !important;padding-bottom: 30px !important;background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/bg-3.jpg?id=1554) !important;}.vc_custom_1619792873617{margin-bottom: 0px !important;}.vc_custom_1619874923666{margin-bottom: 0px !important;}.vc_custom_1619875046438{margin-bottom: 0px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script type="text/javascript" charset="UTF-8" src="./pop_files/common.js"></script><script type="text/javascript" charset="UTF-8" src="./pop_files/util.js"></script></head>
+<body class="home page-template page-template-page-templates page-template-template-canvas page-template-page-templatestemplate-canvas-php page page-id-448 wp-embed-responsive theme-archi woocommerce-js de_light archi-theme-ver-4.3.5.2 wordpress-version-5.8 wpb-js-composer js-comp-ver-6.6.0 vc_responsive">
+<div id="wrapper">
+    <!-- header begin -->
+    <header class="header-light newHeader"> 
+    
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="logo" class="newLogo">
+                        <a href="https://rgdzine.com/">
+                            <img class="logo-static" src="./pop_files/rg-web-logo.png" alt="RG Dzine">
+                                                            <img class="logo-scroll" src="./pop_files/WhatsApp-Image-2021-01-14-at-18.35.37-e1613811678989.jpeg" alt="RG Dzine">
+                                                    </a>
+                    </div>
+                    <span id="menu-btn"></span>
+                    <!-- mainmenu begin -->
+                    <nav class="newNav">
+                                                <ul id="mainmenu"><li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-448 current_page_item menu-item-1154 active"><a title="Home" href="https://rgdzine.com/">Home</a></li>
+<li id="menu-item-1151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a title="About" href="https://rgdzine.com/about/">About</a></li>
+<li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Services" href="https://rgdzine.com/our-services/">Services</a></li>
+<li id="menu-item-1046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a title="Works" href="https://rgdzine.com/projects/">Works</a></li>
+<li id="menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a title="Blog" href="https://rgdzine.com/blog/">Blog</a></li>
+<li id="menu-item-1153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a title="Contact Us" href="https://rgdzine.com/contact/">Contact Us</a></li>
+</ul>                       
+                    </nav>
+                </div>
+                <!-- mainmenu close -->
+            </div>
+        </div>
+    </header>
+    <!-- header close -->
+
+    
+	
+					<section data-stellar-background-ratio="-.1" class="wpb_row vc_row-fluid fontsize40 text-dark vc_custom_1619792202587 vc_row-has-fill stellar-fixed full-height no-padding" style="height: 981px; background-position: 0px 0px;"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper ">	
+   	<!-- Element: OT Home Parallax -->
+    <div class="center-y text-center" style="margin-top: 342.5px;">
+    	        <div class="spacer-single"></div>
+        <div class="text-slider border-deco" style="opacity: 0;">
+        	        </div>
+        <div class="spacer-double"></div>
+        <div class="cleafix"></div>
+            </div>
+   
+</div></div></div></div></section><section class="wpb_row vc_row-fluid vc_custom_1619877322166 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<div class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_shadow  vc_box_border_grey"><img width="1800" height="1350" src="./pop_files/about.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/about.jpg 1800w, https://rgdzine.com/wp-content/uploads/2021/04/about-300x225.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/about-1024x768.jpg 1024w, https://rgdzine.com/wp-content/uploads/2021/04/about-768x576.jpg 768w, https://rgdzine.com/wp-content/uploads/2021/04/about-1536x1152.jpg 1536w, https://rgdzine.com/wp-content/uploads/2021/04/about-600x450.jpg 600w" sizes="(max-width: 1800px) 100vw, 1800px" title="about"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1619792873617">
+		<div class="wpb_wrapper">
+			<h2><span style="color: #000000;">Welcome To RGDZINE</span></h2>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h5><span style="color: #000000;">We shape our homes, and then, our homes shape us – Winston Churchill</span></h5>
+</div>
+</div>
+<h5 class="vc_empty_space"></h5>
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h5><span style="color: #000000;">For&nbsp;the RGDZINE&nbsp;team, every detail in design must have a purpose, must reflect your personality and must be beautiful. For years, we have transformed ordinary houses into warm,&nbsp;luxurious homes&nbsp;by planning efficient layouts, using uplifting color palettes, bespoke furniture and strategic lighting schemes. Our team of designers and craftsmen combine their vision and aesthetic values with high-quality materials. We don’t just create spaces that look good, we create functional spaces that have a positive impact on your wellbeing.</span></h5>
+</div>
+</div>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_btn3-container vc_btn3-inline"><button class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-round vc_btn3-style-outline vc_btn3-color-primary">Read More</button></div></div></div></div></div></div></section><section class="wpb_row vc_row-fluid vc_custom_1619876168215"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper wow fadeInUp" style="visibility: hidden; animation-name: none;">
+	<!-- Element: OT Heading --> 	 
+	<h1 class="ot_custom_heading  " style="text-align: center;">WHAT WE DO</h1>	
+	<!-- Element: OT Line solid --> 	 
+	<div class=" separator "><span><i class="fa fa-circle"></i></span></div>
+	<div class="spacer-single"></div>	      
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper wow fadeInLeft" style="visibility: hidden; animation-name: none;">
+	<div class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="385" src="./pop_files/service-1.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/service-1.jpg 800w, https://rgdzine.com/wp-content/uploads/2021/04/service-1-600x289.jpg 600w, https://rgdzine.com/wp-content/uploads/2021/04/service-1-300x144.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/service-1-768x370.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="service 1"></div>
+		</figure>
+	</div>
+
+	<!-- Element: OT Heading --> 	 
+	<h2 class="ot_custom_heading  " style=""><b>Residential</b> Design</h2>	
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc_custom_1619874923666">
+		<div class="wpb_wrapper">
+			<h5>Our expert designers understand your needs and then transform your house into a home that reflects your unique identity.</h5>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/#" target="_self" class="btn btn-line-black btn-big  ">View Our Designs</a>
+	    
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper wow fadeInRight" style="visibility: hidden; animation-name: none;">
+	<div class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="800" height="385" src="./pop_files/service-2.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/service-2.jpg 800w, https://rgdzine.com/wp-content/uploads/2021/04/service-2-600x289.jpg 600w, https://rgdzine.com/wp-content/uploads/2021/04/service-2-300x144.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/service-2-768x370.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" title="service 2"></div>
+		</figure>
+	</div>
+
+	<!-- Element: OT Heading --> 	 
+	<h2 class="ot_custom_heading  " style=""><b>Office</b> Design</h2>	
+
+	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight vc_custom_1619875046438">
+		<div class="wpb_wrapper">
+			<h5>We understand the ever-changing realm of Workspace Design and help you create agile, functional, and aesthetic work spaces that will help you be more creative and productive.</h5>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/#" target="_self" class="btn btn-line-black btn-big  ">View Our Designs</a>
+	    
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></section><section class="wpb_row vc_row-fluid call-to-action bg-color text-center vc_custom_1452785646757 no-padding"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper ">			
+	<!-- Element: OT Button --> 
+			<a href="http://demo.archiwp.com/side-navigation-dark/our-services/" target="_self" class="btn btn-line-black btn-big  " rel="noopener">View All Services</a>
+	    
+</div></div></div></div></section><section class="wpb_row vc_row-fluid vc_custom_1619880864647 vc_row-has-fill"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<!-- Element: OT Heading --> 	 
+	<h2 class="ot_custom_heading  " style="text-align: center;color: #0a0a0a;">Our Work Process</h2>	
+	<!-- Element: OT Line solid --> 	 
+	<div class=" separator "><span><i class="fa fa-circle"></i></span></div>
+	<div class="spacer-single"></div>	      
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "><h6 style="font-size: 30px;text-align: center;font-family:Raleway;font-weight:800;font-style:normal" class="vc_custom_heading">Listening</h6><div class="vc-hoverbox-wrapper  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" ontouchstart="">
+  <div class="vc-hoverbox" style="perspective: 1050px;">
+    <div class="vc-hoverbox-inner" style="min-height: 250px;">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/2n.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            
+            <p>Listening to your project and your vision about the space</p>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "><h6 style="font-size: 30px;text-align: center;font-family:Raleway;font-weight:800;font-style:normal" class="vc_custom_heading">Strategy</h6><div class="vc-hoverbox-wrapper  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" ontouchstart="">
+  <div class="vc-hoverbox" style="perspective: 1050px;">
+    <div class="vc-hoverbox-inner" style="min-height: 250px;">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/1n.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            
+            <p>Creating a plan after intrinsic site measurements, planning and design consultancy where our team of experts produce a foolproof strategy, timeline to meet your requirements and taste.</p>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "><h6 style="font-size: 30px;text-align: center;font-family:Raleway;font-weight:800;font-style:normal" class="vc_custom_heading">Execution</h6><div class="vc-hoverbox-wrapper  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" ontouchstart="">
+  <div class="vc-hoverbox" style="perspective: 1050px;">
+    <div class="vc-hoverbox-inner" style="min-height: 250px;">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/3.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            
+            <p>We execute our wholesome project where you will be getting designs and decorations meeting your choices with guaranteed sustenance and magnificent beauty standards.</p>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper "><h6 style="font-size: 30px;text-align: center;font-family:Raleway;font-weight:800;font-style:normal" class="vc_custom_heading">Completion</h6><div class="vc-hoverbox-wrapper  wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft vc-hoverbox-shape--square vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--100" ontouchstart="">
+  <div class="vc-hoverbox" style="perspective: 1050px;">
+    <div class="vc-hoverbox-inner" style="min-height: 250px;">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://rgdzine.com/wp-content/uploads/2021/05/4.png);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #ebebeb;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            
+            <p>After the completion of the settlement, we ensure living to be hassle free, friendly and aesthetically pleasing in global standards.</p>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div></div></div></div></div></div></div></section><section class="wpb_row vc_row-fluid vc_custom_1619883344373 vc_row-has-fill"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<!-- Element: OT Heading --> 	 
+	<h2 class="ot_custom_heading  " style="text-align: center;color: #0a0a0a;">OUR WORKS</h2>	
+<div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://rgdzine.com/residential/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="1280" height="871" src="./pop_files/8.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/8.jpg 1280w, https://rgdzine.com/wp-content/uploads/2021/04/8-600x408.jpg 600w, https://rgdzine.com/wp-content/uploads/2021/04/8-300x204.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/8-1024x697.jpg 1024w, https://rgdzine.com/wp-content/uploads/2021/04/8-768x523.jpg 768w" sizes="(max-width: 1280px) 100vw, 1280px" title="8"></a>
+		</figure>
+	</div>
+<h2 style="text-align: center;font-family:Montserrat;font-weight:400;font-style:normal" class="vc_custom_heading"><a href="https://rgdzine.com/residential/">RESIDENTIAL</a></h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">We provide better designs for every lifestyle at your budget. No matter if you’re planning to renovate your existing home or designing a new one from scratch, just connect with us! We will do it all for you.</p>
+
+		</div>
+	</div>
+			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/residential/" target="_self" class="btn btn-line-black btn-big  ">View Designs</a>
+	    
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://rgdzine.com/office/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="1080" height="716" src="./pop_files/111.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/111.jpg 1080w, https://rgdzine.com/wp-content/uploads/2021/04/111-600x398.jpg 600w, https://rgdzine.com/wp-content/uploads/2021/04/111-300x199.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/111-1024x679.jpg 1024w, https://rgdzine.com/wp-content/uploads/2021/04/111-768x509.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" title="111"></a>
+		</figure>
+	</div>
+<h2 style="text-align: center;font-family:Montserrat;font-weight:400;font-style:normal" class="vc_custom_heading"><a href="https://rgdzine.com/office/">OFFICE</a></h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">RGDZINE has expertise in creating harmonized spaces for employees where they can work and spend time giving their best. Over the years we have created functional and impressive office space for various big-small companies.</p>
+
+		</div>
+	</div>
+			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/office/" target="_self" class="btn btn-line-black btn-big  ">View Designs</a>
+	    
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper ">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://rgdzine.com/commercial/" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img width="1080" height="716" src="./pop_files/55.jpg" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="https://rgdzine.com/wp-content/uploads/2021/04/55.jpg 1080w, https://rgdzine.com/wp-content/uploads/2021/04/55-600x398.jpg 600w, https://rgdzine.com/wp-content/uploads/2021/04/55-300x199.jpg 300w, https://rgdzine.com/wp-content/uploads/2021/04/55-1024x679.jpg 1024w, https://rgdzine.com/wp-content/uploads/2021/04/55-768x509.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" title="55"></a>
+		</figure>
+	</div>
+<h2 style="text-align: center;font-family:Montserrat;font-weight:400;font-style:normal" class="vc_custom_heading"><a href="https://rgdzine.com/commercial/">COMMERCIAL</a></h2>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">We provide the best interior design services for luxury hotels, restaurants, resorts and other spaces from the hospitality sector. Our professional designers have years of experience in renovation, modification and designing.</p>
+
+		</div>
+	</div>
+			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/commercial/" target="_self" class="btn btn-line-black btn-big  ">View Designs</a>
+	    
+</div></div></div></div></div></div></div></div></div></section><section class="wpb_row vc_row-fluid call-to-action bg-color text-center vc_custom_1452785656961 no-padding"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper ">			
+	<!-- Element: OT Button --> 
+			<a href="https://rgdzine.com/projects/" target="_self" class="btn btn-line-black btn-big  ">VIEW MORE WORKS</a>
+	    
+</div></div></div></div></section><section class="wpb_row vc_row-fluid bg-fixed vc_custom_1619882224884 vc_row-has-fill"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper wow fadeInUp" style="visibility: hidden; animation-name: none;">
+	<!-- Element: OT Heading --> 	 
+	<h2 class="ot_custom_heading  " style="text-align: center;color: #0a0a0a;">CUSTOMER SAYS</h2>	
+	<!-- Element: OT Line solid --> 	 
+	<div class=" separator "><span><i class="fa fa-circle"></i></span></div>
+	<div class="spacer-single"></div>	      
+	<!-- Element: OT Testimonial Silder -->	
+	<div id="testimonial-carousel-61275fbb55cda" class="de_carousel wow fadeInUp owl-carousel owl-theme" data-wow-delay=".3s" style="opacity: 1; display: block; visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+	        <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 4560px; left: 0px; display: block;"><div class="owl-item" style="width: 570px;"><div class="col-md-6 item">
+            <div class="de_testi">
+                <blockquote>
+                    <p>We selected RG Dzine because of exertion rigorous design background and education, and for their construction management skills. The team exceeded our expectations and emerged as leaders of our project’s multi-layered team.</p>
+                    <div class="de_testi_by no-margin">
+
+                    	
+						<div>
+                        	Jharna Roy                        </div>
+
+                    </div>
+                </blockquote>
+
+            </div>
+        </div></div><div class="owl-item" style="width: 570px;"><div class="col-md-6 item">
+            <div class="de_testi">
+                <blockquote>
+                    <p>Working with RG Dzine team was a pleasure. They balanced the architectural vision and the project realities beautifully, had a deep understanding of our priorities, and operated responsively and professionally to all matters.</p>
+                    <div class="de_testi_by no-margin">
+
+                    	
+						<div>
+                        	Rahul Singh                        </div>
+
+                    </div>
+                </blockquote>
+
+            </div>
+        </div></div><div class="owl-item" style="width: 570px;"><div class="col-md-6 item">
+            <div class="de_testi">
+                <blockquote>
+                    <p>I have very much enjoyed with the services of RG Dzine. Lovely Design &amp; Perfect design. Fully satisfied with their work.</p>
+                    <div class="de_testi_by no-margin">
+
+                    	
+						<div>
+                        	Papiya Das, Customer                        </div>
+
+                    </div>
+                </blockquote>
+
+            </div>
+        </div></div><div class="owl-item" style="width: 570px;"><div class="col-md-6 item">
+            <div class="de_testi">
+                <blockquote>
+                    <p>I totally recommend RG Dzine’s services. Get my work done within a time. Thanks team RG dzine.</p>
+                    <div class="de_testi_by no-margin">
+
+                    	
+						<div>
+                        	Kaushik Sarkar, Customer                        </div>
+
+                    </div>
+                </blockquote>
+
+            </div>
+        </div></div></div></div>
+                
+                
+                
+            <div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+    <script type="text/javascript">
+    	jQuery(document).ready(function() {		
+			'use strict';
+			jQuery("#testimonial-carousel-61275fbb55cda").owlCarousel({
+			    items : 2,
+				itemsDesktop : [1199,2],
+				itemsDesktopSmall : [980,2],
+			    itemsTablet: [768,1],
+			    itemsTabletSmall: false,
+			    itemsMobile : [479,1],
+			    navigation : false,
+				autoHeight : false,
+				autoPlay : false,
+				slideSpeed : 200,
+		        paginationSpeed : 800,
+		        rewindSpeed : 1000,
+		   		navigationText : ['', ''],
+		    });
+		});
+    </script>
+</div></div></div></div></div></section>
+			
+	
+	<!-- footer begin -->
+	<footer>				
+			
+									<div class="main-footer">
+		            <div class="container">
+		                <div class="row">
+		                    
+
+<div class="col-md-3 col-sm-6">
+    <div id="media_image-2" class="widget widget_media_image"><img width="148" height="150" src="./pop_files/rgweblogo.png" class="image wp-image-1291  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://rgdzine.com/wp-content/uploads/2021/04/rgweblogo.png 148w, https://rgdzine.com/wp-content/uploads/2021/04/rgweblogo-100x100.png 100w" sizes="(max-width: 148px) 100vw, 148px" title="rgweblogo"></div></div><!-- end col-lg-3 -->
+
+<div class="col-md-3 col-sm-6">
+    <div id="text-3" class="widget widget_text">			<div class="textwidget"><p>For&nbsp;the RGDZINE&nbsp;team, every detail in design must have a purpose, must reflect your personality and must be beautiful.</p>
+</div>
+		</div></div><!-- end col-lg-3 -->
+
+<div class="col-md-3 col-sm-6">
+    <div id="nav_menu-3" class="widget widget_nav_menu"><h3>Quick links</h3><div class="menu-menu-main-container"><ul id="menu-menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-448 current_page_item menu-item-1154"><a href="https://rgdzine.com/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1151"><a href="https://rgdzine.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a href="https://rgdzine.com/our-services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="https://rgdzine.com/projects/">Works</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152"><a href="https://rgdzine.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1153"><a href="https://rgdzine.com/contact/">Contact Us</a></li>
+</ul></div></div></div><!-- end col-lg-3 -->
+
+<div class="col-md-3 col-sm-6">
+    <div id="text-2" class="widget widget_text"><h3>Get In Touch</h3>			<div class="textwidget"><div>GE-138, RAJDANGA MAIN ROAD, SECTOR G,</div>
+<div>EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107</div>
+<div><strong>Phone: 033 40002678</strong></div>
+</div>
+		</div></div><!-- end col-lg-3 -->
+
+
+
+		                </div>    
+		            </div>
+		        </div>
+					
+		<div class="subfooter ">
+			<div class="container">
+				<div class="row">
+										<div class="col-md-6">
+						© Copyright 2021 - RGDZINE Develop by DigiAdroit                     
+					</div>
+
+											<div class="col-md-6 text-right">
+							<div class="social-icons">
+								<ul>
+									                                    
+										<li><a target="_blank" href="https://www.facebook.com/RgDzine"><i class="fa fa-facebook"></i></a></li>                                    
+									                                
+									                                    
+										<li><a target="_blank" href="https://twitter.com/dzine_rg"><i class="fa fa-twitter"></i></a></li>                                    
+									                                
+																																				                                
+									                                    
+										<li><a target="_blank" href="https://rgdzine.com/#"><i class="fa fa-youtube"></i></a></li>                                    
+									  
+																		                                                            
+									                               
+									  
+																																																															 
+	                            </ul>                                  
+							</div>
+						</div>  
+					                      
+				</div>
+			</div>
+		</div>
+
+		<a id="back-to-top" href="https://rgdzine.com/#" class=""></a>
+	</footer>
+
+</div><!-- #wrapper -->
+
+
+<div id="translate-magnific-popup" data-magnificloading="Loading..." data-magnificclosex="Close (Esc)"></div> 
+
+        <script type="text/javascript">
+            window.jQuery = window.$ = jQuery;  
+            (function($) { "use strict";
+                                    /* Page Scroll to id fn call */ 
+                    jQuery("#mainmenu li a, a.scroll-to").mPageScroll2id({
+                        highlightSelector:"#mainmenu li a",
+                        offset: 68,
+                        scrollSpeed:750,
+                        scrollEasing: "easeInOutCubic"
+                    }); 
+                 
+
+                /* Enable/Disable Animate Scroll on Desktop and Mobile */
+                                                            jQuery(document).ready(function() {'use strict';                                                     
+                            new WOW().init();                         
+                        });
+                                    
+                                    //Preloader Logo
+                    Royal_Preloader.config({
+                        mode           : 'logo',
+                        logo           : 'https://rgdzine.com/wp-content/uploads/2021/04/rg-web-logo-1.png',
+                        logo_size      : [100, 100],
+                        showProgress   : true,
+                        showPercentage : true,
+                        text_colour: '#111111',
+                        background:  '#000000'
+                    });
+                
+            })(jQuery);
+        </script>
+    <script type="text/html" id="wpb-modifications"></script><div class="sgpb-main-popup-data-container-1471" style="position:fixed;opacity: 0;filter: opacity(0%);transform: scale(0);">
+							
+						  </div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="vc_animate-css-css" href="./pop_files/animate.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="vc_google_fonts_raleway100200300regular500600700800900-css" href="./pop_files/css(3)" type="text/css" media="all">
+<link rel="stylesheet" id="vc_google_fonts_montserratregular700-css" href="./pop_files/css(4)" type="text/css" media="all">
+<script type="text/javascript" src="./pop_files/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="./pop_files/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="./pop_files/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="./pop_files/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type="text/javascript" src="./pop_files/lodash.min.js" id="lodash-js"></script>
+<script type="text/javascript" id="lodash-js-after">
+window.lodash = _.noConflict();
+</script>
+<script type="text/javascript" src="./pop_files/url.min.js" id="wp-url-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type="text/javascript" src="./pop_files/api-fetch.min.js" id="wp-api-fetch-js"></script>
+<script type="text/javascript" id="wp-api-fetch-js-after">
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://rgdzine.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "2751241320" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://rgdzine.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./pop_files/slick.min.js" id="slick-min-js-js"></script>
+<script type="text/javascript" src="./pop_files/js.cookie.min.js" id="js-cookie-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/woocommerce.min.js" id="woocommerce-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_fdc92acb77f1cbf9298cb22b4e075491","fragment_name":"wc_fragments_fdc92acb77f1cbf9298cb22b4e075491","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./pop_files/cart-fragments.min.js" id="wc-cart-fragments-js"></script>
+<script type="text/javascript" src="./pop_files/comment-reply.min.js" id="comment-reply-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.isotope.min.js" id="archi-isotope-js"></script>
+<script type="text/javascript" src="./pop_files/imagesloaded.min.js" id="imagesloaded-js"></script>
+<script type="text/javascript" src="./pop_files/masonry.min.js" id="masonry-js"></script>
+<script type="text/javascript" src="./pop_files/jquery.masonry.min.js" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="./pop_files/total1.js" id="archi-total-js"></script>
+<script type="text/javascript" src="./pop_files/classie.js" id="archi-classie-js"></script>
+<script type="text/javascript" src="./pop_files/wow.min.js" id="archi-wow-js-js"></script>
+<script type="text/javascript" src="./pop_files/designesia.js" id="archi-custom-js"></script>
+<script type="text/javascript" src="./pop_files/wp-embed.min.js" id="wp-embed-js"></script>
+<script type="text/javascript" src="./pop_files/js_composer_front.min.js" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="./pop_files/vc-waypoints.min.js" id="vc_waypoints-js"></script>
+<div id="icon_wrapper"><a target="_blank" class="fuse_social_icons_links" data-nonce="a7c94653ba" data-title="facebook" href="https://www.facebook.com/RgDzine">	<i class="fa fa-facebook facebook-awesome-social awesome-social"></i></a><a target="_blank" class="fuse_social_icons_links" data-nonce="a7c94653ba" data-title="twitter" href="https://rgdzine.com/#">	<i class="fa fa-twitter twitter-awesome-social awesome-social"></i></a><a target="_blank" class="fuse_social_icons_links" data-nonce="a7c94653ba" data-title="linkedin" href="https://rgdzine.com/#">	<i class="fa fa-linkedin linkedin-awesome-social awesome-social"></i></a><a target="_blank" class="fuse_social_icons_links" data-nonce="a7c94653ba" data-title="youtube" href="https://rgdzine.com/#">	<i class="fa fa-youtube youtube-awesome-social awesome-social"></i></a>
+<script>
+function checkWidth() {
+    if ($(window).width() > 992) {
+        $('#de-main').addClass('newMain');
+		$('#de-sidebar').addClass('newSidebar');
+		$('header').addClass('newHeader');
+		$('#logo').addClass('newLogo');
+		$('nav').addClass('newNav');
+		$('.h-content').addClass('newSocialButton');
+    } else {
+        $('#de-main').removeClass('newMain');
+		$('#de-sidebar').removeClass('newSidebar');
+		$('header').removeClass('newHeader');
+		$('#logo').removeClass('newLogo');
+		$('nav').removeClass('newNav');
+		$('.h-content').removeClass('newSocialButton');
+		$('#menuButton').hide();
+    }
+}
+$(window).resize(checkWidth);
+	$(document).ready(function(){
+  // we call the function
+  checkWidth();
+		$("#menuButton").click(function(){
+			  $('#de-main').toggleClass('newMain',1000);
+			$('#de-sidebar').toggleClass('newSidebar');
+		$('header').toggleClass('newHeader');
+		$('#logo').toggleClass('newLogo');
+		$('nav').toggleClass('newNav');
+		$('.h-content').toggleClass('newSocialButton');
+			
+			
+	
+});	
+});
+	
+
+	
+	
+</script>
+
+
+</div><img class="sgpb-background-image-1471" src="./pop_files/8c29c3c3-5890-4c5c-bd96-b175d3e88865.jpg" style="position: fixed; bottom: -1e+13px;"><div id="sgpb-popup-dialog-main-div-wrapper" class="sgpb-popup-dialog-main-div-wrapper" style=""><div class="sgpb-popup-dialog-main-div-theme-wrapper-1" style="z-index: 999910; position: fixed; left: 284px; top: 74px;"><img class="sgpb-popup-close-button-1" alt="Close" src="./pop_files/close.png" style="z-index: 999920; position: absolute; float: left; right: 9px; bottom: 9px; width: 30px; cursor: pointer; height: 30px; background-repeat: no-repeat; background-size: cover;"><div id="sgpb-popup-dialog-main-div" class="sgpb-content sgpb-content-1471 sgpb-theme-1-content sg-popup-content" style="box-sizing: content-box; min-width: 120px; max-height: 829px; max-width: 1786px; border-style: solid; border-color: rgb(255, 0, 0); border-width: 0px; background-image: url(&quot;https://rgdzine.com/wp-content/uploads/2021/05/8c29c3c3-5890-4c5c-bd96-b175d3e88865.jpg&quot;); background-size: 100% 100%; background-repeat: no-repeat; background-color: rgb(255, 255, 255); box-shadow: rgb(204, 204, 204) 0px 0px 0px 14px; overflow: auto; width: 1280px; height: 772px;"><div style="height:100%;width:100%;overflow:auto;"><div class="sg-popup-builder-content" id="sg-popup-content-wrapper-1471" data-id="1471" data-events="[{&quot;param&quot;:&quot;load&quot;,&quot;value&quot;:&quot;5&quot;,&quot;hiddenOption&quot;:[]},{&quot;param&quot;:&quot;load&quot;,&quot;value&quot;:&quot;&quot;,&quot;hiddenOption&quot;:[]}]" data-options="YTo0OTp7czoyNjoic2dwYi1mbG9hdGluZy1idXR0b24tc3R5bGUiO3M6NjoiY29ybmVyIjtzOjI5OiJzZ3BiLWZsb2F0aW5nLWJ1dHRvbi1wb3NpdGlvbiI7czoxMjoiYm90dG9tLXJpZ2h0IjtzOjE0OiJzZ3BiLWltYWdlLXVybCI7czo4NzoiaHR0cHM6Ly9yZ2R6aW5lLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMS8wNS84YzI5YzNjMy01ODkwLTRjNWMtYmQ5Ni1iMTc1ZDNlODg4NjUuanBnIjtzOjk6InNncGItdHlwZSI7czo1OiJpbWFnZSI7czoxNToic2dwYi1pcy1wcmV2aWV3IjtzOjE6IjAiO3M6MTQ6InNncGItaXMtYWN0aXZlIjtzOjc6ImNoZWNrZWQiO3M6MzQ6InNncGItYmVoYXZpb3ItYWZ0ZXItc3BlY2lhbC1ldmVudHMiO2E6MTp7aTowO2E6MTp7aTowO2E6MTp7czo1OiJwYXJhbSI7czoxMjoic2VsZWN0X2V2ZW50Ijt9fX1zOjE4OiJzZ3BiLXBvcHVwLXotaW5kZXgiO3M6NDoiOTk5OSI7czoxNzoic2dwYi1wb3B1cC10aGVtZXMiO3M6MTI6InNncGItdGhlbWUtMSI7czoyNToic2dwYi1vdmVybGF5LWN1c3RvbS1jbGFzcyI7czoxODoic2dwYi1wb3B1cC1vdmVybGF5IjtzOjE4OiJzZ3BiLW92ZXJsYXktY29sb3IiO3M6MDoiIjtzOjIwOiJzZ3BiLW92ZXJsYXktb3BhY2l0eSI7czozOiIwLjgiO3M6MjU6InNncGItY29udGVudC1jdXN0b20tY2xhc3MiO3M6MTY6InNnLXBvcHVwLWNvbnRlbnQiO3M6MTI6InNncGItZXNjLWtleSI7czoyOiJvbiI7czoyNDoic2dwYi1lbmFibGUtY2xvc2UtYnV0dG9uIjtzOjI6Im9uIjtzOjIzOiJzZ3BiLWNsb3NlLWJ1dHRvbi1kZWxheSI7czoxOiIwIjtzOjI2OiJzZ3BiLWNsb3NlLWJ1dHRvbi1wb3NpdGlvbiI7czoxMToiYm90dG9tUmlnaHQiO3M6MjQ6InNncGItYnV0dG9uLXBvc2l0aW9uLXRvcCI7czowOiIiO3M6MjY6InNncGItYnV0dG9uLXBvc2l0aW9uLXJpZ2h0IjtzOjE6IjkiO3M6Mjc6InNncGItYnV0dG9uLXBvc2l0aW9uLWJvdHRvbSI7czoxOiI5IjtzOjI1OiJzZ3BiLWJ1dHRvbi1wb3NpdGlvbi1sZWZ0IjtzOjA6IiI7czoxNzoic2dwYi1idXR0b24taW1hZ2UiO3M6MDoiIjtzOjIzOiJzZ3BiLWJ1dHRvbi1pbWFnZS13aWR0aCI7czoyOiIzMCI7czoyNDoic2dwYi1idXR0b24taW1hZ2UtaGVpZ2h0IjtzOjI6IjMwIjtzOjE3OiJzZ3BiLWJvcmRlci1jb2xvciI7czo3OiIjMDAwMDAwIjtzOjE4OiJzZ3BiLWJvcmRlci1yYWRpdXMiO3M6MToiMCI7czoyMzoic2dwYi1ib3JkZXItcmFkaXVzLXR5cGUiO3M6MToiJSI7czoxNjoic2dwYi1idXR0b24tdGV4dCI7czo1OiJDbG9zZSI7czoxODoic2dwYi1vdmVybGF5LWNsaWNrIjtzOjI6Im9uIjtzOjI1OiJzZ3BiLXBvcHVwLWRpbWVuc2lvbi1tb2RlIjtzOjE0OiJyZXNwb25zaXZlTW9kZSI7czozMzoic2dwYi1yZXNwb25zaXZlLWRpbWVuc2lvbi1tZWFzdXJlIjtzOjQ6ImF1dG8iO3M6MTA6InNncGItd2lkdGgiO3M6NToiNjQwcHgiO3M6MTE6InNncGItaGVpZ2h0IjtzOjU6IjQ4MHB4IjtzOjE0OiJzZ3BiLW1heC13aWR0aCI7czowOiIiO3M6MTU6InNncGItbWF4LWhlaWdodCI7czowOiIiO3M6MTQ6InNncGItbWluLXdpZHRoIjtzOjM6IjEyMCI7czoxNToic2dwYi1taW4taGVpZ2h0IjtzOjA6IiI7czoyNjoic2dwYi1vcGVuLWFuaW1hdGlvbi1lZmZlY3QiO3M6OToiTm8gZWZmZWN0IjtzOjI3OiJzZ3BiLWNsb3NlLWFuaW1hdGlvbi1lZmZlY3QiO3M6OToiTm8gZWZmZWN0IjtzOjI5OiJzZ3BiLWVuYWJsZS1jb250ZW50LXNjcm9sbGluZyI7czoyOiJvbiI7czoxNjoic2dwYi1wb3B1cC1vcmRlciI7czoxOiIwIjtzOjE2OiJzZ3BiLXBvcHVwLWRlbGF5IjtzOjE6IjAiO3M6Nzoic2dwYi1qcyI7czoyOiJKUyI7czo4OiJzZ3BiLWNzcyI7czozOiJDU1MiO3M6MTI6InNncGItcG9zdC1pZCI7czo0OiIxNDcxIjtzOjI1OiJzZ3BiLWVuYWJsZS1wb3B1cC1vdmVybGF5IjtzOjI6Im9uIjtzOjIyOiJzZ3BiLWJ1dHRvbi1pbWFnZS1kYXRhIjtzOjA6IiI7czoyNjoic2dwYi1iYWNrZ3JvdW5kLWltYWdlLWRhdGEiO3M6MDoiIjtzOjE0OiJzZ3BiQ29uZGl0aW9ucyI7Tjt9">
+								<div class="sgpb-popup-builder-content-1471 sgpb-popup-builder-content-html"><img width="1" height="1" class="sgpb-preloaded-image-1471" alt="" src="./pop_files/8c29c3c3-5890-4c5c-bd96-b175d3e88865.jpg" style="position:absolute;right:9999999999999px;"></div>
+							</div></div></div></div></div><div class="sgpb-theme-1-overlay sgpb-popup-overlay-1471 sgpb-popup-overlay" style="z-index: 9999; background-color: black; opacity: 0.8; position: fixed; left: 0px; top: 0px; width: 100%; height: 100%;"></div></body></html>
