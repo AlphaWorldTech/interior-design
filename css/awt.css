@@ -233,6 +233,7 @@
             top: 0;
             z-index: 10001 !important;
             width: 100%;
+            background-color: transparent !important;
         }
         
         .pop-up .container-fluid {
@@ -248,7 +249,7 @@
             position: fixed;
             left: 0;
             position: relative;
-            top: 2%;
+            top: 1%;
             background-color: whitesmoke;
             z-index: 100001;
         }

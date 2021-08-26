@@ -8,11 +8,10 @@
     <div id="popup2" class="container">
       <div class="row">
         <div class="modal-header">
-          <h5 class="mx-auto"> Limited for only 10 first purhcases.<span class="bg-danger mx-4 text-light px-2 py-1 rounded ">GET 10% OFF instant </span></h5>
           <button type="button  mx-5" class="btn-close" onclick="closepopup();"></button>
         </div>
         <div class="col-sm-12 my-2">
-          <img class="img-fluid pop-up-img" src="images/photos/my.jpeg" alt="">
+          <img class="img-fluid pop-up-img" src="images/banner/popup.png" alt="pop-up img">
         </div>
 
       </div>
@@ -893,11 +892,11 @@
 </script>
 
 <script>
-  // setTimeout(function(){ 
-  //   document.querySelector(".pop-up").style.display = "block";
+  setTimeout(function(){ 
+    document.querySelector(".pop-up").style.display = "block";
 
 
-  //  }, 3000);
+   }, 3000);
 
 
 
