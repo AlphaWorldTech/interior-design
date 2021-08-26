@@ -154,24 +154,7 @@
 
                 <li><a href="#">OUR SERVICES</a>
                   <ul class="dropdown">
-                    <li>
-                      <a href="#">Interior & Exterior Paint Finishes </a>
-                      <ul class="dropdown">
-
-                        <li>
-                          <a href="interior-paint-finish.php">Interior Paint Finish</a>
-                        </li>
-                        <li>
-                          <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
-                        </li>
-                        <li>
-                          <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                        </li>
-                        <li>
-                          <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                        </li>
-                      </ul>
-                    </li>
+                 
                     <li>
                       <a href="#">Interior & Exterior Design </a>
                       <ul class="dropdown">
@@ -186,6 +169,24 @@
                         </li>
                         <li>
                           <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="#">OTHERS </a>
+                      <ul class="dropdown">
+
+                        <li>
+                          <a href="interior-paint-finish.php">Interior Consultant</a>
+                        </li>
+                        <li>
+                          <a href="exterior-paint-finish.php">Turnkey Projects</a>
+                        </li>
+                        <li>
+                          <a href="water-proofing-solution.php">Miniature Models</a>
+                        </li>
+                        <li>
+                          <a href="wooden-coating-solution.php">Kiosk & Mockup</a>
                         </li>
                       </ul>
                     </li>
