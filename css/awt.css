@@ -249,7 +249,7 @@
             position: fixed;
             left: 0;
             position: relative;
-            top: 1%;
+            top: 0;
             background-color: whitesmoke;
             z-index: 100001;
         }
@@ -457,6 +457,9 @@ nav {
                 padding-bottom: 0.2%;
                 margin-bottom: 0.5%;
             }
+            .heading-txt {
+                font-size: 22px !important;
+            }
         }
         
         @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
@@ -533,7 +536,7 @@ nav {
         
         .heading-txt {
             color: white !important;
-            font-size: 80px !important;
+            font-size: 80px;
         }
         
         .banner-section {
@@ -599,4 +602,9 @@ nav {
             height: 150px !important;
             width: 50%;
             margin-top: -20px;
+        }
+        /* gallary images size  */
+        
+        .img-fullwidth {
+            height: 300px !important;
         }
