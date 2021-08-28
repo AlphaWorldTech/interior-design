@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">Best Exterior Design Company in Delhi/NCR</h1>
+              <h1 class=" text-light">Best Exterior Design Company in Pan India</h1>
              
             </div>
           </div>
@@ -33,7 +33,7 @@
 Nothing is more gratifying than a welcoming, finished, well-appointed living space that blends personal style with colors, lines.  </strong></p>
                  
               
-                  <img class="img-fullwidth" src="images/services/exterior-design.jpg" alt="exterior-design"><br><br>
+                  <img class="img-fullwidth" src="images/services/ext-design.jpg" alt="exterior-design"><br><br>
                
 				<p class="text-black">Our interior decorating process is creative, fun and elegant. We’ll get to know you, learn about your needs, the project scope and your desired outcome. Gathering photos and floor plans, we’ll put together a concept that includes an overall interior style, suggested colours, furnishings, flooring and other finishing touches. Once we’ve finalised your perfect design, we can also select, order, deliver and install your new furnishings.</p>
 				
@@ -102,3 +102,5 @@ Nothing is more gratifying than a welcoming, finished, well-appointed living spa
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

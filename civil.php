@@ -100,3 +100,5 @@ Urban India Design is one of the top Construction Companies in Noida, Delhi, NCR
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

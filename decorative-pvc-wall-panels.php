@@ -114,3 +114,5 @@ PVC ceiling and wall panels are easy to install, water-proof, maintenance-free a
   
 <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

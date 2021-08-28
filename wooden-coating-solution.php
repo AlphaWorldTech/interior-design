@@ -45,7 +45,7 @@ It is perfect for those looking for long lasting wood finishes that protect wood
 				<h4 class="text-theme-colored">Enhanced Durability</h4>
 				<p class="text-black">The Wood paints will protect your wooden surfaces from heat, hot fluids, oil stains, termite attacks and other such harmful elements and keep them new for years and years.</p>
 				<h4 class="text-theme-colored">Easy Application</h4>
-				<p class="text-black">Application is totally hassle-free; you won’t need to worry about complicated painting procedures with our wood finishes.</p>
+				<p class="text-black">Application is totally hassle-free; you wonï¿½t need to worry about complicated painting procedures with our wood finishes.</p>
 				
 				<h4 class="text-theme-colored">Excellent Value for Money</h4>
 				<p class="text-black">With the premium features that come with our wood paints solutions, full value for your money is guaranteed.</p>
@@ -112,3 +112,5 @@ It is perfect for those looking for long lasting wood finishes that protect wood
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

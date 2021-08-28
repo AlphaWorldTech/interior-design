@@ -98,3 +98,5 @@ To choose which paint is best for your project? Do the research. The type of pai
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

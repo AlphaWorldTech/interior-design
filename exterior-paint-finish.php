@@ -105,3 +105,5 @@ Types of paint finishes used for exterior house painting are just as important a
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

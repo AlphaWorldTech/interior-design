@@ -113,3 +113,5 @@ The rains are a nightmare for houses and structures that have not been waterproo
   
  <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

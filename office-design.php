@@ -108,3 +108,5 @@ Need a cool office space – Urban India Design is a right place for you. </stro
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>
