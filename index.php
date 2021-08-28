@@ -286,7 +286,7 @@
             <div class="title-icon">
               <img class="" src="images/title-icon2.png" alt="title">
             </div>
-            <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Delhi NCR </h4>
+            <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Pan India </h4>
           </div>
         </div>
       </div>

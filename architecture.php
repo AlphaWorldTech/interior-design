@@ -104,3 +104,5 @@ Once the architectural planning is done and approved we then go ahead and start 
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+    <script src="js/logo.js"></script>

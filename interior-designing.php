@@ -5,13 +5,13 @@
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header parallax layer-overlay" data-bg-img="images/bg/bg5.jpg">
+    <section class="inner-header parallax layer-overlay" data-bg-img="images/services/bg5.jpg">
       <div class="container pt-140 pb-50">
         <!-- Section Content -->
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">Interior designing</h1>
+              <h1 class="font-32 text-theme-colored heading-txt">Interior designing</h1>
              
             </div>
           </div>
@@ -33,7 +33,7 @@
 Exquisite Designs, Finest Materials, Best Delivery Timelines – Home Makeovers have never been easier. </strong></p>
                  
               
-                  <img class="img-fullwidth" src="images/services/interior-design.jpg" alt="interior-design"><br><br>
+                  <img class="img-fullwidth" src="images/services/bg5.jpg" alt="interior-design"><br><br>
                
 				<p class="text-black">Our interior decorating process is creative, fun and elegant. We’ll get to know you, learn about your needs, the project scope and your desired outcome. Gathering photos and floor plans, we’ll put together a concept that includes an overall interior style, suggested colours, furnishings, flooring and other finishing touches. Once we’ve finalised your perfect design, we can also select, order, deliver and install your new furnishings.</p>
 				
@@ -108,3 +108,6 @@ Exquisite Designs, Finest Materials, Best Delivery Timelines – Home Makeovers 
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+
+    <script src="js/logo.js"></script>

@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">Modular Kitchen</h1>
+              <h1 class="font-32 text-theme-colored heading-txt">Modular Kitchen</h1>
              
             </div>
           </div>
@@ -33,7 +33,7 @@
 Modular kitchen designs - Explore our gallery to find trendy kitchen designs for every kitchen shape & theme along with instant estimates. </strong></p>
                  
               
-                  <img class="img-fullwidth" src="images/services/modular-kitchen.jpg" alt="modular-kitchen"><br><br>
+                  <img class="img-fullwidth" src="images/services/kitchendesign.jpg" alt="modular-kitchen"><br><br>
                
 				<p class="text-black">Modular kitchen designs - Explore our gallery to find trendy kitchen designs for every kitchen shape & theme along with instant estimates. </p>
 				
@@ -102,3 +102,5 @@ Modular kitchen designs - Explore our gallery to find trendy kitchen designs for
   
   <!-- php footer code  -->
     <?php include "footer.php"; ?>
+
+<script src="js/logo.js"></script>
