@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored">Exterior Painting </h1>
+              <h1 class=" heading-txt">Exterior Painting </h1>
              
             </div>
           </div>
@@ -84,8 +84,7 @@ Types of paint finishes used for exterior house painting are just as important a
               <div class="widget">
                 <div class="fb-page">
                   <h5 class="text-theme-colored"> Latest Facebook Updates</h5>
-                  <iframe src="https://www.facebook/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Furbanindiadesign&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="330" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-          
+                  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRgDzine&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>          
                 </div>
               </div>		
               
