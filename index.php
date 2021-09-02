@@ -10,7 +10,7 @@
         <div class="modal-header">
           <button type="button  mx-5" class="btn-close" onclick="closepopup();"></button>
         </div>
-        <div class="col-sm-12 my-2">
+        <div class="col-sm-12 my-2 ">
           <img class="img-fluid pop-up-img" src="images/banner/popup.png" alt="pop-up img">
         </div>
 
@@ -201,23 +201,18 @@
   </section>
 
   <!-- BANNER SECTION -->
-  <section>
-    <div class=" banner-section mb-5">
+ 
 
-
-      <div class="container">
-        <div class="row banner-middle">
-          <div class="col-sm-3">
-
-          </div>
-          <div class="col-sm-2">
-            <!-- <img src="images/banner/LOGO2.png" class="img-fluid" alt=""> -->
-            <div class="row icon-row border rounded my-2">
-              <div class=" col-sm-4 mb-1">
+<div class="container-fluid bg-light">
+  <div class="row">
+    <div class="col-4 col-md-4 mrinal py-2">
+       <img src="images/banner/banner.png" width="70%;"  alt="banner-image">
+        <!-- <div class="row col-8 icon-row border rounded mx-2 text-center">
+              <div class="col-sm-2 py-3">
               <i class="rounded-icon far fa-shield-check text-light h3  my-2 mx-3"></i>
               </div>
              
-              <div class="col-sm-8 my-1">
+              <div class="col-sm-8 py-3">
 
                 <span class="fw-bold h5 myspan">
                   RG DZINE
@@ -229,50 +224,70 @@
               
 
               </div>
+            </div>-->
+      </div> 
+    <div class="col-md-8 col-8">
+      <div class="row text-center py-2">
+          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+            <h5>On-time</h5>
+            <p>delivery</p>
+          </div>
+          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+            <h5>Best</h5>
+            <p>Price</p>
+          </div>
+          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+            <h5>Superior</h5>
+            <p>quality</p>
+          </div>
+          <div class="col-6 col-md-3 mt-2 mrinal1">
+            <h5>Safety</h5>
+            <p>assured</p>
+          </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-6">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="images/banner/banner.png" alt="banner-image">
+          </div>
+        </div>
+        <div class="col-md-6">
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="col-md-6">
+                  <p>On-time</p>
+                  <p>On-time</p>
+              </div>
+              <div class="col-md-6">
+                  <p>On-time</p>
+                  <p>On-time</p>
+              </div>
             </div>
           </div>
-
-          <div class="col-sm-1">
-            <h5>
-              On-time
-            </h5>
-            <p>
-              delivery
-            </p>
-          </div>
-          <div class="col-sm-1">
-            <h5>
-              Best
-            </h5>
-            <p>
-              Price
-            </p>
-          </div>
-          <div class="col-sm-1">
-            <h5>
-              Superior
-            </h5>
-            <p>
-              quality
-            </p>
-          </div>
-          <div class="col-sm-1">
-            <h5>
-              Safety
-            </h5>
-            <p>
-              assured
-
-            </p>
+          <div class="row">
+            <div class="col-md-12">
+              <div class="col-md-6">
+                  <p>On-time</p>
+                  <p>On-time</p>
+              </div>
+              <div class="col-md-6">
+                  <p>On-time</p>
+                  <p>On-time</p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-
-
-
     </div>
-
-  </section>
+  </div> -->
 
 
 
