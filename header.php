@@ -137,7 +137,7 @@
   <div id="wrapper">
     <!-- preloader -->
 
-
+<!-- designed by mrinal -->
     <!-- Header -->
     <header id="header" class="header">
       <div class="header-nav navbar-fixed-top header-dark navbar-white navbar-transparent navbar-sticky-animated animated-active">
