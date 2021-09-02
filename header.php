@@ -141,7 +141,7 @@
     <!-- Header -->
     <header id="header" class="header">
       <div class="header-nav navbar-fixed-top header-dark navbar-white navbar-transparent navbar-sticky-animated animated-active">
-        <div class="header-nav-wrapper">
+        <div class="header-nav-wrapper navbar-transparent">
           <div class="container">
             <nav id="menuzord-right" class="menuzord blue">
 
