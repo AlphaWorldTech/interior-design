@@ -205,12 +205,14 @@
 
 <div class="container-fluid bg-light mb-2">
   <div class="container">
-  <div class="row">
-    <div class="col-4 col-md-4 mrinal py-2">
-       <img src="images/banner/banner.png" class="img-fluid float-end"  alt="banner-image">
+     <div class="row">
+    <div class="col-12 col-md-4 mrinal py-2">
+    
+         <img  src="images/banner/banner.png" class=""  alt="banner-image">
+
      
       </div> 
-    <div class="col-md-8 col-8">
+    <div class="col-md-8 col-12">
       <div class="row text-center py-2">
           <div class="col-6 col-md-3 border-right mt-2 mrinal1">
             <h5>On-time</h5>
@@ -893,11 +895,11 @@
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
