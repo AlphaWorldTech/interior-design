@@ -203,28 +203,12 @@
   <!-- BANNER SECTION -->
  
 
-<div class="container-fluid bg-light">
+<div class="container-fluid bg-light mb-2">
+  <div class="container">
   <div class="row">
     <div class="col-4 col-md-4 mrinal py-2">
-       <img src="images/banner/banner.png" width="70%;"  alt="banner-image">
-        <!-- <div class="row col-8 icon-row border rounded mx-2 text-center">
-              <div class="col-sm-2 py-3">
-              <i class="rounded-icon far fa-shield-check text-light h3  my-2 mx-3"></i>
-              </div>
-             
-              <div class="col-sm-8 py-3">
-
-                <span class="fw-bold h5 myspan">
-                  RG DZINE
-                </span>
-                
-               <p>
-               GUARANTEE
-               </p>
-              
-
-              </div>
-            </div>-->
+       <img src="images/banner/banner.png" class="img-fluid float-end"  alt="banner-image">
+     
       </div> 
     <div class="col-md-8 col-8">
       <div class="row text-center py-2">
@@ -248,6 +232,8 @@
       </div>
     </div>
   </div>
+  </div>
+  
 </div>
 
   <!-- <div class="container">
@@ -479,7 +465,7 @@
               <!-- Portfolio Item Start -->
               <div class="gallery-item photography">
                 <div class="thumb">
-                  <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
+                  <img class="img-fullwidth1" src="images/gallery/1.jpg" alt="project">
                   <div class="overlay-shade"></div>
                   <div class="text-holder">
                     <div class="title text-center">Modular Kitchen</div>
@@ -907,11 +893,11 @@
 </script>
 
 <script>
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+  //  }, 3000);
 
 
 
@@ -970,4 +956,15 @@
 
 
   // owl crausal 
+  function navbar() {
+    var mq = window.matchMedia("(max-width: 570px)");
+    if (mq.matches) {
+
+        var div = document.querySelector('.header-nav');
+        div.classList.remove('navbar-transparent');
+    }
+}
+
+setInterval(navbar,100);
+
 </script>

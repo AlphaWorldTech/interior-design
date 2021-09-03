@@ -6,6 +6,7 @@ function showlogo() {
     if (mq.matches) {
         document.querySelector(".pot1").style.display = "block";
         document.querySelector(".pot2").style.display = "none";
+     
     } else {
         // window width is greater than 570px
         if (scrollY > 64) {
@@ -20,7 +21,23 @@ function showlogo() {
 
         }
     }
+  
+        var mq = window.matchMedia("(max-width: 570px)");
+        if (mq.matches) {
+    
+            var div = document.querySelector('.header-nav');
+            div.classList.remove('navbar-transparent');
+        }
+ 
+    
+ 
+
+
+
 
 }
 
 setInterval(showlogo, 100);
+
+
+

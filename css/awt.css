@@ -237,8 +237,10 @@
         }
        
         .pop-up img{
-            height: 435px;
+          
+            
             width: 100%;
+            height: 750px;
         }
         .pop-up .container-fluid {
             position: absolute;
@@ -306,7 +308,7 @@
 } */
         
         .pot1 {
-            margin-left: -5%;
+            margin-left: -10%;
             height: 90px;
         }
         
@@ -356,6 +358,7 @@ nav {
         
         .mrinal img{
             margin-left: 80px;
+            width: 200px !important;
         }
         .mrinal1 h5{
             color: darkblue;
@@ -411,6 +414,18 @@ nav {
             position: relative;
             z-index: 10000;
         }
+
+
+
+
+
+
+
+
+
+
+
+
         /* Media Query Screen 600 max width  */
         
         @media only screen and (max-width: 600px) {
@@ -421,7 +436,8 @@ nav {
                 /* background-color: #F0E5CF; */
                 background-color: #ffffff;
                 /* border: 1px solid black; */
-                opacity: 0.5;
+                z-index: 10000000000 !important;
+                
             }
             .pot1 {
                 height: 55px;
@@ -478,11 +494,31 @@ nav {
             /* banner design assured  */
             .mrinal img{
                 margin-left: 0px;
+                width: 150px !important;
+                margin-top: 10%;
+            }
+            
+            .pop-up img{
+          
+                height: 300px;
                 width: 100%;
             }
+
+
+          .banner-nav{
+              height: auto !important;
+            }
+          
+            html{
+                font-size: 70% !important;
+            }
+          
         }
         
         
+
+
+
         
         @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
             .pot1 {
@@ -506,9 +542,37 @@ nav {
             .banner-section .col-sm-8 {
                 margin-top: 5px;
             }
-
+           
+            .mrinal img{
+              
+                width: 150px !important;
+             
+            }
+            html{
+                font-size: 90% !important;
+            }
             
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         /* Footer Area  */
         
         .widget.dark .widget-title {
@@ -632,3 +696,17 @@ nav {
         .img-fullwidth1 {
             height: 300px !important;
         }
+
+       .banner-nav{
+           height: 92px;
+       }
+       .mrinal1{
+           border-right: 1px solid gray;
+           margin-top: 0px !important;
+       }
+       .mrinal1 h5{
+           margin-top: 2px;
+       }
+       .mirnal1-img{
+           width: 100px !important;
+       }

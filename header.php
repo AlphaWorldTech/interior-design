@@ -194,7 +194,7 @@
                   </ul>
                 </li>
                 <li><a href="our-portfolio.php">OUR PORTFOLIO</a></li>
-                <li><a href="faq.php">FAQ'S</a></li>
+                <!-- <li><a href="faq.php">FAQ'S</a></li> -->
                 <li><a href="about-us.php">ABOUT US</a></li>
                 <li class="fw-bold"><a href="contact-us.php">GET A QUOTE</a></li>
 
