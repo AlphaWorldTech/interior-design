@@ -84,7 +84,7 @@
 
 
   <!-- CSS | Theme Color -->
-  <link href="css/colors/theme-skin-blue.css" rel="stylesheet" type="text/css">
+  <!-- <link href="css/colors/theme-skin-blue.css" rel="stylesheet" type="text/css"> -->
 
   <!-- external javascripts -->
   <script src="js/jquery-2.2.0.min.js"></script>
@@ -150,9 +150,9 @@
 
               <ul class="menuzord-menu text-black">
 
-                <li><a  href="index.php">HOME</a></li>
+                <li><a   href="index.php">HOME</a></li>
 
-                <li><a href="#">OUR SERVICES</a>
+                <li><a class="myservice" href="#">OUR SERVICES</a>
                   <ul class="dropdown">
                  
                     <li>

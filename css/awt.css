@@ -156,9 +156,7 @@
             z-index: 10001 !important;
             /* box-shadow: 2px 2px 8px 0px rgba(0, 0, 0, 0.4); */
         }
-        /* -webkit-box-shadow: inset 0px 0px 0px 1px #f00;
-    -moz-box-shadow: inset 0px 0px 0px 1px #f00;
-    box-shadow: inset 0px 0px 0px 1px #f00; */
+    
         
         .my-social-media nav li {
             height: 50px;
@@ -284,28 +282,7 @@
         .pop-up .container-fluid .container h3 {
             background-color: orangered !important;
         }
-        /* pop up css sagar end  */
-        /* logo animation  */
-        /* .pot {
-    position: absolute;
-    -webkit-animation: linear infinite alternate;
-    animation-iteration-count: 1;
-    -webkit-animation-name: run;
-    -webkit-animation-duration: 1s;
-    animation-fill-mode: forwards;
-    height: 60px;
-    margin-top: 3px;
-}
-
-@-webkit-keyframes run {
-    0% {
-        left: 0;
-        top: 0;
-    }
-    100% {
-        left: -280px;
-    }
-} */
+       
         
         .pot1 {
             margin-left: -10%;
@@ -356,10 +333,7 @@ nav {
         }
         /* my span title blue */
         
-        .mrinal img{
-            margin-left: 80px;
-            width: 200px !important;
-        }
+    
         .mrinal1 h5{
             color: darkblue;
         }
@@ -415,6 +389,10 @@ nav {
             z-index: 10000;
         }
 
+        .myspan{
+            color: darkblue;
+            font-weight: bolder;
+        }
 
 
 
@@ -493,14 +471,28 @@ nav {
             }
             /* banner design assured  */
             .mrinal img{
-                margin-left: 0px;
-                width: 150px !important;
-                margin-top: 10%;
+                
+             
+                width: 60% !important;
+                display: block !important;
+                margin: 0 auto !important;
+
+                 
+                
             }
+            .mrinal{
+                border-bottom: 3px solid darkblue !important;
+                background-color: white;
+                margin-top: 15px;
+                margin-bottom: 15px;
+
+            }
+          
+           
             
             .pop-up img{
           
-                height: 300px;
+                height: 200px;
                 width: 100%;
             }
 
@@ -511,6 +503,14 @@ nav {
           
             html{
                 font-size: 70% !important;
+            }
+            .menuzord-menu ul li a{
+                color: darkblue !important;
+                /* background-color: orangered; */
+            }
+            .menuzord-menu ul li
+            {
+                color: darkblue;
             }
           
         }
@@ -544,9 +544,13 @@ nav {
             }
            
             .mrinal img{
-              
-                width: 150px !important;
+                
              
+                width: 80% !important;
+                display: block !important;
+                margin: 0 auto !important;
+              
+                
             }
             html{
                 font-size: 90% !important;
@@ -707,6 +711,17 @@ nav {
        .mrinal1 h5{
            margin-top: 2px;
        }
-       .mirnal1-img{
-           width: 100px !important;
+       .mrinal img{
+           width: 300px;
+           margin-left: 40%;
        }
+    
+     .myservice{
+         margin-top:-2px;
+     }
+
+
+
+
+
+ 
