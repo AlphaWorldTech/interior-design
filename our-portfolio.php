@@ -41,7 +41,7 @@
 			    <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h1.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h1.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -60,7 +60,7 @@
 				 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h2.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h2.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -79,7 +79,7 @@
 				 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h3.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h3.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -98,7 +98,7 @@
 				 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h4.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h4.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -117,7 +117,7 @@
 				 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h5.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h5.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -136,7 +136,7 @@
 				 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/h6.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/h6.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -155,7 +155,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item photography">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/1.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/1.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Modular Kitchen</div>
@@ -174,7 +174,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item branding photography">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/2.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/2.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Modular Kitchen</div>
@@ -193,7 +193,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item photography">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/3.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/3.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Modular Kitchen</div>
@@ -212,7 +212,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/4.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/4.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -231,7 +231,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/5.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/5.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -250,7 +250,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item interior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/6.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/6.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Interior Design</div>
@@ -269,7 +269,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item exterior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/7.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/7.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Exterior Design</div>
@@ -288,7 +288,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item exterior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/8.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/8.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Exterior Design</div>
@@ -307,7 +307,7 @@
 				<!-- Portfolio Item Start -->
                 <div class="gallery-item exterior">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/9.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/9.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Exterior Design</div>
@@ -326,7 +326,7 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item design">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/11.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/11.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Office Design</div>
@@ -345,7 +345,7 @@
 				<!-- Portfolio Item Start -->
                 <div class="gallery-item design">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/12.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/12.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Office Design</div>
@@ -364,7 +364,7 @@
 				<!-- Portfolio Item Start -->
                 <div class="gallery-item design">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/gallery/13.jpg" alt="project">
+                    <img class="img-fullwidth1" src="images/gallery/13.jpg" alt="project">
                     <div class="overlay-shade"></div>
                     <div class="text-holder">
                       <div class="title text-center">Office Design</div>

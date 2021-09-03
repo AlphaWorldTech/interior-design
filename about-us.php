@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class="font-32 text-theme-colored heading-txt">About Us</h1>
+              <h1 class=" heading-txt">About Us</h1>
              
             </div>
           </div>
