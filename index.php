@@ -176,7 +176,7 @@
         <div class="row">
 
           <div data-aos="fade-right" style="overflow-x: hidden;" class="col-sm-6 col-md-6">
-            <img class="img-fullwidth" alt="about" src="images/about/about1.jpg">
+            <img class="img-fullwidth" alt="about" src="images/about/welcome.jpg">
           </div>
           <div data-aos="fade-left" class="col-md-6">
 
@@ -201,8 +201,81 @@
   </section>
 
   <!-- BANNER SECTION -->
- 
 
+  <section class="banner-section-sagar">
+    <div class=" banner-section mb-5">
+
+
+      <div class="container">
+        <div class="row banner-middle">
+          <div class="col-sm-3">
+
+          </div>
+          <div class="col-sm-2">
+            <!-- <img src="images/banner/LOGO2.png" class="img-fluid" alt=""> -->
+            <div class="row icon-row border rounded my-2">
+              <div class=" col-sm-4 mb-1">
+              <i class="rounded-icon far fa-shield-check text-light h3  my-2 mx-3"></i>
+              </div>
+             
+              <div class="col-sm-8 my-1">
+
+                <span class="fw-bold h5 myspan">
+                  RG DZINE
+                </span>
+                
+               <p>
+               GUARANTEE
+               </p>
+              
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-1">
+            <h5>
+              On-time
+            </h5>
+            <p>
+              delivery
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Best
+            </h5>
+            <p>
+              Price
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Superior
+            </h5>
+            <p>
+              quality
+            </p>
+          </div>
+          <div class="col-sm-1">
+            <h5>
+              Safety
+            </h5>
+            <p>
+              assured
+
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+
+  </section>
+ 
+<section class="banner-section-mrinal">
 <div class="container-fluid bg-light mb-2">
   <div class="container">
      <div class="row">
@@ -237,6 +310,8 @@
   </div>
   
 </div>
+</section>
+
 
   <!-- <div class="container">
     <div class="row">
@@ -859,10 +934,10 @@
       if (b < 195) {
         b++;
       }
-      if (c < 140) {
+      if (c < 20) {
         c++;
       }
-      if (d < 45) {
+      if (d < 20) {
         d++;
       }
     }
@@ -896,11 +971,11 @@
 
 <script>
   // code for pop up delay features 
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 4000);
+  //  }, 4000);
 
   //  sagar 
 
