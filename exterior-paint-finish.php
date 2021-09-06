@@ -33,7 +33,7 @@
                   We are Turnkey Interior contractors in Kolkata, specializing in corporate workspace interior design and fit outs. Since launching, RG DZINE has grown to become one of Kolkata’s leading specialist partners in the interior design services sector. </strong></em></p>
                  
               
-                  <img class="img-fullwidth" src="images/services/exterior-paint.jpg" alt="exterior-paint"><br><br>
+                  <img class="img-fullwidth" src="images/services/x.jpeg" alt="exterior-paint"><br><br>
 				  
 				  <p> <span class="myspan h3"> RG DZINE</span>  provides full turnkey interior solution for your spaces. Our experts and professionals takes care of the whole process, so that you can focus on your core work requirements – from space planning and design conceptualization, through to costing, procurement, implementation, and project management.</p>
                
