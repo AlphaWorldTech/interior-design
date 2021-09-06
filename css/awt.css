@@ -516,6 +516,12 @@ nav {
                 height: 400px !important;
                 width: 80%;
             }
+            .banner-section-mrinal{
+                display: block !important;
+            }
+            .banner-section-sagar{
+                display: none;
+            }
           
         }
         
@@ -558,6 +564,12 @@ nav {
             }
             html{
                 font-size: 90% !important;
+            }
+            .banner-section-mrinal{
+                display: block !important;
+            }
+            .banner-section-sagar{
+                display: none;
             }
             
         }
@@ -737,7 +749,9 @@ nav {
          margin-top:-2px;
      }
 
-
+.banner-section-mrinal{
+    display: none;
+}
 
 
 

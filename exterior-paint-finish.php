@@ -11,7 +11,7 @@
         <div class="section-content text-center">
           <div class="row"> 
             <div class="col-md-12 xs-text-center">
-              <h1 class=" heading-txt">Exterior Painting </h1>
+              <h1 class=" heading-txt">Turnkey Project </h1>
              
             </div>
           </div>
@@ -27,22 +27,23 @@
             <section>
               <div class="row">
                 <div class="col-md-12">
-                  <h3>Exterior Painting </h3>
+                <span class="myspan h3"> Turnkey Project</span>
                   <p class="text-black"><em><strong>
 
-Types of paint finishes used for exterior house painting are just as important as the colors, materials and surface preparation - because they too affect the final result. </strong></em></p>
+                  We are Turnkey Interior contractors in Kolkata, specializing in corporate workspace interior design and fit outs. Since launching, RG DZINE has grown to become one of Kolkata’s leading specialist partners in the interior design services sector. </strong></em></p>
                  
               
                   <img class="img-fullwidth" src="images/services/exterior-paint.jpg" alt="exterior-paint"><br><br>
 				  
-				  <p>There are usually only 3 types of paint finishes that most manufacturers offer in exterior products - flat, satin and gloss.</p>
+				  <p> <span class="myspan h3"> RG DZINE</span>  provides full turnkey interior solution for your spaces. Our experts and professionals takes care of the whole process, so that you can focus on your core work requirements – from space planning and design conceptualization, through to costing, procurement, implementation, and project management.</p>
                
-			   <h4 class="text-theme-colored">Flat Finish</h4>
-				<p class="text-black">Flat paint finish is the most porous of the three and doesn't reflect light. For this reason, it works great for painting older houses - it can help hide many flaws and imperfections on the walls.</p>
-				<h4 class="text-theme-colored">Satin Finish</h4>
-				<p class="text-black">Satin paint finish is the most popular among homeowners - it is neither dull nor shiny and has a subtle sheen that is ideal for painting walls.</p>
-				<h4 class="text-theme-colored">Gloss Finish</h4>
-				<p class="text-black">Gloss paint finish is the toughest and easiest to clean, but must be used sparingly.</p>
+			   
+				<p class="text-black">We are a privately owned company, and our Site Supervisors play a key role in the day-to-day running of every aspect of the business. Operating a coffee overhead business model with strong financial management systems, we make sure that our clients attain value for money across all levels.
+</p>
+				
+				<p class="text-black">Our qualified project management team ensures that projects run smoothly from site establishment through to snagging and final handover. We work in line with a detailed project strategy to ensure our weekly milestones are met.</p>
+		
+				<p class="text-black">We tend to offer best turnkey interior design services and add an elegant and luxurious look to your spaces. And we proudly say that we are one of the best turnkey interior contractors in Kolkata.</p>
 				
 				
               </div>
