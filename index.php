@@ -971,11 +971,11 @@
 
 <script>
   // code for pop up delay features 
-  // setTimeout(function(){ 
-  //   document.querySelector(".pop-up").style.display = "block";
+  setTimeout(function(){ 
+    document.querySelector(".pop-up").style.display = "block";
 
 
-  //  }, 4000);
+   }, 4000);
 
   //  sagar 
 
