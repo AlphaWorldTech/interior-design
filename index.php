@@ -214,19 +214,19 @@
       </div> 
     <div class="col-md-8 col-12">
       <div class="row text-center py-2">
-          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+          <div class="col-6 col-md-2 border-right mt-2 mrinal1">
             <h5>On-time</h5>
             <p>delivery</p>
           </div>
-          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+          <div class="col-6 col-md-2 border-right mt-2 mrinal1">
             <h5>Best</h5>
             <p>Price</p>
           </div>
-          <div class="col-6 col-md-3 border-right mt-2 mrinal1">
+          <div class="col-6 col-md-2 border-right mt-2 mrinal1">
             <h5>Superior</h5>
             <p>quality</p>
           </div>
-          <div class="col-6 col-md-3 mt-2 mrinal1">
+          <div class="col-6 col-md-2 mt-2 mrinal1">
             <h5>Safety</h5>
             <p>assured</p>
           </div>
@@ -298,7 +298,7 @@
           <div data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
-                <img class="img-fullwidth" alt="Office Design" src="images/about/about1.jpg">
+                <img class="img-fullwidth2" alt="Office Design" src="images/about/about1.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
@@ -310,7 +310,7 @@
           <div data-aos="zoom-in-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
-                <img class="img-fullwidth" alt="Interior Design" src="images/about/about2.jpg">
+                <img class="img-fullwidth2" alt="Interior Design" src="images/about/about2.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
@@ -322,7 +322,7 @@
           <div data-aos="zoom-in-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
-                <img class="img-fullwidth" alt="Exterior Design" src="images/about/about3.jpg">
+                <img class="img-fullwidth2" alt="Exterior Design" src="images/about/about3.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
@@ -334,7 +334,7 @@
           <div data-aos="fade-left" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
             <div class="pricing-table style1 bg-white-light border-10px text-center">
               <div class=" pb-30">
-                <img class="img-fullwidth" alt="Modular Kitchen" src="images/about/about4.jpg">
+                <img class="img-fullwidth2" alt="Modular Kitchen" src="images/about/about4.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
                 <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
 
@@ -895,11 +895,12 @@
 </script>
 
 <script>
+  // code for pop up delay features 
   setTimeout(function(){ 
     document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 3000);
+   }, 4000);
 
   //  sagar 
 
