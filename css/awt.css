@@ -512,6 +512,10 @@ nav {
             {
                 color: darkblue;
             }
+            .img-fullwidth2{
+                height: 400px !important;
+                width: 80%;
+            }
           
         }
         
@@ -569,7 +573,7 @@ nav {
         /* service images  */
 
         .img-fullwidth2{
-            height: 220px !important;
+            height: 200px !important;
             width: 100%;
         }
 
