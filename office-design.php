@@ -27,25 +27,23 @@
             <section>
               <div class="row">
                 <div class="col-md-12">
-                  <h3 class="text-theme-colored">Office Design</h3>
+                  <h3 class="text-theme-colored">OFFICE DESIGN</h3>
                   <p class="text-black">
 <strong>
-Need a cool office space – Urban India Design is a right place for you. </strong></p>
+Need Cool and luxurious Office Interior Design –  <span class="myspan h4">RG DZINE</span> is the right choice for you. </strong></p>
                  
               
                   <img class="img-fullwidth" src="images/gallery/11.jpg" alt="11"><br><br>
                
-				<p class="text-black">We specialises in creating workplaces that are in line with your organisation culture and environment. Right from working spaces to conference rooms we cover everything required for an office interior. It doesn’t matter whether you are a start-up or a multinational organisation, we take up projects for all size.</p>
+				<p class="text-black">When it comes to designing an office interior, the key is to strike the perfect balance between functionalism and aesthetics. After all, you want your office space to be comfortable for your employees, but you also want it to convey a sense of professionalism. An attractive yet practical office design will have a positive effect on employee morale, increase productivity, and enhance your company's image in the marketplace.</p>
+				<p class="text-black">
+        In the business industry, it is important to have a good impression of your office area. This is because this will show you as a professional company that takes into consideration the comfort and appropriateness of its workspace. Therefore, there are many office interior designers out there who offer their services to help improve the look of your office.
+        </p>
 				
 				
-				
-				<h4 class="text-theme-colored">OUR SERVICE HIGHLIGHTS </h4>
-				<ul class="list theme-colored angle-double-right">
-				<li>Free site visit by our expert to understand your space, your needs & vision for your space. </li>
-				<li> Design Concept for every room. With our 3D tool request changes in real time, selecting the right color, finish and more till you’re 100% satisfied.</li>
-				<li>We shall provide you a comprehensive guide of all the materials used for your project along with the Budget, Quality & Benefits to help you make informed decisions </li>
-				
-				</ul>
+        <p class="text-black">
+        And when it comes to design your office spaces, <span class="myspan">RG DZINE</span> is one of the best Office Interior designer in Kolkata.
+        </p>
 				
 				
               </div>
@@ -56,19 +54,19 @@ Need a cool office space – Urban India Design is a right place for you. </stro
               <div class="widget">
                 <h5 class="widget-title line-bottom">Our Serivces</h5>
                 <div class="categories">
-                  <ul class="list list-border angle-double-right">
+                <ul class="list list-border angle-double-right">
                     <li>
                                                         <a href="interior-paint-finish.php"><strong>Interior Paint Finish</a>
                                                     </li>
                                                     <li>
                                                         <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                                                    </li>
-													<li>
+                                                    </li> -->
+													<!-- <li>
                                                         <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                                                    </li>
+                                                    </li> -->
 													<li>
                                                         <a href="interior-designing.php">Interior Designing</a>
                                                     </li>
@@ -78,9 +76,9 @@ Need a cool office space – Urban India Design is a right place for you. </stro
 													<li>
                                                         <a href="modular-kitchen.php">Modular Kitchen</a>
                                                     </li>
-													<li>
+													<!-- <li>
                                                         <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</strong></a>
-                                                    </li>
+                                                    </li> -->
                   </ul>
                 </div>
               </div>

@@ -167,9 +167,9 @@
                         <li>
                           <a href="modular-kitchen.php">Modular Kitchen</a>
                         </li>
-                        <li>
+                        <!-- <li>
                           <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</a>
-                        </li>
+                        </li> -->
                       </ul>
                     </li>
                     <li>
@@ -185,9 +185,9 @@
                         <li>
                           <a href="water-proofing-solution.php">Miniature Models</a>
                         </li>
-                        <li>
+                        <!-- <li>
                           <a href="wooden-coating-solution.php">Kiosk & Mockup</a>
-                        </li>
+                        </li> -->
                       </ul>
                     </li>
 

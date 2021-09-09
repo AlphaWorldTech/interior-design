@@ -18,8 +18,8 @@ Our aim is to provide our clients with a personalized and customized design that
             <ul class="list list-divider list-border">
 									<li><a href="interior-designing.php"><i class="fa fa-angle-right"></i> Interior Designing</a></li>                            
                                     <li><a href="exterior-designing.php"><i class="fa fa-angle-right"></i> Exterior Design</a></li>
-                                    <li><a href="civil.php"><i class="fa fa-angle-right"></i> Civil</a></li>
-                                    <li><a href="architecture.php"><i class="fa fa-angle-right"></i> Architecture</a></li>
+                                    <li><a href="interior-paint-finish.php"><i class="fa fa-angle-right"></i> Interior Consultant</a></li>
+                                    <li><a href="exterior-paint-finish.php"><i class="fa fa-angle-right"></i>Turnkey Project</a></li>
                                     <li><a href="office-design.php"><i class="fa fa-angle-right"></i> Office Design</a></li>
             </ul>
           </div>
