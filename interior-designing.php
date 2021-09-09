@@ -28,22 +28,14 @@
               <div class="row">
                 <div class="col-md-12">
                   <h3 class="text-theme-colored">Interior designing</h3>
-                  <p class="text-black">
-<strong>
-Exquisite Designs, Finest Materials, Best Delivery Timelines – Home Makeovers have never been easier. </strong></p>
-                 
-              
+                  <p class="text-black">Architects have a very important job, building structures  that will fulfill people's needs while being structurally safe and sound. </p>
+               
                   <img class="img-fullwidth" src="images/services/bg5.jpg" alt="interior-design"><br><br>
                
-				<p class="text-black">Our interior decorating process is creative, fun and elegant. We’ll get to know you, learn about your needs, the project scope and your desired outcome. Gathering photos and floor plans, we’ll put together a concept that includes an overall interior style, suggested colours, furnishings, flooring and other finishing touches. Once we’ve finalised your perfect design, we can also select, order, deliver and install your new furnishings.</p>
-				
-				<p class="text-black">So, let our experience, knowledge and buying service unleash the full potential of your property</p>
-				
-				<h4 class="text-theme-colored">OUR SERVICE HIGHLIGHTS </h4>
-				<ul class="list theme-colored angle-double-right">
-				<li>Free site visit by our expert to understand your space, your needs & vision for your space. </li>
-				<li> Design Concept for every room. With our 3D tool request changes in real time, selecting the right color, finish and more till you’re 100% satisfied.</li>
-				<li>We shall provide you a comprehensive guide of all the materials used for your project along with the Budget, Quality & Benefits to help you make informed decisions </li>
+				<p class="text-black"> But here's the thing you'll create the good building within the world, but nobody's getting to use it if the inside portion of that building is a mess. 
+Premium Interior design is an integral neighborhood of the architecture, focused on creating interior spaces that make the building both functional and elegantly appealing. Still, we have different sorts of buildings, so it is sensible that we have different sorts of best interior designers. 
+One of the foremost important arenas for designers is residential design or the interiors of spaces during which individuals live. It will include apartments, houses, and anywhere else where people reside. The architect may build the house, but it's the best Interior designer's job to make it a home.</p>
+
 				
 				</ul>
 				
@@ -56,19 +48,19 @@ Exquisite Designs, Finest Materials, Best Delivery Timelines – Home Makeovers 
               <div class="widget">
                 <h5 class="widget-title line-bottom">Our Serivces</h5>
                 <div class="categories">
-                  <ul class="list list-border angle-double-right">
+                <ul class="list list-border angle-double-right">
                     <li>
                                                         <a href="interior-paint-finish.php"><strong>Interior Paint Finish</a>
                                                     </li>
                                                     <li>
                                                         <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                                                    </li>
-													<li>
+                                                    </li> -->
+													<!-- <li>
                                                         <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                                                    </li>
+                                                    </li> -->
 													<li>
                                                         <a href="interior-designing.php">Interior Designing</a>
                                                     </li>
@@ -78,9 +70,9 @@ Exquisite Designs, Finest Materials, Best Delivery Timelines – Home Makeovers 
 													<li>
                                                         <a href="modular-kitchen.php">Modular Kitchen</a>
                                                     </li>
-													<li>
+													<!-- <li>
                                                         <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</strong></a>
-                                                    </li>
+                                                    </li> -->
                   </ul>
                 </div>
               </div>

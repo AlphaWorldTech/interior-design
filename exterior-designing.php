@@ -30,14 +30,21 @@
                   <h3 class="text-theme-colored">Exterior designing</h3>
                   <p class="text-black">
 <strong>
-Nothing is more gratifying than a welcoming, finished, well-appointed living space that blends personal style with colors, lines.  </strong></p>
+
+<span class="myspan h5">
+RG DZINE
+</span>
+ is one among the best exterior designer in Kolkata.
+Exterior design provides a classy complement to the architecture of a dwelling, or space.   </strong></p>
                  
               
                   <img class="img-fullwidth" src="images/services/ext-design.jpg" alt="exterior-design"><br><br>
                
-				<p class="text-black">Our interior decorating process is creative, fun and elegant. We’ll get to know you, learn about your needs, the project scope and your desired outcome. Gathering photos and floor plans, we’ll put together a concept that includes an overall interior style, suggested colours, furnishings, flooring and other finishing touches. Once we’ve finalised your perfect design, we can also select, order, deliver and install your new furnishings.</p>
+				<p class="text-black">By integrating nature and man-made structures, the house are often expanded into the outside.
+The functional outcome must blend effectively with the encompassing greenery, fountains, or features so as to make an environment that's suitable and cozy for home or office purposes.</p>
 				
-				<p class="text-black">The exterior design of your home - the details, dimension and contrast of your exterior reflect your personal style too. At Exterior Portfolio, we're passionate about applying accessible design concepts to the outside of your home. We appreciate the power of architectural details that trim, siding, color, doors and windows can all work together to create beautiful exterior designs that reflect who you are and where you live. </p>
+				<p class="text-black">Exterior and interior designs don't surround only what the architectural structure seems like but the furniture, flooring, paint, and decorations suitable for outdoor or indoor use. The outside designs will comprise the planning of your garden, deck, while interior design includes everything inside your home, from the bedrooms to the kitchen and bathrooms.
+We assist you to choose the expertise/proficient and best exterior designers who shapes your home beautifully. </p>
 				
 				
 				
@@ -50,19 +57,19 @@ Nothing is more gratifying than a welcoming, finished, well-appointed living spa
               <div class="widget">
                 <h5 class="widget-title line-bottom">Our Serivces</h5>
                 <div class="categories">
-                  <ul class="list list-border angle-double-right">
+                <ul class="list list-border angle-double-right">
                     <li>
                                                         <a href="interior-paint-finish.php"><strong>Interior Paint Finish</a>
                                                     </li>
                                                     <li>
                                                         <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                                                    </li>
-													<li>
+                                                    </li> -->
+													<!-- <li>
                                                         <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                                                    </li>
+                                                    </li> -->
 													<li>
                                                         <a href="interior-designing.php">Interior Designing</a>
                                                     </li>
@@ -72,9 +79,9 @@ Nothing is more gratifying than a welcoming, finished, well-appointed living spa
 													<li>
                                                         <a href="modular-kitchen.php">Modular Kitchen</a>
                                                     </li>
-													<li>
+													<!-- <li>
                                                         <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</strong></a>
-                                                    </li>
+                                                    </li> -->
                   </ul>
                 </div>
               </div>

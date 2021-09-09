@@ -60,19 +60,19 @@ It is perfect for those looking for long lasting wood finishes that protect wood
               <div class="widget">
                 <h5 class="widget-title line-bottom">Our Serivces</h5>
                 <div class="categories">
-                  <ul class="list list-border angle-double-right">
+                <ul class="list list-border angle-double-right">
                     <li>
                                                         <a href="interior-paint-finish.php"><strong>Interior Paint Finish</a>
                                                     </li>
                                                     <li>
                                                         <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                                                    </li>
-													<li>
+                                                    </li> -->
+													<!-- <li>
                                                         <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                                                    </li>
+                                                    </li> -->
 													<li>
                                                         <a href="interior-designing.php">Interior Designing</a>
                                                     </li>
@@ -82,9 +82,9 @@ It is perfect for those looking for long lasting wood finishes that protect wood
 													<li>
                                                         <a href="modular-kitchen.php">Modular Kitchen</a>
                                                     </li>
-													<li>
+													<!-- <li>
                                                         <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</strong></a>
-                                                    </li>
+                                                    </li> -->
                   </ul>
                 </div>
               </div>

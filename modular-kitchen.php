@@ -30,12 +30,17 @@
                   <h3 class="text-theme-colored">Modular Kitchen</h3>
                   <p class="text-black">
 <strong>
-Modular kitchen designs - Explore our gallery to find trendy kitchen designs for every kitchen shape & theme along with instant estimates. </strong></p>
-                 
+<span class="myspan h4">
+RG DZINE
+</span> ’s experienced & proficient kitchen interior designers want to create a healthy design and delightful kitchen for your loved ones in Kolkata, or in any other places.
+</strong> </p>                 
               
                   <img class="img-fullwidth" src="images/services/kitchendesign.jpg" alt="modular-kitchen"><br><br>
+                  <p class="text-black">
+                  Discuss the planning of your kitchen wall picture with share our designers to form top modular kitchen at a reasonable cost in Kolkata or in other locations. Check out our original modular kitchen interior designs created for our beloved clients in Kolkata and in other places and have ideas on your kitchen designs for any collaboration with our designers for your different shaped kitchen design.
+                  </p>
                
-				<p class="text-black">Modular kitchen designs - Explore our gallery to find trendy kitchen designs for every kitchen shape & theme along with instant estimates. </p>
+				<p class="text-black">You will find best kitchen interior designers and complete decoration ideas at affordable cost. We have Kitchen interior proficient designers for your kitchen renovations, modification, and designing. You will find us all types of kitchen cabinets like PVC kitchen cabinets, wooden all kinds of  kitchen cabinets, laminate kitchen cabinets, acrylic clique. Our Professional designers create complete decoration & designing depending on the size of your kitchen in Kolkata or in your preferred locations.. </p>
 				
 				
 				
@@ -50,19 +55,19 @@ Modular kitchen designs - Explore our gallery to find trendy kitchen designs for
               <div class="widget">
                 <h5 class="widget-title line-bottom">Our Serivces</h5>
                 <div class="categories">
-                  <ul class="list list-border angle-double-right">
+                <ul class="list list-border angle-double-right">
                     <li>
                                                         <a href="interior-paint-finish.php"><strong>Interior Paint Finish</a>
                                                     </li>
                                                     <li>
                                                         <a href="exterior-paint-finish.php">Exterior Paint Finish</a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="water-proofing-solution.php">Water Proofing Solution</a>
-                                                    </li>
-													<li>
+                                                    </li> -->
+													<!-- <li>
                                                         <a href="wooden-coating-solution.php">Wooden Coating Solution</a>
-                                                    </li>
+                                                    </li> -->
 													<li>
                                                         <a href="interior-designing.php">Interior Designing</a>
                                                     </li>
@@ -72,9 +77,9 @@ Modular kitchen designs - Explore our gallery to find trendy kitchen designs for
 													<li>
                                                         <a href="modular-kitchen.php">Modular Kitchen</a>
                                                     </li>
-													<li>
+													<!-- <li>
                                                         <a href="decorative-pvc-wall-panels.php">Decorative PVC Wall panels</strong></a>
-                                                    </li>
+                                                    </li> -->
                   </ul>
                 </div>
               </div>
