@@ -375,7 +375,7 @@
               <div class=" pb-30">
                 <img class="img-fullwidth2" alt="Office Design" src="images/about/about1.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
-                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <p style="font-family: 'David Libre', serif; ">Need Cool and luxurious Office Interior Design – RG DZINE is the right choice for you. </p><br><br>
 
 
                 <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
@@ -387,7 +387,7 @@
               <div class=" pb-30">
                 <img class="img-fullwidth2" alt="Interior Design" src="images/about/about2.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
-                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <p style="font-family: 'David Libre', serif; ">Architects have a very important job, building structures that will fulfill people's needs while being structurally safe and sound. </p><br>
 
 
                 <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
@@ -399,7 +399,7 @@
               <div class=" pb-30">
                 <img class="img-fullwidth2" alt="Exterior Design" src="images/about/about3.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
-                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <p style="font-family: 'David Libre', serif; ">RG DZINE is one among the best exterior designer in Kolkata. Exterior design provides a classy complement to the architecture of a dwelling, or space. </p> <br>
 
 
                 <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
@@ -411,7 +411,7 @@
               <div class=" pb-30">
                 <img class="img-fullwidth2" alt="Modular Kitchen" src="images/about/about4.jpg">
                 <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
-                <p style="font-family: 'David Libre', serif; ">We specialises in creating workplaces that are in line with your organisation culture and environment. </p>
+                <p style="font-family: 'David Libre', serif; ">RG DZINE ’s experienced & proficient kitchen interior designers want to create a healthy design and delightful kitchen for your loved ones in Kolkata, or in any other places. </p>
 
 
                 <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>

@@ -35,7 +35,7 @@
             <h2 class="text-center"> <a href="#property">Residence</a> </h2>
           </div>
           <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
-            <h2 class="text-center"> <a href="#property">Ofiice</a></h2>
+            <h2 class="text-center"> <a href="#property">Office</a></h2>
           </div>
           <div style="border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto" onclick="working_select(Hotel)">
             <h2 class="text-center"> <a href="#property">Hotel</a></h2>
