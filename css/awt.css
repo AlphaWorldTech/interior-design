@@ -522,6 +522,26 @@ nav {
             .banner-section-sagar{
                 display: none;
             }
+            .card-img-top{
+                height: 150px !important;
+                width: 150px !important;
+                border-radius: 30%;
+                border: 3px solid white;
+                margin: auto !important;
+                display: block;
+               
+            
+            }
+            .image-border{
+                height: 157px !important;
+                width: 157px !important;
+                border-radius: 50%;
+                border: 4px solid rgb(0, 211, 248);
+                margin: auto !important;
+                display: block;
+                margin-top: -35% !important;
+            
+            }
           
         }
         
@@ -531,6 +551,9 @@ nav {
 
         
         @media only screen and (min-device-width: 768px) and (max-device-width: 1025px) {
+            html{
+                font-size: 70% !important;
+            }
             .pot1 {
                 margin-left: 2% !important;
             }
@@ -562,14 +585,32 @@ nav {
               
                 
             }
-            html{
-                font-size: 90% !important;
-            }
+         
             .banner-section-mrinal{
                 display: block !important;
             }
             .banner-section-sagar{
                 display: none;
+            }
+            .card-img-top{
+                height: 150px !important;
+                width: 150px !important;
+                border-radius: 30%;
+                border: 3px solid white;
+                margin: auto !important;
+                display: block;
+               
+            
+            }
+            .image-border{
+                height: 157px !important;
+                width: 157px !important;
+                border-radius: 50%;
+                border: 4px solid rgb(0, 211, 248);
+                margin: auto !important;
+                display: block;
+                margin-top: -35% !important;
+            
             }
             
         }
@@ -721,8 +762,8 @@ nav {
         
         .title-icon img {
             height: 150px !important;
-            width: 50%;
-            margin-top: -20px;
+            width: 50% !important;
+            margin-top: -20px !important;
         }
         /* gallary images size  */
         
@@ -757,13 +798,15 @@ nav {
 /* Our Team Section  */
 
 .card1{
-    margin-top: 60px !important;
+    /* margin-top: 60px !important; */
     border-radius: 15%;
     border: 2px solid teal !important;
+    display: block;
+    margin:auto;
 }
 .card-img-top{
-    height: 200px !important;
-    width: 200px !important;
+    height: 200px ;
+    width: 200px ;
     border-radius: 50%;
     border: 3px solid white;
     margin: auto !important;
@@ -772,10 +815,10 @@ nav {
 
 }
 .image-border{
-    height: 207px !important;
-    width: 207px !important;
+    height: 207px ;
+    width: 207px ;
     border-radius: 50%;
-    border: 4px solid gray;
+    border: 4px solid rgb(0, 211, 248);
     margin: auto !important;
     display: block;
     margin-top: -35% !important;
@@ -797,5 +840,8 @@ nav {
  
 
 }
+.card1 {
+    margin-top: 100px !important;
+  }
 
  

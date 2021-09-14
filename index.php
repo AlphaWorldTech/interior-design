@@ -844,8 +844,8 @@
 
               <div class="comment">
                 <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
-                <h4 class="text-theme-colored">Mr. Manoj Aggarwal</h4>
-                <p>Urban India Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
+                <h4 class="text-light">Mr. Manoj Aggarwal</h4>
+                <p>RG Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
                 </p>
               </div>
 
@@ -854,7 +854,7 @@
 
               <div class="comment">
                 <img class="img-circle" alt="Mrs Shilpa" src="images/testimonials/s2.jpg">
-                <h4 class="text-theme-colored">Mrs Shilpa</h4>
+                <h4 class="text-light">Mrs Shilpa</h4>
                 <p>Their service is fine and my overall experience has been good with these guys. Although a delay of 1-2 day happened on my project , but i think that happens to anybody as redesign is a tedious job. They are genuine and affordable i got 6 quotations but their quote was the cheapest and i am totally satisfied with their work and would recommend them to others as well.
 
                 </p>
@@ -865,8 +865,8 @@
 
               <div class="comment">
                 <img class="img-circle" alt="Mr. Gagan Khurana" src="images/testimonials/s3.jpg">
-                <h4 class="text-theme-colored">Mr. Gagan Khurana</h4>
-                <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to Urban India Design&#8230;great work!
+                <h4 class="text-light">Mr. Gagan Khurana</h4>
+                <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to RG Design&#8230;great work!
 
                 </p>
               </div>
@@ -877,7 +877,7 @@
 
               <div class="comment">
                 <img class="img-circle" alt="Mr. Shubahm jain" src="images/testimonials/s4.jpg">
-                <h4 class="text-theme-colored">Mr. Shubahm jain</h4>
+                <h4 class="text-light">Mr. Shubahm jain</h4>
                 <p>The training room at Mervyn Lambert is a vast improvement and fantastic addition to the facilities. The layout works well for small groups with the room having sufficient heating and ventilation for a comfortable learning environment all year round. Consideration has been given to the ability to control light levels so the projector is always bright and clear, even in brilliant sunshine.
 
 
@@ -889,7 +889,7 @@
 
               <div class="comment">
                 <img class="img-circle" alt="Mr. Anil aggarwal" src="images/testimonials/s5.jpg">
-                <h4 class="text-theme-colored">Mr. Anil aggarwal</h4>
+                <h4 class="text-light">Mr. Anil aggarwal</h4>
                 <p>Have just spent three enjoyable days at Southwold watching Royal Ascot and I wanted you to know how much I appreciate all you have done to make this an exceptional home. The interior design, furniture, carpets, fittings etc display a a flair which I have seldom seen in interior designers before. It is so in keeping with the property, the location and what we need for the house for - a family holiday home.
 
 
@@ -971,11 +971,11 @@
 
 <script>
   // code for pop up delay features 
-  setTimeout(function(){ 
-    document.querySelector(".pop-up").style.display = "block";
+  // setTimeout(function(){ 
+  //   document.querySelector(".pop-up").style.display = "block";
 
 
-   }, 4000);
+  //  }, 4000);
 
   //  sagar 
 

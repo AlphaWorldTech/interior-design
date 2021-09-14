@@ -32,7 +32,7 @@ Our aim is to provide our clients with a personalized and customized design that
                                     <li><a href="about-us.php"> About Us</a></li>
                                     <li><a href="contact-us.php">Contact Us</a></li>
                                     <li><a href="our-portfolio.php"> Our Portfolio</a></li>
-									<li><a href="#">Faq's</a></li>
+									<li><a href="#">Our Team</a></li>
             </ul>
           </div>
         </div>

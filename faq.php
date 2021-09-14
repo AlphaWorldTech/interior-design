@@ -2,6 +2,13 @@
 <?php include "header.php"; ?>
 
 
+<style>
+  .card1 {
+    margin-top: 100px !important;
+  }
+</style>
+
+
 <!-- Start main-content -->
 <div class="main-content">
   <!-- Section: inner-header -->
@@ -21,360 +28,353 @@
 
   <section>
     <div class="container-fluid border">
-      <div class="row">
-
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/shilpa.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Shilpa Gupta</h3>
-              <p class="card-title1 text-success">CEO</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
+      <!-- <div class="row">
+        <div class="col-md-8 col-md-offset-2 my-4">
+          <h2 style="font-family: 'David Libre', serif;" class="fw-bold text-center h2">OUR <span class="myspan">TEAM</span> </h2>
+          <div class="title-icon">
+              <img class="" src="images/title-icon2.png" alt="title">
+            </div> 
         </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/rajesh.jpeg" class="card-img-top" alt="...">
+      </div> -->
 
 
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Rajesh Gupta</h3>
-              <p class="card-title1 text-success">Director</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+      <div class="row ">
+        <div class="col-sm-12">
 
-                  </div>
-                </div>
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/shilpa.jpeg" class="card-img-top" alt="...">
 
 
               </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Shilpa Gupta</h3>
+                <p class="card-title1 text-success">CEO</p>
+                <p class="card-text"> Coming together is the beginning.
+                  Keeping together is Progress.
+                  Working together is Success.
+                </p>
+                <p class="text-center">• Henry Ford</p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                    <!-- </div> -->
+
+
+                  </div>
 
 
 
 
+                </div>
+              </div>
             </div>
           </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/rajesh.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Rajesh Gupta</h3>
+                <p class="card-title1 text-success">Director</p>
+                <p class="card-text"> 17+ years of experience in Interior designing field.
+                  An interior Consultant and director of RG DZINE (one of the
+                  Best interior designing firm in Kolkata). </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+              </div>
+              <!-- </div> -->
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/suvankar.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Suvankar Roy </h3>
+                <p class="card-title1 text-success">Accounts Department</p>
+                <p class="card-text"> Identify upsell, cross-sell, and renewal opportunities and communicate with the team and clients regularly. Handle sensitive information in a confidential manner. Manage Company’s financial statements. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                  <!-- </div> -->
+
+
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/devander.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold"> Debendra Roy</h3>
+                <p class="card-title1 text-success">3D Designer </p>
+                <p class="card-text"> 6+ Years of experience in 3D Interior Desiging field.
+                  Senior 3D Interior Designer at RG DZINE.
+                </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/animesh.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Animesh Paul </h3>
+                <p class="card-title1 text-success">3D Designer</p>
+                <p class="card-text"> 9+ years of experience in 3D Interior Designing field.
+                  Senior 3D Interior Designer at RG DZINE. An ex 3D
+                  Interior Designer at I DO architecture & Interior
+                  Designing. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/pulkesh.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Pulakesh Halder</h3>
+                <p class="card-title1 text-success">3D Designer</p>
+                <p class="card-text"> 3 years of experience in 3D Interior
+                  Designing field. Very talented and rising
+                  3D Designer of RG DZINE. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                  <!-- </div> -->
+
+
+
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/arindam.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold"> Arindam Basak </h3>
+                <p class="card-title1 text-success">2D Designer</p>
+                <p class="card-text"> 1.5 years of experience in 2D Interior
+                  Designing field. Knowledge of Sketch up,
+                  V-ray, & Lumion. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/Jharna.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Jharna Roy</h3>
+                <p class="card-title1 text-success">2D Designer</p>
+                <p class="card-text"> 5+ years of experience in 2D Interior Designing field. Senior 2D designer of RG DZINE. Have good knowledge in Sketch up & V-ray. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/prasnta.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 text-uppercase fw-bold">Prasanta Mistry</h3>
+                <p class="card-title1 text-success">Office Coordinator</p>
+                <p class="card-text"> Maintain the stock levels for office and break room supplies and submit purchase requests to management when necessary. Strong sense of discretion and professionalism. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <!-- <div class="col-sm-3"> -->
+            <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
+              <div class="image-border">
+                <img src="images/team/rahul.jpeg" class="card-img-top" alt="...">
+
+
+              </div>
+              <div class="card-body">
+                <h3 class="card-title1 h5 text-uppercase fw-bold">Rahul Singh Chauhan</h3>
+                <p class="card-title1 text-success"> IT Dept.</p>
+                <p class="card-text"> Plays lead role in maintaining Online
+                  Reputation of a Company. Manages Digital
+                  Campaign and handles Social Media Panels
+                  Of RG DZINE. </p>
+                <div class="profile py-2">
+                  <div class="row">
+                    <div class="col-sm-6 mx-auto">
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+
+                    </div>
+                  </div>
+
+
+                </div>
+
+
+
+
+                <!-- </div> -->
+              </div>
+            </div>
+          </div>
+
         </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/suvankar.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Suvankar Roy </h3>
-              <p class="card-title1 text-success">Accounts Department</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/devander.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold"> Debendra Roy</h3>
-              <p class="card-title1 text-success">3D Designer </p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
         </div>
 
 
-      </div>
-      <div class="row my-5">
 
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/animesh.jpeg" class="card-img-top" alt="...">
 
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Animesh Paul </h3>
-              <p class="card-title1 text-success">3D Designer</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/pulkesh.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Pulakesh Halder</h3>
-              <p class="card-title1 text-success">3D Designer</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/arindam.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold"> Arindam Basak </h3>
-              <p class="card-title1 text-success">2D Designer</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/Jharna.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Jharna Roy</h3>
-              <p class="card-title1 text-success">2D Designer</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-
-
-      </div>
-      <div class="row my-5">
-
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/prasnta.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Prasanta Mistry</h3>
-              <p class="card-title1 text-success">Office Coordinator</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/rahul.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Rahul Singh Chauhan</h3>
-              <p class="card-title1 text-success"> IT Dept.</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <!-- <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border">
-              <img src="images/team/shilpa.jpeg" class="card-img-top" alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Shilpa Gupta</h3>
-              <p class="card-title1 text-success">CEO</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-3">
-          <div class="card1 border my-2 shadow-lg" style="width: 18rem;">
-            <div class="image-border ">
-              <img src="images/team/shilpa.jpeg" class="card-img-top " alt="...">
-
-
-            </div>
-            <div class="card-body">
-              <h3 class="card-title1 text-uppercase fw-bold">Shilpa Gupta</h3>
-              <p class="card-title1 text-success">CEO</p>
-              <p class="card-text"> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ad, nostrum in? </p>
-              <div class="profile py-2">
-                <div class="row">
-                  <div class="col-sm-6 mx-auto">
-                    <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
-
-                  </div>
-                </div>
-
-
-              </div>
-
-
-
-
-            </div>
-          </div>
-        </div> -->
 
 
       </div>
 
     </div>
   </section>
+
 
   <!-- divider: what makes us different -->
   <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.5" data-bg-img="images/bg/footer.png">
@@ -402,7 +402,10 @@
 
 
 <script>
+  // var btn = document.querySelector(".owl-next");
+
   function showlogo() {
+    // btn.click();
     document.querySelector(".menuzord-menu").style.marginTop = -100 +
       "px";
 
@@ -422,10 +425,46 @@
         document.querySelector(".pot2").style.display = "block";
 
 
+
       }
     }
 
   }
 
   setInterval(showlogo, 100);
+
+  //   $('.owl-carousel').owlCarousel({
+  //     loop:true,
+  //     margin:10,
+  //     nav:true,
+  //     responsive:{
+  //         0:{
+  //             items:1
+  //         },
+  //         600:{
+  //             items:3
+  //         },
+  //         1000:{
+  //             items:5
+  //         }
+  //     }
+  // })
+  $('.owl-carousel').owlCarousel({
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 1000,
+    margin: 10,
+    nav: false,
+    responsive: {
+      0: {
+        items: 1
+      },
+      600: {
+        items: 3
+      },
+      1000: {
+        items: 5
+      }
+    }
+  })
 </script>
