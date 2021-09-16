@@ -300,18 +300,42 @@ nav {
 } */
         /* logo animation end  */
         /* get a quote section  */
-        
+        .working{
+            background-color: #36454f;
+        }
+        .working .col-sm-12 span{
+            border-bottom: 2px solid orangered;
+        }
         .working .row .col-sm-3 {
-            height: 300px;
+            height: 50px;
+            width: 200px;
             cursor: pointer;
         }
-        
-        .working .row .col-sm-3 h2 {
-            margin-top: 40%;
+        .working .col-sm-4{
+            border-right: 2px solid orangered;
+            
+        }
+        .myspan2{
+            background-color: orangered;
+
         }
         
+        .working .row .col-sm-4 h3 {
+            margin-top: 4%;
+            color: white ;
+        }
+        
+        .working .row .col-sm-3 h4 a {
+            text-decoration: none;
+            color: white ;
+        }
         .working .row .col-sm-3 h2 a {
             text-decoration: none;
+            color: white ;
+        }
+        .working .row .col-sm-3 h5 a {
+            text-decoration: none;
+            color: white ;
         }
         
         .working .row .col-sm-3:hover {
