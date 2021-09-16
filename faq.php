@@ -3,9 +3,7 @@
 
 
 <style>
-  .card1 {
-    margin-top: 100px !important;
-  }
+ 
 </style>
 
 
@@ -61,7 +59,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/shilpa.halder.338" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                     <!-- </div> -->
@@ -93,7 +91,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/rajes-gupta-94691375/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/rajesh.gupta.7121" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -123,7 +121,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/suvankar-roy-874434220/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/suvankarb1" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -155,7 +153,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/debendra-roy-5a8862166/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/debendra.roy.79" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -188,7 +186,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/animesh-paul-b679a771/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/animesh.paul.50702" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -220,7 +218,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/pulakesh-halder-2570101b6/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/pulakesh.halder.7" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -253,7 +251,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/arindam-basak-225a48205/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/arindam.basak.397" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -283,7 +281,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/jharna-roy-b87432220/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/jharna.roy.161" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -346,7 +344,7 @@
                 <div class="profile py-2">
                   <div class="row">
                     <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                      <a href="https://www.linkedin.com/in/rahul-kumar-singh-5b3369179/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/profile.php?id=100007340852648" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
