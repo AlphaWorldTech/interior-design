@@ -845,7 +845,7 @@
               <div class="comment">
                 <img class="img-circle" alt="Mr. Manoj Aggarwal" src="images/testimonials/s1.jpg">
                 <h4 class="text-light">Mr. Manoj Aggarwal</h4>
-                <p>RG Designs recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
+                <p>RG Dzine recently executed our new home and I must say they have done an excellent job. Initially we had roped them in only for Design Consultation but looking at the professionalism and quality of output decided to handover the execution also to them. We had a constraint in terms of the timeline but their team did a pretty good job of completing the project within timeline.
                 </p>
               </div>
 
@@ -866,7 +866,7 @@
               <div class="comment">
                 <img class="img-circle" alt="Mr. Gagan Khurana" src="images/testimonials/s3.jpg">
                 <h4 class="text-light">Mr. Gagan Khurana</h4>
-                <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to RG Design&#8230;great work!
+                <p>I had initially hired them to design my office and was very happy with their work . Looking at the quality i also gave them the contract for my house &#8211; My wife and children are very happy with the final makeover &#8211; The people visiting us get amazed with the our home interior &#8211; I would give my full recommendation to RG Dzine&#8230;great work!
 
                 </p>
               </div>

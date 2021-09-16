@@ -21,38 +21,108 @@
   </section>
 
   <!-- GET A QUOTE SECTION START -->
-  <section id="working" class="working">
+  <section id="working" class="working my-5">
 
-    <div class="container">
+    <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12">
-          <h1 class="text-center">
-            I NEED WORKING/ REWORKING ON MY
+          <h1 class="text-light text-center mb-5">
+            Inform Us Your <span > Requirments </span> 
           </h1>
         </div>
-        <div class="row my-5">
-          <div id='Residence' class="col-sm-3 mx-auto" onclick="working_select(Residence)">
-            <h2 class="text-center"> <a href="#property">Residence</a> </h2>
+        <div class="col-sm-4 work px-2 ">
+          <h3 class="text-center">
+            I NEED <span class="myspan2 py-2 px-2 rounded"> WORKING/ REWORKING</span>
+            ON MY
+          </h3>
+
+          <div class="row my-5 ">
+            <div id='Residence' class="col-sm-3 mx-auto" onclick="working_select(Residence)">
+              <h2 class="text-center"> <a href="#property">Residence</a> </h2>
+            </div>
+            <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
+              <h2 class="text-center"> <a href="#property">Office</a></h2>
+            </div>
+            <div style="border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto" onclick="working_select(Hotel)">
+              <h2 class="text-center"> <a href="#property">Hotel</a></h2>
+            </div>
+
           </div>
-          <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
-            <h2 class="text-center"> <a href="#property">Office</a></h2>
-          </div>
-          <div style="border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto" onclick="working_select(Hotel)">
-            <h2 class="text-center"> <a href="#property">Hotel</a></h2>
+          <div class="row ">
+            <div class="col-sm-3 mx-auto" id='Showroom' onclick="working_select(Showroom)">
+              <h2 class="text-center"> <a href="#property">Showroom</a></h2>
+            </div>
+            <div class="col-sm-3 mx-auto" id='Restaurant' onclick="working_select(Restaurant)">
+              <h2 class="text-center"> <a href="#property">Restaurant</a></h2>
+            </div>
+            <div class="col-sm-3 mx-auto" id='Shop' onclick="working_select(Shop)">
+              <h2 class="text-center"> <a href="#property">Shop</a></h2>
+            </div>
           </div>
 
         </div>
-        <div class="row ">
-          <div class="col-sm-3 mx-auto" id='Showroom' onclick="working_select(Showroom)">
-            <h2 class="text-center"> <a href="#property">Showroom</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id='Restaurant' onclick="working_select(Restaurant)">
-            <h2 class="text-center"> <a href="#property">Restaurant</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id='Shop' onclick="working_select(Shop)">
-            <h2 class="text-center"> <a href="#property">Shop</a></h2>
-          </div>
 
+        <div class="col-sm-4 work px-2">
+          <h3 class="text-center">
+            THE AREA OF <span class="myspan2 py-2 px-2 rounded"> MY PROPERTY</span> IS
+          </h3>
+
+          <div class="row my-5">
+            <div class="col-sm-3 mx-auto">
+              <h4 class="text-center py-3"><a href="#budget" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h4>
+            </div>
+            <div style="  border-radius: 30px; 
+             box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
+              <h4 class="text-center  py-3"> <a href="#budget">500 - 1000 Sqft</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
+              <h4 class="text-center  py-3"> <a href="#budget"> 1000 - 1500 Sqft</a></h4>
+            </div>
+
+          </div>
+          <div class="row ">
+            <div class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
+              <h4 class="text-center  py-3"> <a href="#budget">1500 - 2000 Sqft</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
+              <h4 class="text-center  py-3"> <a href="#budget">2000 - 3000 Sqft</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
+              <h5 class="text-center  py-3"> <a href="#budget" class="text-decoration-none">More than 3000 Sqft</a></h5>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <h3 class="text-center">
+            MY SUITABLE <span class="myspan2 py-2 px-2 rounded"> BUDGET</span> IS
+
+          </h3>
+
+          <div id="budget" class="row my-5">
+            <div style="  border-radius: 30px;
+               box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
+              <h4 class="text-center py-2"> <a href="#">Upto 10 lakh</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id="upto20" onclick="budget(upto20)">
+              <h4 class="text-center py-2"> <a href="#"> 10lakh - 20lakh</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id="upto30" onclick="budget(upto30)">
+              <h4 class="text-center py-2"> <a href="#">20lakh - 30lakh</a></h4>
+            </div>
+
+          </div>
+          <div class="row ">
+            <div class="col-sm-3 mx-auto" id="upto40" onclick="budget(upto40)">
+              <h4 class="text-center py-2"> <a href="#">30lakh - 40lakh</a></h4>
+            </div>
+            <div class="col-sm-3 mx-auto" id="upto50" onclick="budget(upto50)">
+              <h4 class="text-center py-2"> <a href="#">40lakh - 50lakh</a></h4>
+            </div>
+            <div class="col-sm-3 " id="more50" onclick="budget(more50)">
+              <h5 class="text-center py-2 "> <a href="#" class="text-decoration-none">More than 50lakh</a></h6>
+            </div>
+
+          </div>
         </div>
 
       </div>
@@ -60,86 +130,9 @@
 
   </section>
 
-  <section class="working">
 
-    <div id="property" class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <h1 class="text-center">
-            THE AREA OF MY PROPERTY IS
-          </h1>
-        </div>
-        <div class="row my-5">
-          <div class="col-sm-3 mx-auto">
-            <h2 class="text-center"><a href="#budget" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h2>
-          </div>
-          <div style="  border-radius: 30px; 
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
-            <h2 class="text-center"> <a href="#budget">500 - 1000 Sqft</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
-            <h2 class="text-center"> <a href="#budget"> 1000 - 1500 Sqft</a></h2>
-          </div>
 
-        </div>
-        <div class="row ">
-          <div class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
-            <h2 class="text-center"> <a href="#budget">1500 - 2000 Sqft</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
-            <h2 class="text-center"> <a href="#budget">2000 - 3000 Sqft</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
-            <h2 class="text-center"> <a href="#budget">More than 3000 Sqft</a></h2>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-  </section>
-
-  <section class="working">
-
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-          <h1 class="text-center">
-            MY SUITABLE BUDGET IS
-
-          </h1>
-        </div>
-        <div id="budget" class="row my-5">
-          <div style="  border-radius: 30px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
-            <h2 class="text-center"> <a href="#contact_form">Upto 10 lakh</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id="upto20" onclick="budget(upto20)">
-            <h2 class="text-center"> <a href="#contact_form"> 10lakh - 20lakh</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id="upto30" onclick="budget(upto30)">
-            <h2 class="text-center"> <a href="#contact_form">20lakh - 30lakh</a></h2>
-          </div>
-
-        </div>
-        <div class="row ">
-          <div class="col-sm-3 mx-auto" id="upto40" onclick="budget(upto40)">
-            <h2 class="text-center"> <a href="#contact_form">30lakh - 40lakh</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id="upto50" onclick="budget(upto50)">
-            <h2 class="text-center"> <a href="#contact_form">40lakh - 50lakh</a></h2>
-          </div>
-          <div class="col-sm-3 mx-auto" id="more50" onclick="budget(more50)">
-            <h2 class="text-center"> <a href="#contact_form">More than 50lakh</a></h2>
-          </div>
-
-        </div>
-
-      </div>
-    </div>
-
-  </section>
+ 
 
 
 
@@ -201,40 +194,40 @@
 
 
       </div>
-      
-        
 
-     
+
+
+
     </div>
     <div class="row mb-60 bg-deep">
-          <div class="col-sm-12 col-md-4">
-            <div class="contact-info text-center pt-60 pb-60 border-right">
-              <i class="fa fa-phone font-36 mb-10 text-theme-colored"></i>
-              <h4>Call Us</h4>
-              <h5 class="text-black">Phone: <a class="text-decoration-none" href="tel:+919831037404"> +91 9831037404</a> , <a class="text-decoration-none" href="tel:+9103340002678"> 033 4000 2678</a> </h5>
+      <div class="col-sm-12 col-md-4">
+        <div class="contact-info text-center pt-60 pb-60 border-right">
+          <i class="fa fa-phone font-36 mb-10 text-theme-colored"></i>
+          <h4>Call Us</h4>
+          <h5 class="text-black">Phone: <a class="text-decoration-none" href="tel:+919831037404"> +91 9831037404</a> , <a class="text-decoration-none" href="tel:+9103340002678"> 033 4000 2678</a> </h5>
 
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4">
-            <div class="contact-info text-center  pt-60 pb-60 border-right">
-              <i class="fa fa-map-marker font-36 mb-10 text-theme-colored"></i>
-              <h4>(Head Office)</h4>
-              <h5 class="text-black">
-
-                GE-138, RAJDANGA MAIN ROAD, SECTOR G,
-                EAST KOLKATA TWP,<br> KOLKATA, WEST BENGAL 700107
-
-              </h5>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4">
-            <div class="contact-info text-center  pt-60 pb-60">
-              <i class="fas fa-envelope font-36 mb-10 text-theme-colored"></i>
-              <h4>Email Id</h4>
-              <h5 class="text-black"> <a class="text-decoration-none" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </h5>
-            </div>
-          </div>
         </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="contact-info text-center  pt-60 pb-60 border-right">
+          <i class="fa fa-map-marker font-36 mb-10 text-theme-colored"></i>
+          <h4>(Head Office)</h4>
+          <h5 class="text-black">
+
+            GE-138, RAJDANGA MAIN ROAD, SECTOR G,
+            EAST KOLKATA TWP,<br> KOLKATA, WEST BENGAL 700107
+
+          </h5>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <div class="contact-info text-center  pt-60 pb-60">
+          <i class="fas fa-envelope font-36 mb-10 text-theme-colored"></i>
+          <h4>Email Id</h4>
+          <h5 class="text-black"> <a class="text-decoration-none" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </h5>
+        </div>
+      </div>
+    </div>
   </section>
 
 
