@@ -769,6 +769,7 @@ nav {
         
         .img-fullwidth1 {
             height: 300px !important;
+            width: 100% !important;
         }
 
        .banner-nav{
