@@ -3,11 +3,20 @@ if($_POST['mail_click']=='clicked')
 {
     $email = $_POST['email'];
     $working = $_POST['working'];
-    $property = $_POST['property'];
+    $property = $_POST['area'];
     $budget = $_POST['budget'];
     $name = $_POST['name'];
     $phone = $_POST['phone'];
     $messages = $_POST['message'];
+
+    echo $email;
+    echo $working;
+    echo $property;
+    echo $budget;
+    echo $name;
+    echo $phone;
+    echo  $messages;
+
     try{
                 
                 

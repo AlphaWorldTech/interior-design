@@ -20,119 +20,139 @@
     </div>
   </section>
 
-  <!-- GET A QUOTE SECTION START -->
-  <section id="working" class="working my-5">
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-sm-12">
-          <h1 class="text-light text-center mb-5">
-            Inform Us Your <span > Requirments </span> 
-          </h1>
-        </div>
-        <div class="col-sm-4 work px-2 ">
-          <h3 class="text-center">
-            I NEED <span class="myspan2 py-2 px-2 rounded"> WORKING/ REWORKING</span>
-            ON MY
-          </h3>
-
-          <div class="row my-5 ">
-            <div id='Residence' class="col-sm-3 mx-auto" onclick="working_select(Residence)">
-              <h2 class="text-center"> <a href="#property">Residence</a> </h2>
-            </div>
-            <div id="Ofiice" class="col-sm-3 mx-auto" onclick="working_select(Ofiice)">
-              <h2 class="text-center"> <a href="#property">Office</a></h2>
-            </div>
-            <div style="border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id="Hotel" class="col-sm-3 mx-auto" onclick="working_select(Hotel)">
-              <h2 class="text-center"> <a href="#property">Hotel</a></h2>
-            </div>
-
-          </div>
-          <div class="row ">
-            <div class="col-sm-3 mx-auto" id='Showroom' onclick="working_select(Showroom)">
-              <h2 class="text-center"> <a href="#property">Showroom</a></h2>
-            </div>
-            <div class="col-sm-3 mx-auto" id='Restaurant' onclick="working_select(Restaurant)">
-              <h2 class="text-center"> <a href="#property">Restaurant</a></h2>
-            </div>
-            <div class="col-sm-3 mx-auto" id='Shop' onclick="working_select(Shop)">
-              <h2 class="text-center"> <a href="#property">Shop</a></h2>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="col-sm-4 work px-2">
-          <h3 class="text-center">
-            THE AREA OF <span class="myspan2 py-2 px-2 rounded"> MY PROPERTY</span> IS
-          </h3>
-
-          <div class="row my-5">
-            <div class="col-sm-3 mx-auto">
-              <h4 class="text-center py-3"><a href="#budget" id='upto500' onclick="property_area(x)">Upto 500 Sqft</a> </h4>
-            </div>
-            <div style="  border-radius: 30px; 
-             box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" id='upto500_1000' onclick="property_area(upto500_1000)" class="col-sm-3 mx-auto">
-              <h4 class="text-center  py-3"> <a href="#budget">500 - 1000 Sqft</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id='upto1000_1500' onclick="property_area(upto1000_1500)">
-              <h4 class="text-center  py-3"> <a href="#budget"> 1000 - 1500 Sqft</a></h4>
-            </div>
-
-          </div>
-          <div class="row ">
-            <div class="col-sm-3 mx-auto" id='upto1500_2000' onclick="property_area(upto1500_2000)">
-              <h4 class="text-center  py-3"> <a href="#budget">1500 - 2000 Sqft</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id='upto2000_300' onclick="property_area(upto2000_300)">
-              <h4 class="text-center  py-3"> <a href="#budget">2000 - 3000 Sqft</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id='more3000' onclick="property_area(more3000)">
-              <h5 class="text-center  py-3"> <a href="#budget" class="text-decoration-none">More than 3000 Sqft</a></h5>
-            </div>
+  <section id="pricing" class="working" data-bg-img="images/pattern/p4.png">
+    <div class="container-fluid ">
+      <div class="section-title text-center">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 ">Inform Us Your <span class="span myspan"> Requirments </span> </h1>
+        
+            <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Pan India </h4> -->
           </div>
         </div>
-        <div class="col-sm-4">
-          <h3 class="text-center">
-            MY SUITABLE <span class="myspan2 py-2 px-2 rounded"> BUDGET</span> IS
-
-          </h3>
-
-          <div id="budget" class="row my-5">
-            <div style="  border-radius: 30px;
-               box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;" class="col-sm-3 mx-auto" id="upto10" onclick="budget(upto10)">
-              <h4 class="text-center py-2"> <a href="#">Upto 10 lakh</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id="upto20" onclick="budget(upto20)">
-              <h4 class="text-center py-2"> <a href="#"> 10lakh - 20lakh</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id="upto30" onclick="budget(upto30)">
-              <h4 class="text-center py-2"> <a href="#">20lakh - 30lakh</a></h4>
-            </div>
-
-          </div>
-          <div class="row ">
-            <div class="col-sm-3 mx-auto" id="upto40" onclick="budget(upto40)">
-              <h4 class="text-center py-2"> <a href="#">30lakh - 40lakh</a></h4>
-            </div>
-            <div class="col-sm-3 mx-auto" id="upto50" onclick="budget(upto50)">
-              <h4 class="text-center py-2"> <a href="#">40lakh - 50lakh</a></h4>
-            </div>
-            <div class="col-sm-3 " id="more50" onclick="budget(more50)">
-              <h5 class="text-center py-2 "> <a href="#" class="text-decoration-none">More than 50lakh</a></h6>
-            </div>
-
-          </div>
-        </div>
-
       </div>
-    </div>
+      <div class="section-content">
+        <div class="row">
+        <div class="col-sm-2 reworking px-4">
+        <form id="contact_form" name="contact_form" class="" action="mail_send.php" method="post">
+        <h4 >
+            I NEED <span class="myspan py-2 px-2 rounded"> WORKING/ REWORKING</span>
+            ON MY
+          </h4>
 
+                <select required name="working" class="form-select" aria-label="Default select example">
+                  <option selected>WORKING/ REWORKING</option>
+                  <option value="Residence">Residence</option>
+                  <option value="Office">Office</option>
+                  <option value="Hotel">Hotel</option>
+                  <option value="Showroom">Showroom</option>
+                  <option value="Restaurant">Restaurant</option>
+                  <option value="Shop">Shop</option>
+                </select>
+              </div>
+          <div class="col-sm-2 area px-4 py-4">
+            <div class="row ">
+            <h4 >
+            THE AREA OF <span class="myspan  rounded"> MY PROPERTY</span> IS
+          </h4>
+              <div class="col-sm-12">
+                <select required name="area" class="form-select" aria-label="Default select example">
+                  <option selected>AREA</option>
+                  <option value="Upto 500 Sqft">Upto 500 Sqft</option>
+                  <option value="500 - 1000 Sqft">500 - 1000 Sqft</option>
+                  <option value="1000 - 1500 Sqft"> 1000 - 1500 Sqft</option>
+                  <option value="1500 - 2000 Sqft">1500 - 2000 Sqft</option>
+                  <option value="2000 - 3000 Sqft"> 2000 - 3000 Sqft</option>
+                  <option value="More than 3000 Sqft">More than 3000 Sqft</option>
+                </select>
+              </div>
+
+
+            </div>
+          </div>
+          <div class="col-sm-2 last reworking px-4 pb-2">
+          <h4 >
+            MY SUITABLE <br><span class="myspan  rounded"> BUDGET</span> IS
+
+          </h4>
+            <select required name="budget" class="form-select" aria-label="Default select example">
+              <option selected> BUDGET</option>
+              <option value="Upto 10 lakh" >Upto 10 lakh</option>
+              <option value="10lakh - 20lakh">10lakh - 20lakh</option>
+              <option value="20lakh - 30lakh">20lakh - 30lakh</option>
+              <option value="30lakh - 40lakh">30lakh - 40lakh</option>
+              <option value="40lakh - 50lakh">40lakh - 50lakh</option>
+              <option value="More than 50lakh">More than 50lakh</option>
+            </select>
+          </div>
+
+
+
+
+          <div class="col-sm-6">
+            <img class="ext-img" src="images/services/ext-design.jpg" alt="exterior-design">
+          </div>
+        </div>
+      </div>
+      <!-- <div class="section-content">
+        <div class="row">
+          <div data-aos="fade-right" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth2" alt="Office Design" src="images/about/about1.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Office Design</h3>
+                <p style="font-family: 'David Libre', serif; ">Need Cool and luxurious Office Interior Design – RG DZINE is the right choice for you. </p><br><br>
+
+
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="office-design.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="zoom-in-up" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth2" alt="Interior Design" src="images/about/about2.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="fw-bold mt-2 text-theme-colored">Interior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">Architects have a very important job, building structures that will fulfill people's needs while being structurally safe and sound. </p><br>
+
+
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="interior-designing.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="zoom-in-down" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth2" alt="Exterior Design" src="images/about/about3.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Exterior Design</h3>
+                <p style="font-family: 'David Libre', serif; ">RG DZINE is one among the best exterior designer in Kolkata. Exterior design provides a classy complement to the architecture of a dwelling, or space. </p> <br>
+
+
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="exterior-designing.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+          <div data-aos="fade-left" class="col-xs-12 col-sm-4 col-md-3 hvr-float-shadow mb-sm-30">
+            <div class="pricing-table style1 bg-white-light border-10px text-center">
+              <div class=" pb-30">
+                <img class="img-fullwidth2" alt="Modular Kitchen" src="images/about/about4.jpg">
+                <h3 style="font-family: 'David Libre', serif; " class="mt-2 fw-bold text-theme-colored">Modular Kitchen</h3>
+                <p style="font-family: 'David Libre', serif; ">RG DZINE ’s experienced & proficient kitchen interior designers want to create a healthy design and delightful kitchen for your loved ones in Kolkata, or in any other places. </p>
+
+
+                <a class="btn btn-colored btn-default btn-theme-colored text-uppercase" href="modular-kitchen.php">Read More</a><br>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div> -->
+    </div>
   </section>
 
 
 
- 
+
 
 
 
@@ -154,7 +174,7 @@
         <h3 class="mt-0 mb-30">Interested in discussing?</h3>
 
         <!-- Contact Form -->
-        <form id="contact_form" name="contact_form" class="" action="mail_send.php" method="post">
+        
           <div class="row">
             <div class="col-sm-12">
               <div class="form-group">
@@ -240,73 +260,73 @@
 <?php include "footer.php"; ?>
 
 <script>
-  function working_select(data) {
+  // function working_select(data) {
 
-    document.getElementById('working').value = data.innerText;
-    document.getElementById('Residence').style = "";
-    document.getElementById('Ofiice').style = "";
-    document.getElementById('Hotel').style = "";
-    document.getElementById('Showroom').style = "";
-    document.getElementById('Restaurant').style = "";
-    document.getElementById('Shop').style = "";
+  //   document.getElementById('working').value = data.innerText;
+  //   document.getElementById('Residence').style = "";
+  //   document.getElementById('Ofiice').style = "";
+  //   document.getElementById('Hotel').style = "";
+  //   document.getElementById('Showroom').style = "";
+  //   document.getElementById('Restaurant').style = "";
+  //   document.getElementById('Shop').style = "";
 
-    document.getElementById(data.innerText).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
+  //   document.getElementById(data.innerText).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
 
-  }
+  // }
 
-  function property_area(data) {
-    document.getElementById('property').value = data.innerText;
-    document.getElementById('upto500').style = "";
-    document.getElementById('upto500_1000').style = "";
-    document.getElementById('upto1000_1500').style = "";
-    document.getElementById('upto1500_2000').style = "";
-    document.getElementById('upto2000_300').style = "";
-    document.getElementById('more3000').style = "";
+  // function property_area(data) {
+  //   document.getElementById('property').value = data.innerText;
+  //   document.getElementById('upto500').style = "";
+  //   document.getElementById('upto500_1000').style = "";
+  //   document.getElementById('upto1000_1500').style = "";
+  //   document.getElementById('upto1500_2000').style = "";
+  //   document.getElementById('upto2000_300').style = "";
+  //   document.getElementById('more3000').style = "";
 
-    document.getElementById(data.id).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
-
-
-  }
-
-  function budget(data) {
-    document.getElementById('budget').value = data.innerText;
-    document.getElementById('upto10').style = "";
-    document.getElementById('upto50').style = "";
-    document.getElementById('upto20').style = "";
-    document.getElementById('upto30').style = "";
-    document.getElementById('upto40').style = "";
-    document.getElementById('more50').style = "";
-
-    document.getElementById(data.id).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
+  //   document.getElementById(data.id).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
 
 
-  }
+  // }
+
+  // function budget(data) {
+  //   document.getElementById('budget').value = data.innerText;
+  //   document.getElementById('upto10').style = "";
+  //   document.getElementById('upto50').style = "";
+  //   document.getElementById('upto20').style = "";
+  //   document.getElementById('upto30').style = "";
+  //   document.getElementById('upto40').style = "";
+  //   document.getElementById('more50').style = "";
+
+  //   document.getElementById(data.id).style = "border-radius: 30px;box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;";
 
 
-  function showlogo() {
-    document.querySelector(".menuzord-menu").style.marginTop = -100 +
-      "px";
-
-    var mq = window.matchMedia("(max-width: 570px)");
-    if (mq.matches) {
-      document.querySelector(".pot1").style.display = "block";
-      document.querySelector(".pot2").style.display = "none";
-    } else {
-      // window width is greater than 570px
-      if (scrollY > 64) {
-        // alert("hello");
-        document.querySelector(".pot1").style.display = "block";
-        document.querySelector(".pot2").style.display = "none";
-
-      } else {
-        document.querySelector(".pot1").style.display = "none";
-        document.querySelector(".pot2").style.display = "block";
+  // }
 
 
-      }
-    }
+  // function showlogo() {
+  //   document.querySelector(".menuzord-menu").style.marginTop = -100 +
+  //     "px";
 
-  }
+  //   var mq = window.matchMedia("(max-width: 570px)");
+  //   if (mq.matches) {
+  //     document.querySelector(".pot1").style.display = "block";
+  //     document.querySelector(".pot2").style.display = "none";
+  //   } else {
+  //     // window width is greater than 570px
+  //     if (scrollY > 64) {
+  //       // alert("hello");
+  //       document.querySelector(".pot1").style.display = "block";
+  //       document.querySelector(".pot2").style.display = "none";
+
+  //     } else {
+  //       document.querySelector(".pot1").style.display = "none";
+  //       document.querySelector(".pot2").style.display = "block";
+
+
+  //     }
+  //   }
+
+  // }
 
   setInterval(showlogo, 100);
 </script>
