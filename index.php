@@ -959,10 +959,17 @@
       document.querySelector(".bookc").style.display = "flex";
 
 
-    } else {
+    }
+    else {
+      document.querySelector(".my-social-media").style.display = "none";
+      document.querySelector(".bookc").style.display = "flex";
+
+
+    }
+    if(document.body.scrollTop > 5500 || document.documentElement.scrollTop > 5500) 
+    {
       document.querySelector(".my-social-media").style.display = "none";
       document.querySelector(".bookc").style.display = "none";
-
 
     }
   }

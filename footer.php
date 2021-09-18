@@ -45,7 +45,7 @@ Our aim is to provide our clients with a personalized and customized design that
             <p class="font-14 mt-15 mb-10 text-white"> Head Office : GE-138, RAJDANGA MAIN ROAD, SECTOR G,
 EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
 			
-			 <p class="font-14 mt-15 mb-10 text-white"> Phone <a class="text-decoration-none" href="tel:+919155532679">+91 9155532679</a> </p>
+			 <p class="font-14 mt-15 mb-10 text-white"> Phone <a class="text-decoration-none" href="tel:+919831037404">+91 9831037404 </a> </p>
        <p class="font-14 mt-15 mb-10 text-white">Email: <a class="text-decoration-none" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@rgdzine.com"> info@rgdzine.com</a> </p>
 			 <ul class="social-icons icon-dark mt-20">
               <li><a target="_blank" href="https://www.facebook.com/RgDzine" data-bg-color="#4267B2"><i class="fab fa-facebook-f"></i></a></li>
@@ -63,8 +63,8 @@ EAST KOLKATA TWP, KOLKATA, WEST BENGAL 700107 </p>
         <div class="row">
           <div class="col-md-12">
             <p class="text-center my-3 text-light">
-            2021 - 2022 © Design & Developed by <a style="color: orangered; text-decoration:none;" href="https://www.alphaworldtech.com">AlphaWorldTech Pvt. Ltd.</a> 
-            <span class="float-end mx-5 text-dark">Powered By <a  style="color: whitesmoke; text-decoration:none;" href="">AWT TEAM</a></span>
+            Copyright © 2021-2022 | <a style="color: orangered; text-decoration:none;" href="#">rgdzine.com</a> All Rights Reserved.
+            <!-- <span class="float-end mx-5 text-dark">Powered By <a  style="color: whitesmoke; text-decoration:none;" href="">AWT TEAM</a></span> -->
             </p>
           </div>
         </div>

@@ -300,7 +300,7 @@ nav {
 } */
         /* logo animation end  */
         /* get a quote section  */
-        .working{
+        /* .working{
             background-color: #36454f;
         }
         .working .col-sm-12 span{
@@ -342,7 +342,7 @@ nav {
             transition: 1s;
             border-radius: 30px;
             box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-        }
+        } */
         /* get a quote section end  */
         /* social media footer  */
         
@@ -417,6 +417,52 @@ nav {
             color: darkblue;
             font-weight: bolder;
         }
+
+    /* contact us page  */
+
+        .working {
+            background-image: url("../images/bg/contact.png") !important;
+           
+            background-repeat: no-repeat;
+            background-position: center center;
+            position: relative;
+            background-size: cover;
+        }
+
+        
+        .working:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            opacity: 0.9;
+            background: rgba(9, 13, 252, 0.2);
+        }
+        
+        .working {
+            position: relative;
+            z-index: 10000;
+        }
+
+        .myspan{
+            color: darkblue;
+            font-weight: bolder;
+        }
+        .working .span{
+            border-bottom: 3px solid red;
+        }
+        .working .ext-img{
+            border: 3px solid !important;
+        }
+        .reworking{
+            margin-top: 100px;
+        }
+        .area{
+            margin-top: 300px;
+        }
+
 
 
 
@@ -565,6 +611,12 @@ nav {
                 display: block;
                 margin-top: -35% !important;
             
+            }
+            .reworking{
+                margin-top:20px;
+            }
+            .area{
+                margin-top: 20px;
             }
           
         }
