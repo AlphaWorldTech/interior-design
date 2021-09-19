@@ -26,7 +26,7 @@
       <div class="section-title text-center">
         <div class="row">
           <div class="col-md-8 col-md-offset-2">
-            <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 ">Inform Us Your <span class="span myspan"> Requirments </span> </h1>
+            <!-- <h1 style="font-family: 'David Libre', serif; " class="fw-bold text-uppercase mt-0 ">Inform Us Your <span class="span myspan"> Requirments </span> </h1> -->
         
             <!-- <h4 style="font-family: 'David Libre', serif; font-weight:400;" class="text-black"> We are best Interior, Exterior design service provider in Pan India </h4> -->
           </div>
@@ -92,6 +92,9 @@
 
           <div class="col-sm-6">
             <img class="ext-img" src="images/services/ext-design.jpg" alt="exterior-design">
+            <h5 class="myspan text-center my-2">
+              Think No More! Begin your space interiors journey with RG DZINE.
+</h5>
           </div>
         </div>
       </div>
@@ -303,30 +306,30 @@
   // }
 
 
-  // function showlogo() {
-  //   document.querySelector(".menuzord-menu").style.marginTop = -100 +
-  //     "px";
+  function showlogo() {
+    document.querySelector(".menuzord-menu").style.marginTop = -100 +
+      "px";
 
-  //   var mq = window.matchMedia("(max-width: 570px)");
-  //   if (mq.matches) {
-  //     document.querySelector(".pot1").style.display = "block";
-  //     document.querySelector(".pot2").style.display = "none";
-  //   } else {
-  //     // window width is greater than 570px
-  //     if (scrollY > 64) {
-  //       // alert("hello");
-  //       document.querySelector(".pot1").style.display = "block";
-  //       document.querySelector(".pot2").style.display = "none";
+    var mq = window.matchMedia("(max-width: 570px)");
+    if (mq.matches) {
+      document.querySelector(".pot1").style.display = "block";
+      document.querySelector(".pot2").style.display = "none";
+    } else {
+      // window width is greater than 570px
+      if (scrollY > 64) {
+        // alert("hello");
+        document.querySelector(".pot1").style.display = "block";
+        document.querySelector(".pot2").style.display = "none";
 
-  //     } else {
-  //       document.querySelector(".pot1").style.display = "none";
-  //       document.querySelector(".pot2").style.display = "block";
+      } else {
+        document.querySelector(".pot1").style.display = "none";
+        document.querySelector(".pot2").style.display = "block";
 
 
-  //     }
-  //   }
+      }
+    }
 
-  // }
+  }
 
   setInterval(showlogo, 100);
 </script>

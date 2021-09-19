@@ -438,7 +438,7 @@ nav {
             left: 0;
             bottom: 0;
             opacity: 0.9;
-            background: rgba(9, 13, 252, 0.2);
+            /* background: rgba(255, 255, 255, 0.2); */
         }
         
         .working {
@@ -461,6 +461,9 @@ nav {
         }
         .area{
             margin-top: 300px;
+        }
+        .section-content{
+            margin-top: -20px;
         }
 
 
