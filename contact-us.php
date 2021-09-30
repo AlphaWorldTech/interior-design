@@ -171,12 +171,13 @@
                 </div>
                 </form>
 
-                <div>
-                  <img class="img-fluid step2-img py-2 " src="images/logo.png" alt="logo">
+                <div  style="border: 2px solid darkgoldenrod;">
+                  <!-- <img class="img-fluid step2-img py-2 " src="images/logo.png" alt="logo"> -->
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14743.302551667077!2d88.3988927!3d22.5107242!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf384144785c3f9de!2sRG%20DZINE!5e0!3m2!1sen!2sin!4v1633007128244!5m2!1sen!2sin" width="200" height="300" allowfullscreen="" loading="lazy"></iframe>
 
 
                 </div>
-                <div class="step2-div mt-4">
+                <!-- <div class="step2-div mt-4">
 
                   <a target="_blank" href="https://www.facebook.com/RgDzine">
                     <i style="margin-left:4px;" class="fab fa-facebook-f h1 bg-dark step2-icon text-light px-3"></i>
@@ -190,7 +191,7 @@
 
                   </span>
 
-                </div>
+                </div> -->
 
 
 
