@@ -427,6 +427,7 @@ nav {
             background-position: center center;
             position: relative;
             background-size: cover;
+            
         }
 
         
@@ -457,13 +458,17 @@ nav {
             border: 3px solid !important;
         }
         .reworking{
-            margin-top: 100px;
+            margin-top: 10px;
         }
         .area{
             margin-top: 300px;
         }
         .section-content{
             margin-top: -20px;
+        }
+        .cover2{
+            height: 800px !important;
+            width: 600px !important;
         }
 
 
@@ -621,6 +626,10 @@ nav {
             .area{
                 margin-top: 20px;
             }
+            .cover2{
+                height: 400px !important;
+                /* width: 600px !important; */
+            }
           
         }
         
@@ -690,6 +699,10 @@ nav {
                 display: block;
                 margin-top: -35% !important;
             
+            }
+            .cover2{
+                height: 400px !important;
+                /* width: 600px !important; */
             }
             
         }
@@ -924,4 +937,6 @@ nav {
     margin-top: 100px !important;
   }
 
- 
+ .btn-about{
+     background-color: darkgoldenrod !important;
+ }

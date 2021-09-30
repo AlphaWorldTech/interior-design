@@ -2,8 +2,13 @@
 if($_POST['mail_click']=='clicked')
 {
     $email = $_POST['email'];
+
+    $work = $_POST['work'];
+
+
     $working = $_POST['working'];
     $property = $_POST['area'];
+
     $budget = $_POST['budget'];
     $name = $_POST['name'];
     $phone = $_POST['phone'];
@@ -32,6 +37,7 @@ if($_POST['mail_click']=='clicked')
             here is your detals..
             Name : {$name}
             Phone : {$phone}
+            New Work/ Rennovation : {$work}
             Working / Reworking : {$working}
             Property Area : {$property}
             Budget : {$budget}
@@ -67,6 +73,8 @@ if($_POST['mail_click']=='clicked')
         catch(Exception $e){
          echo 'Message: ' .$e->getMessage();
             $message= "nosuccesss";
+            header("location: /contact-us.php?message={$message}");
+
        }
 }
 

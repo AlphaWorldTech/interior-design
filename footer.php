@@ -8,7 +8,7 @@
             <p class="font-14 mt-15 mb-10 text-white"> Our principles are Creativity, originality, consideration and enthusiasm.<br><br>
 
 Our aim is to provide our clients with a personalized and customized design that goes beyond their imagination. </p>
-            <a class="btn btn-default btn-transparent btn-xs btn-flat mt-5" href="about-us.php">Read more</a>
+            <a class="btn btn-default btn-transparent btn-xs btn-flat mt-5 btn-about"  href="about-us.php">Read more</a>
           </div>
          
         </div>
