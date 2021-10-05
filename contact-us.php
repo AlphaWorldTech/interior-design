@@ -211,7 +211,7 @@
 
 
           <div class="col-sm-6">
-            <img class="cover2  " src="images/services/cover2.jpeg" alt="exterior-design">
+            <img class="cover2  " src="images/services/cover2.jpg" alt="exterior-design">
 
           </div>
         </div>

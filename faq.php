@@ -58,8 +58,8 @@
                 <p class="text-center">• Henry Ford</p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/shilpa.halder.338" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 iconteam mx-auto">
+                      <a href="#" class="btn btn-primary first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/shilpa.halder.338" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                     <!-- </div> -->
@@ -90,8 +90,8 @@
                   Best interior designing firm in Kolkata). </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/rajes-gupta-94691375/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/rajesh.gupta.7121" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 iconteam mx-auto">
+                      <a href="https://www.linkedin.com/in/rajes-gupta-94691375/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/rajesh.gupta.7121" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -120,8 +120,8 @@
                 <p class="card-text"> Identify upsell, cross-sell, and renewal opportunities and communicate with the team and clients regularly. Handle sensitive information in a confidential manner. Manage Company’s financial statements. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/suvankar-roy-874434220/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/suvankarb1" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/suvankar-roy-874434220/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/suvankarb1" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -152,8 +152,8 @@
                 </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/debendra-roy-5a8862166/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/debendra.roy.79" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/debendra-roy-5a8862166/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/debendra.roy.79" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -185,8 +185,8 @@
                   Designing. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/animesh-paul-b679a771/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/animesh.paul.50702" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/animesh-paul-b679a771/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/animesh.paul.50702" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -217,8 +217,8 @@
                   3D Designer of RG DZINE. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/pulakesh-halder-2570101b6/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/pulakesh.halder.7" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/pulakesh-halder-2570101b6/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/pulakesh.halder.7" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -250,8 +250,8 @@
                   V-ray, & Lumion. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/arindam-basak-225a48205/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/arindam.basak.397" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/arindam-basak-225a48205/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/arindam.basak.397" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -280,8 +280,8 @@
                 <p class="card-text"> 5+ years of experience in 2D Interior Designing field. Senior 2D designer of RG DZINE. Have good knowledge in Sketch up & V-ray. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/jharna-roy-b87432220/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/jharna.roy.161" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/jharna-roy-b87432220/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/jharna.roy.161" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -310,8 +310,8 @@
                 <p class="card-text"> Maintain the stock levels for office and break room supplies and submit purchase requests to management when necessary. Strong sense of discretion and professionalism. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="#" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="#" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="#" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
@@ -343,8 +343,8 @@
                   Of RG DZINE. </p>
                 <div class="profile py-2">
                   <div class="row">
-                    <div class="col-sm-6 mx-auto">
-                      <a href="https://www.linkedin.com/in/rahul-kumar-singh-5b3369179/" class="btn btn-primary mx-2"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/profile.php?id=100007340852648" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
+                    <div class="col-sm-6 mx-auto iconteam">
+                      <a href="https://www.linkedin.com/in/rahul-kumar-singh-5b3369179/" class="btn btn-primary mx-2 first"><i style="background-color: #0072b1 ;" class="fab fa-linkedin-in "></i></a> <span class=" "> <a href="https://www.facebook.com/profile.php?id=100007340852648" class="btn btn-primary "><i class="fab fa-facebook-square"></i></a></span>
 
                     </div>
                   </div>
